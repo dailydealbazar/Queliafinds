@@ -20899,6 +20899,107 @@ const PRODUCTS = [
     added: 826,
     popular: false
   }
+,
+  {
+    id: "coospo-hw9-armband-heart-rate-monitor",
+    name: "COOSPO HW9 Armband Heart Rate Monitor with HR Zones/Calories HRM Sensor for Fitness Cycling BLE5.0 ANT+ for Peloton,Zwift,Wahoo",
+    short: "COOSPO HW9 Armband Heart Rate Monitor",
+    price: 28.74,
+    oldPrice: 34.81,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3COPPIL",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/coospo-hw9-armband-heart-rate-monitor/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/coospo-hw9-armband-heart-rate-monitor/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/coospo-hw9-armband-heart-rate-monitor/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/coospo-hw9-armband-heart-rate-monitor/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/coospo-hw9-armband-heart-rate-monitor/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/coospo-hw9-armband-heart-rate-monitor/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/coospo-hw9-armband-heart-rate-monitor/ad-photo.png",
+    desc: "COOSPO HW9 armband heart rate monitor — HR zones and calories, HRM sensor for fitness and cycling, BLE 5.0 and ANT+, for Peloton, Zwift and Wahoo.",
+    specs: [["Type", "COOSPO HW9 armband heart rate monitor, HR zones/calories, HRM sensor (per listing title)"], ["Features", "BLE 5.0, ANT+, for Peloton, Zwift, Wahoo (per listing title)"], ["Power", "Lithium-ion rechargeable, 35-hour battery life, USB charging cable included (per listing)"]],
+    added: 827,
+    popular: false
+  },
+  {
+    id: "nyxi-hyperion-3-wireless-joypad-switch-2",
+    name: "NYXI Hyperion 3 Wireless JoyPad for Switch 2",
+    short: "NYXI Hyperion 3 Wireless JoyPad for Switch 2",
+    price: 84.74,
+    oldPrice: 90.85,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c30MkbRV",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nyxi-hyperion-3-wireless-joypad-switch-2/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nyxi-hyperion-3-wireless-joypad-switch-2/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nyxi-hyperion-3-wireless-joypad-switch-2/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nyxi-hyperion-3-wireless-joypad-switch-2/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nyxi-hyperion-3-wireless-joypad-switch-2/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nyxi-hyperion-3-wireless-joypad-switch-2/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nyxi-hyperion-3-wireless-joypad-switch-2/ad-photo.png",
+    desc: "NYXI Hyperion 3 wireless JoyPad for Switch 2 — rechargeable wireless controller with 600 mAh battery.",
+    specs: [["Type", "NYXI Hyperion 3 wireless JoyPad for Switch 2 (per listing title)"], ["Features", "9 RGB lighting modes, Instant Turbo, One-Tap Wake & Reconnect, Dual Macro (per listing photos)"], ["Power", "600 mAh battery, rechargeable (per listing photo 3)"]],
+    added: 828,
+    popular: false
+  },
+  {
+    id: "mijia-car-vacuum-cleaner-21kpa",
+    name: "MIJIA Car Vacuum Cleaner, 21kPa Suction, Type-C Charging, 5-Stage Filtration, 2400mAh, Wireless Vacuum Cleaners for Home, Washable",
+    short: "MIJIA Car Vacuum Cleaner 21kPa",
+    price: 79.23,
+    oldPrice: 91.56,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3Ho3fh1",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mijia-car-vacuum-cleaner-21kpa/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mijia-car-vacuum-cleaner-21kpa/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mijia-car-vacuum-cleaner-21kpa/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mijia-car-vacuum-cleaner-21kpa/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mijia-car-vacuum-cleaner-21kpa/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mijia-car-vacuum-cleaner-21kpa/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mijia-car-vacuum-cleaner-21kpa/ad-photo.png",
+    desc: "MIJIA car vacuum cleaner — 21kPa suction, Type-C charging, 5-stage filtration, 2400mAh battery, wireless vacuum cleaner for home, washable.",
+    specs: [["Type", "MIJIA car vacuum cleaner, 21kPa suction, wireless, washable (per listing title)"], ["Features", "5-stage filtration, Type-C fast charging, brushless motor (per listing photos)"], ["Power", "Rechargeable 2400mAh battery, Type-C charging (per listing)"]],
+    added: 829,
+    popular: false
+  },
+  {
+    id: "north-edge-apache-46-digital-watch",
+    name: "NORTH EDGE APACHE-46 Men Digital Watch Outdoor Sports Running Swimming Outdoor Sport Watches Altimeter Barometer Compass WR50M",
+    short: "NORTH EDGE APACHE-46 Men Digital Watch",
+    price: 44.84,
+    oldPrice: 48.67,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3wghuLh",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/north-edge-apache-46-digital-watch/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/north-edge-apache-46-digital-watch/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/north-edge-apache-46-digital-watch/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/north-edge-apache-46-digital-watch/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/north-edge-apache-46-digital-watch/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/north-edge-apache-46-digital-watch/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/north-edge-apache-46-digital-watch/ad-photo.png",
+    desc: "NORTH EDGE APACHE-46 men digital watch — outdoor sports watch for running and swimming, altimeter, barometer, compass, WR50M.",
+    specs: [["Type", "NORTH EDGE APACHE-46 men digital watch, outdoor sports watch (per listing title)"], ["Features", "Altimeter, barometer, compass, WR50M, backlight (per listing title)"], ["Power", "Battery-powered, battery included (per listing)"]],
+    added: 830,
+    popular: false
+  }
 
 ];
 
