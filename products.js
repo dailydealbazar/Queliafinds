@@ -20798,6 +20798,107 @@ const PRODUCTS = [
     added: 822,
     popular: false
   }
+,
+  {
+    id: "horaco-5-port-2-5gbe-ethernet-switch",
+    name: "5 Port 2.5GbE Ethernet Switch Unmanaged 2.5Gbps Network Switch 1 Port 10Gb SFP+ Slot Home Lab Setup Switch Plug and Play",
+    short: "HORACO 5 Port 2.5GbE Ethernet Switch",
+    price: 26.32,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3Dbcqpl",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/horaco-5-port-2-5gbe-ethernet-switch/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/horaco-5-port-2-5gbe-ethernet-switch/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/horaco-5-port-2-5gbe-ethernet-switch/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/horaco-5-port-2-5gbe-ethernet-switch/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/horaco-5-port-2-5gbe-ethernet-switch/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/horaco-5-port-2-5gbe-ethernet-switch/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/horaco-5-port-2-5gbe-ethernet-switch/ad-photo.png",
+    desc: "HORACO 5 port 2.5GbE Ethernet switch — unmanaged 2.5Gbps network switch with 1 port 10Gb SFP+ slot, home lab setup, plug and play.",
+    specs: [["Type", "5 port 2.5GbE Ethernet switch, unmanaged 2.5Gbps network switch, 1 port 10Gb SFP+ slot (per listing title)"], ["Features", "Home lab setup, plug and play (per listing title)"], ["Power", "Mains-powered, DC 12V 1A; AU adapter variant available (per listing)"]],
+    added: 823,
+    popular: false
+  },
+  {
+    id: "handheld-microscope-kids-1000x",
+    name: "1000X Handheld Microscope for Kids 2.0\" Screen Rechargeable Mini Pocket Digital Microscopes Portable Edu Gift Children Students",
+    short: "1000X Handheld Microscope for Kids",
+    price: 20.70,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3ZCljVZ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/handheld-microscope-kids-1000x/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/handheld-microscope-kids-1000x/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/handheld-microscope-kids-1000x/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/handheld-microscope-kids-1000x/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/handheld-microscope-kids-1000x/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/handheld-microscope-kids-1000x/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/handheld-microscope-kids-1000x/ad-photo.png",
+    desc: "1000X handheld microscope for kids — 2.0 inch screen, rechargeable mini pocket digital microscope, portable edu gift for children and students.",
+    specs: [["Type", "1000X handheld microscope for kids, 2.0 inch screen, rechargeable mini pocket digital microscope (per listing title)"], ["Features", "Portable edu gift for children and students (per listing title)"], ["Power", "Built-in 600mAh rechargeable battery, USB, supports PC connection (per listing)"]],
+    added: 824,
+    popular: false
+  },
+  {
+    id: "video-baby-monitor-5-inch-sm50",
+    name: "New 5 Inch Video Baby Monitor with Camera and Audio, 4X Zoom, 22Hrs Battery, 1000ft Range 2-Way Temperature Sensor Lullaby (model SM50)",
+    short: "5 Inch Video Baby Monitor SM50",
+    price: 70.95,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3ofjgp9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/video-baby-monitor-5-inch-sm50/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/video-baby-monitor-5-inch-sm50/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/video-baby-monitor-5-inch-sm50/photo-3.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/video-baby-monitor-5-inch-sm50/photo-4.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/video-baby-monitor-5-inch-sm50/photo-5.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/video-baby-monitor-5-inch-sm50/photo-6.png"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/video-baby-monitor-5-inch-sm50/ad-photo.png",
+    desc: "5 inch video baby monitor with camera and audio — 4X zoom, 22h battery, 1000ft range, 2-way audio, temperature sensor, lullaby (model SM50).",
+    specs: [["Type", "New 5 inch video baby monitor with camera and audio, 4X zoom, model SM50 (per listing title)"], ["Features", "22h battery, 1000ft range, 2-way audio, temperature sensor, lullaby (per listing title)"], ["Power", "5200mAh rechargeable battery, up to 22h; mains adapter with AU-plug variant available (per listing)"]],
+    added: 825,
+    popular: false
+  },
+  {
+    id: "coospo-h808s-heart-rate-sensor",
+    name: "COOSPO H808S Heart Rate Sensor Chest Strap HRM Monitor ANT+ Bluetooth With IP67 for Peloton Zwift DDP Yoga Wahoo Polar Beat",
+    short: "COOSPO H808S Heart Rate Sensor",
+    price: 18.88,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c2zd815D",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/coospo-h808s-heart-rate-sensor/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/coospo-h808s-heart-rate-sensor/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/coospo-h808s-heart-rate-sensor/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/coospo-h808s-heart-rate-sensor/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/coospo-h808s-heart-rate-sensor/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/coospo-h808s-heart-rate-sensor/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/coospo-h808s-heart-rate-sensor/ad-photo.png",
+    desc: "COOSPO H808S heart rate sensor chest strap — HRM monitor with ANT+ and Bluetooth, IP67, for Peloton, Zwift, DDP Yoga, Wahoo and Polar Beat.",
+    specs: [["Type", "COOSPO H808S heart rate sensor chest strap, HRM monitor, ANT+ Bluetooth, IP67 (per listing title)"], ["Features", "For Peloton, Zwift, DDP Yoga, Wahoo, Polar Beat (per listing title)"], ["Power", "Battery-powered wireless sensor, replaceable coin-cell battery, no mains plug (per listing)"]],
+    added: 826,
+    popular: false
+  }
 
 ];
 
