@@ -20697,6 +20697,107 @@ const PRODUCTS = [
     added: 818,
     popular: false
   }
+,
+  {
+    id: "topump-tb2-pro-mini-portable-electric-pump",
+    name: "TOPUMP TB2 PRO Mini Portable Electric Pump for Bike Cordless Tire Inflator 120PSI Max 450mAh Battery with Screen Fast Charging",
+    short: "TOPUMP TB2 PRO Mini Portable Electric Pump",
+    price: 38.53,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4eHo6dH",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/topump-tb2-pro-mini-portable-electric-pump/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/topump-tb2-pro-mini-portable-electric-pump/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/topump-tb2-pro-mini-portable-electric-pump/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/topump-tb2-pro-mini-portable-electric-pump/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/topump-tb2-pro-mini-portable-electric-pump/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/topump-tb2-pro-mini-portable-electric-pump/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/topump-tb2-pro-mini-portable-electric-pump/ad-photo.png",
+    desc: "TOPUMP TB2 PRO mini portable electric pump — cordless tire inflator, 120PSI max, 450mAh battery with screen, fast charging.",
+    specs: [["Type", "TOPUMP TB2 PRO mini portable electric pump for bike, cordless tire inflator (per listing title)"], ["Features", "120PSI max, 450mAh battery with screen, fast charging (per listing title)"], ["Power", "USB-C rechargeable, 450mAh battery (per listing)"]],
+    added: 819,
+    popular: false
+  },
+  {
+    id: "atk-vxe-dragonfly-r1-gaming-mouse",
+    name: "ATK VXE Dragonfly R1 Mouse of The Game E-Sports Long Battery Life Paw3395 Lightweight Ergonomic Three-Mode Bluetooth Mouse",
+    short: "ATK VXE Dragonfly R1 Gaming Mouse",
+    price: 19.10,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3TFDvDD",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/atk-vxe-dragonfly-r1-gaming-mouse/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/atk-vxe-dragonfly-r1-gaming-mouse/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/atk-vxe-dragonfly-r1-gaming-mouse/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/atk-vxe-dragonfly-r1-gaming-mouse/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/atk-vxe-dragonfly-r1-gaming-mouse/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/atk-vxe-dragonfly-r1-gaming-mouse/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/atk-vxe-dragonfly-r1-gaming-mouse/ad-photo.png",
+    desc: "ATK VXE Dragonfly R1 gaming mouse — e-sports mouse, long battery life, Paw3395 sensor, lightweight ergonomic three-mode Bluetooth.",
+    specs: [["Type", "ATK VXE Dragonfly R1 mouse of the game, e-sports, long battery life (per listing title)"], ["Features", "Paw3395 sensor, lightweight ergonomic three-mode Bluetooth mouse (per listing title)"], ["Power", "Rechargeable, USB-C / 2.4GHz / Bluetooth / wired (per listing)"]],
+    added: 820,
+    popular: false
+  },
+  {
+    id: "icy-dbs-blyth-doll-1-6-bjd",
+    name: "ICY DBS blyth doll 1/6 bjd toy joint body white skin shiny & matte face 30cm on sale special price toy gift anime doll",
+    short: "ICY DBS Blyth Doll 1/6 BJD",
+    price: 22.82,
+    oldPrice: 27.05,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c40BaYXh",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/icy-dbs-blyth-doll-1-6-bjd/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/icy-dbs-blyth-doll-1-6-bjd/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/icy-dbs-blyth-doll-1-6-bjd/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/icy-dbs-blyth-doll-1-6-bjd/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/icy-dbs-blyth-doll-1-6-bjd/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/icy-dbs-blyth-doll-1-6-bjd/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/icy-dbs-blyth-doll-1-6-bjd/ad-photo.png",
+    desc: "ICY DBS Blyth doll 1/6 BJD — joint body, white skin, shiny and matte face, 30cm anime doll, toy gift.",
+    specs: [["Type", "ICY DBS blyth doll 1/6 bjd toy, joint body, white skin, shiny & matte face, 30cm (per listing title)"], ["Features", "On sale special price toy gift anime doll (per listing title)"], ["Power", "Non-electric (per listing)"]],
+    added: 821,
+    popular: false
+  },
+  {
+    id: "raspberry-pi-7-inch-touchscreen-monitor",
+    name: "7 Inch Raspberry Pi 4/3/2/B/B+/A+ Monitor 1024x600 IPS 5-Points Capacitive Touchscreen Drive Free HDMI Display For Win 7/8/10",
+    short: "Raspberry Pi 7 Inch Touchscreen Monitor",
+    price: 21.09,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4qRmWyb",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/raspberry-pi-7-inch-touchscreen-monitor/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/raspberry-pi-7-inch-touchscreen-monitor/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/raspberry-pi-7-inch-touchscreen-monitor/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/raspberry-pi-7-inch-touchscreen-monitor/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/raspberry-pi-7-inch-touchscreen-monitor/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/raspberry-pi-7-inch-touchscreen-monitor/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/raspberry-pi-7-inch-touchscreen-monitor/ad-photo.png",
+    desc: "7 inch Raspberry Pi monitor — 1024x600 IPS, 5-point capacitive touchscreen, drive-free HDMI display for Win 7/8/10.",
+    specs: [["Type", "7 inch Raspberry Pi 4/3/2/B/B+/A+ monitor, 1024x600 IPS, 5-point capacitive touchscreen (per listing title)"], ["Features", "Drive free HDMI display for Win 7/8/10 (per listing title)"], ["Power", "USB/HDMI powered, drive-free (per listing)"]],
+    added: 822,
+    popular: false
+  }
 
 ];
 
