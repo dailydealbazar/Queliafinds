@@ -21000,6 +21000,106 @@ const PRODUCTS = [
     added: 830,
     popular: false
   }
+,
+  {
+    id: "sofirn-se1-pocket-flashlight-300lm",
+    name: "SOFIRN SE1 Pocket Flashlight, 300Lm, Mini EDC Light, RGB Signal Ring, Quick Release, Magnetic Keychain/Wrist Flashlight, for Cycling",
+    short: "SOFIRN SE1 Pocket Flashlight 300Lm",
+    price: 22.37,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3vAabW3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-se1-pocket-flashlight-300lm/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-se1-pocket-flashlight-300lm/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-se1-pocket-flashlight-300lm/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-se1-pocket-flashlight-300lm/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-se1-pocket-flashlight-300lm/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-se1-pocket-flashlight-300lm/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-se1-pocket-flashlight-300lm/ad-photo.png",
+    desc: "SOFIRN SE1 pocket flashlight — 300 lm mini EDC light, RGB signal ring, quick release, magnetic keychain/wrist flashlight, for cycling.",
+    specs: [["Type", "SOFIRN SE1 pocket flashlight, 300 lm, mini EDC light (per listing title)"], ["Features", "RGB signal ring, magnetic, quick-release, ~10 h runtime, 76 m beam (per listing)"], ["Power", "USB rechargeable battery (per listing)"]],
+    added: 831,
+    popular: false
+  },
+  {
+    id: "cyclami-hw125-portable-air-pump",
+    name: "CYCLAMI HW125 Portable Electric Air Pump for Bicycle, 150PSI, Schrader Presta Valve, Mini Rechargeable Fast Compressor, Tire Inflator",
+    short: "CYCLAMI HW125 Portable Air Pump",
+    price: 35.69,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3fKPmwr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cyclami-hw125-portable-air-pump/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cyclami-hw125-portable-air-pump/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cyclami-hw125-portable-air-pump/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cyclami-hw125-portable-air-pump/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cyclami-hw125-portable-air-pump/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cyclami-hw125-portable-air-pump/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cyclami-hw125-portable-air-pump/ad-photo.png",
+    desc: "CYCLAMI HW125 portable electric air pump for bicycle — 150PSI, Schrader Presta valve, mini rechargeable fast compressor, tire inflator.",
+    specs: [["Type", "CYCLAMI HW125 portable electric air pump for bicycle, 150PSI (per listing title)"], ["Features", "Schrader Presta valve, mini rechargeable fast compressor (per listing title)"], ["Power", "Rechargeable integrated battery, USB rechargeable (per listing)"]],
+    added: 832,
+    popular: false
+  },
+  {
+    id: "loratap-tuya-curtain-switch-sc511wsc",
+    name: "LoraTap Tuya Smart Life Curtain Switch Module SC511WSC, Roller Blind Switch, RF + WiFi, Timer, Google Home, Alexa Echo, Smart Home",
+    short: "LoraTap Tuya Curtain Switch SC511WSC",
+    price: 11.42,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c42p6Uo3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/loratap-tuya-curtain-switch-sc511wsc/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/loratap-tuya-curtain-switch-sc511wsc/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/loratap-tuya-curtain-switch-sc511wsc/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/loratap-tuya-curtain-switch-sc511wsc/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/loratap-tuya-curtain-switch-sc511wsc/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/loratap-tuya-curtain-switch-sc511wsc/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/loratap-tuya-curtain-switch-sc511wsc/ad-photo.png",
+    desc: "LoraTap Tuya Smart Life curtain switch module SC511WSC — roller blind switch, RF + WiFi, timer, Google Home, Alexa Echo, smart home.",
+    specs: [["Type", "LoraTap Tuya Smart Life curtain switch module SC511WSC, roller blind switch (per listing title)"], ["Features", "RF + WiFi, timer, Google Home, Alexa Echo (per listing)"], ["Power", "Mains 100–250VAC, EU standard, wired-in module, 300W max, 30 m remote range (per listing)"]],
+    added: 833,
+    popular: false
+  },
+  {
+    id: "bt-marathon-h200-electric-nail-drill",
+    name: "BT Marathon H200 65W Electric Nail Drill, Strong Micromotor Control Box 210 DC 30V 35000RPM, Milling Cutter with Handle, Manicure Machine",
+    short: "BT Marathon H200 Electric Nail Drill",
+    price: 75.35,
+    oldPrice: 87.87,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3LiuwlH",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bt-marathon-h200-electric-nail-drill/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bt-marathon-h200-electric-nail-drill/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bt-marathon-h200-electric-nail-drill/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bt-marathon-h200-electric-nail-drill/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bt-marathon-h200-electric-nail-drill/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bt-marathon-h200-electric-nail-drill/ad-photo.png",
+    desc: "BT Marathon H200 65W electric nail drill — strong micromotor control box, 210 DC 30V, 35000RPM, milling cutter with handle, manicure machine.",
+    specs: [["Type", "BT Marathon H200 65W electric nail drill, micromotor control box (per listing title)"], ["Features", "210 DC 30V, 35000RPM, milling cutter with handle (per listing title)"], ["Power", "Mains 100–240V, EU plug variant (per listing)"]],
+    added: 834,
+    popular: false
+  }
 
 ];
 
