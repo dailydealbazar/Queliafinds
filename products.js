@@ -23591,6 +23591,107 @@ const PRODUCTS = [
     added: 933,
     popular: false
   }
+,
+  {
+    id: "telesin-1220mah-3pack-battery-charger-gopro-hero",
+    name: "TELESIN 1220mAh 3Pack Battery + 3-Slot LED Light Battery Charger Storage Box, Type C Cable for GoPro Hero 5/6/7/8",
+    short: "TELESIN 1220mAh Battery + Charger, GoPro Hero",
+    price: 19.77,
+    oldPrice: 29.99,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3ICPCgZ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/telesin-1220mah-3pack-battery-charger-gopro-hero/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/telesin-1220mah-3pack-battery-charger-gopro-hero/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/telesin-1220mah-3pack-battery-charger-gopro-hero/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/telesin-1220mah-3pack-battery-charger-gopro-hero/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/telesin-1220mah-3pack-battery-charger-gopro-hero/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/telesin-1220mah-3pack-battery-charger-gopro-hero/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/telesin-1220mah-3pack-battery-charger-gopro-hero/ad-photo.png",
+    desc: "TELESIN 1220mAh battery pack + 3-slot LED light battery charger storage box, Type C cable, for GoPro Hero 5/6/7/8.",
+    specs: [["Type", "TELESIN 1220mAh battery + charger for GoPro Hero 5/6/7/8 (per listing title)"], ["Features", "3-slot LED light battery charger storage box, Type C cable (per listing)"], ["Variant", "2 Battery 1 Charger / 3-pack (per listing)"]],
+    added: 934,
+    popular: false
+  },
+  {
+    id: "gooloo-a3-jump-starter-air-compressor-3000a",
+    name: "GOOLOO A3 Jump Starter with Air Compressor, 3000A Portable Car Battery Booster (9.0 Gas/6.5L Diesel), 150PSI Auto-Shutoff Tire Inflator",
+    short: "GOOLOO A3 Jump Starter + Air Compressor, 3000A",
+    price: 74.38,
+    oldPrice: 95.99,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c395GS5b",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gooloo-a3-jump-starter-air-compressor-3000a/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gooloo-a3-jump-starter-air-compressor-3000a/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gooloo-a3-jump-starter-air-compressor-3000a/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gooloo-a3-jump-starter-air-compressor-3000a/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gooloo-a3-jump-starter-air-compressor-3000a/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gooloo-a3-jump-starter-air-compressor-3000a/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gooloo-a3-jump-starter-air-compressor-3000a/ad-photo.png",
+    desc: "GOOLOO A3 jump starter with air compressor — 3000A portable car battery booster, 150PSI auto-shutoff tire inflator.",
+    specs: [["Type", "GOOLOO A3 jump starter with air compressor, 3000A (per listing title)"], ["Features", "150PSI auto-shutoff tire inflator, flashlight (per listing)"], ["Capacity", "9.0 Gas / 6.5L Diesel (per listing)"]],
+    added: 935,
+    popular: false
+  },
+  {
+    id: "hobibear-unisex-barefoot-wide-toe-shoes",
+    name: "HOBIBEAR Unisex Barefoot Wide Toe Shoes, Artificial Leather Minimalist Sneakers, Adjustable Slip-On Walking Shoes",
+    short: "HOBIBEAR Unisex Barefoot Wide Toe Shoes",
+    price: 37.78,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c45J54bR",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hobibear-unisex-barefoot-wide-toe-shoes/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hobibear-unisex-barefoot-wide-toe-shoes/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hobibear-unisex-barefoot-wide-toe-shoes/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hobibear-unisex-barefoot-wide-toe-shoes/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hobibear-unisex-barefoot-wide-toe-shoes/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hobibear-unisex-barefoot-wide-toe-shoes/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hobibear-unisex-barefoot-wide-toe-shoes/ad-photo.png",
+    desc: "HOBIBEAR unisex barefoot wide toe shoes — artificial leather minimalist sneakers, adjustable slip-on walking shoes.",
+    specs: [["Type", "HOBIBEAR unisex barefoot wide toe shoes (per listing title)"], ["Features", "Artificial leather minimalist sneakers, adjustable slip-on (per listing)"], ["Fit", "Sizing runs small — size up advised (per listing reviews)"]],
+    added: 936,
+    popular: false
+  },
+  {
+    id: "alloy-rear-bicycle-rack-carrier-luggage-cycle",
+    name: "1PC Alloy Rear Bicycle Rack Carrier Bag Luggage Cycle Mountain Bike Black",
+    short: "Alloy Rear Bicycle Rack Carrier, Luggage",
+    price: 35.05,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3UvhsSl",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/alloy-rear-bicycle-rack-carrier-luggage-cycle/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/alloy-rear-bicycle-rack-carrier-luggage-cycle/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/alloy-rear-bicycle-rack-carrier-luggage-cycle/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/alloy-rear-bicycle-rack-carrier-luggage-cycle/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/alloy-rear-bicycle-rack-carrier-luggage-cycle/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/alloy-rear-bicycle-rack-carrier-luggage-cycle/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/alloy-rear-bicycle-rack-carrier-luggage-cycle/ad-photo.png",
+    desc: "Alloy rear bicycle rack — foldable aluminium-alloy rear bicycle rack carrier, luggage cycle mountain bike.",
+    specs: [["Type", "Alloy rear bicycle rack carrier, luggage cycle (per listing title)"], ["Features", "Foldable aluminium-alloy rear rack (per listing)"], ["Fit", "Mountain bike (per listing)"]],
+    added: 937,
+    popular: false
+  }
 
 ];
 
