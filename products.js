@@ -21856,6 +21856,107 @@ const PRODUCTS = [
     added: 864,
     popular: false
   }
+,
+  {
+    id: "kefine-klean-sv-10mm-dlc-diaphragm-dynamic-driver-hifi-wired-iem-earphones",
+    name: "KEFINE Klean SV 10mm DLC Diaphragm Dynamic Driver Hifi Wired IEM Earphones",
+    short: "KEFINE Klean SV 10mm DLC Diaphragm Dynamic Driver Hifi Wired IEM Earphones",
+    price: 36.15,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3SyWvXd",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kefine-klean-sv-10mm-dlc-diaphragm-dynamic-driver-hifi-wired-iem-earphones/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kefine-klean-sv-10mm-dlc-diaphragm-dynamic-driver-hifi-wired-iem-earphones/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kefine-klean-sv-10mm-dlc-diaphragm-dynamic-driver-hifi-wired-iem-earphones/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kefine-klean-sv-10mm-dlc-diaphragm-dynamic-driver-hifi-wired-iem-earphones/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kefine-klean-sv-10mm-dlc-diaphragm-dynamic-driver-hifi-wired-iem-earphones/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kefine-klean-sv-10mm-dlc-diaphragm-dynamic-driver-hifi-wired-iem-earphones/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kefine-klean-sv-10mm-dlc-diaphragm-dynamic-driver-hifi-wired-iem-earphones/ad-photo.png",
+    desc: "KEFINE Klean SV hi-fi wired IEM earphones — 10mm DLC diaphragm dynamic driver.",
+    specs: [["Type", "KEFINE Klean SV 10mm DLC diaphragm dynamic driver hi-fi wired IEM earphones (per listing title)"], ["Features", "10mm DLC diaphragm dynamic driver (per listing)"], ["Power", "Wired earphones, USB-C DAC-chip variant available (per listing)"]],
+    added: 865,
+    popular: false
+  },
+  {
+    id: "xunyou-link-4g-lte-router-wifi-6-sim-card-modem",
+    name: "4G LTE Router WiFi 6 SIM Card Modem (XUNYOU-LINK)",
+    short: "4G LTE Router WiFi 6 SIM Card Modem (XUNYOU-LINK)",
+    price: 22.94,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c32fXGob",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xunyou-link-4g-lte-router-wifi-6-sim-card-modem/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xunyou-link-4g-lte-router-wifi-6-sim-card-modem/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xunyou-link-4g-lte-router-wifi-6-sim-card-modem/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xunyou-link-4g-lte-router-wifi-6-sim-card-modem/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xunyou-link-4g-lte-router-wifi-6-sim-card-modem/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xunyou-link-4g-lte-router-wifi-6-sim-card-modem/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xunyou-link-4g-lte-router-wifi-6-sim-card-modem/ad-photo.png",
+    desc: "4G LTE router with WiFi 6 and SIM card modem — portable internet for Asia/Africa/Europe bands.",
+    specs: [["Type", "4G LTE router WiFi 6 SIM card modem (per listing title)"], ["Features", "WiFi 6, SIM card modem, Asia/Africa/Europe bands (per listing)"], ["Power", "USB Type-C powered, no adapter included (per listing)"]],
+    added: 866,
+    popular: false
+  },
+  {
+    id: "zrse-mens-cycling-bib-shorts-7-hour-padded",
+    name: "ZRSE Men's Cycling Bib Shorts (7-hour padded)",
+    short: "ZRSE Men's Cycling Bib Shorts (7-hour padded)",
+    price: 16.73,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3H5wIFD",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zrse-mens-cycling-bib-shorts-7-hour-padded/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zrse-mens-cycling-bib-shorts-7-hour-padded/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zrse-mens-cycling-bib-shorts-7-hour-padded/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zrse-mens-cycling-bib-shorts-7-hour-padded/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zrse-mens-cycling-bib-shorts-7-hour-padded/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zrse-mens-cycling-bib-shorts-7-hour-padded/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zrse-mens-cycling-bib-shorts-7-hour-padded/ad-photo.png",
+    desc: "ZRSE men's cycling bib shorts — 7-hour padded chamois for long rides.",
+    specs: [["Type", "ZRSE men's cycling bib shorts, 7-hour padded (per listing title)"], ["Features", "7-hour padded chamois (per listing)"], ["Power", "No power needed (clothing)"]],
+    added: 867,
+    popular: false
+  },
+  {
+    id: "icafilas-coffee-capsule-pod-illy-x7-1-y5-stainless-steel-reusable",
+    name: "iCafilas Coffee Capsule Pod for illy X7.1 / Y5 (stainless steel, reusable)",
+    short: "iCafilas Coffee Capsule Pod for illy X7.1 / Y5 (stainless steel, reusable)",
+    price: 8.80,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3XjYpWT",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/icafilas-coffee-capsule-pod-illy-x7-1-y5-stainless-steel-reusable/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/icafilas-coffee-capsule-pod-illy-x7-1-y5-stainless-steel-reusable/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/icafilas-coffee-capsule-pod-illy-x7-1-y5-stainless-steel-reusable/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/icafilas-coffee-capsule-pod-illy-x7-1-y5-stainless-steel-reusable/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/icafilas-coffee-capsule-pod-illy-x7-1-y5-stainless-steel-reusable/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/icafilas-coffee-capsule-pod-illy-x7-1-y5-stainless-steel-reusable/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/icafilas-coffee-capsule-pod-illy-x7-1-y5-stainless-steel-reusable/ad-photo.png",
+    desc: "iCafilas reusable coffee capsule pod for illy X7.1 / Y5 — stainless steel.",
+    specs: [["Type", "iCafilas coffee capsule pod for illy X7.1 / Y5, stainless steel, reusable (per listing title)"], ["Features", "Reusable stainless steel capsule pod (per listing)"], ["Power", "No power needed"]],
+    added: 868,
+    popular: false
+  }
 
 ];
 
