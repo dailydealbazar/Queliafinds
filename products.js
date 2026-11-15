@@ -22057,6 +22057,106 @@ const PRODUCTS = [
     added: 872,
     popular: false
   }
+,
+  {
+    id: "wurkkos-cl01-550lm-rgb-rechargeable-led-flashlight-camping-lantern",
+    name: "Wurkkos CL01 550LM RGB Rechargeable LED Flashlight Camping Lantern Power Bank Magnetic Work Light",
+    short: "Wurkkos CL01 550LM RGB Rechargeable LED Flashlight Camping Lantern Power Bank Magnetic Work Light",
+    price: 27.71,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3dW2B7V",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wurkkos-cl01-550lm-rgb-rechargeable-led-flashlight-camping-lantern/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wurkkos-cl01-550lm-rgb-rechargeable-led-flashlight-camping-lantern/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wurkkos-cl01-550lm-rgb-rechargeable-led-flashlight-camping-lantern/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wurkkos-cl01-550lm-rgb-rechargeable-led-flashlight-camping-lantern/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wurkkos-cl01-550lm-rgb-rechargeable-led-flashlight-camping-lantern/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wurkkos-cl01-550lm-rgb-rechargeable-led-flashlight-camping-lantern/ad-photo.png",
+    desc: "Wurkkos CL01 550LM RGB rechargeable LED flashlight — camping lantern, power bank, magnetic work light, waterproof.",
+    specs: [["Type", "Wurkkos CL01 550LM RGB rechargeable LED flashlight (per listing title)"], ["Features", "550LM RGB, camping lantern, power bank, magnetic work light (per listing)"], ["Power", "1x 21700 Li-ion, USB-C rechargeable, IP65 (per listing)"]],
+    added: 873,
+    popular: false
+  },
+  {
+    id: "hagibis-2230-m2-nvme-ssd-enclosure-mc13-usb-3-2-gen-2",
+    name: "Hagibis 2230 M.2 NVMe SSD Enclosure (MC13) USB 3.2 Gen 2 10Gbps",
+    short: "Hagibis 2230 M.2 NVMe SSD Enclosure (MC13) USB 3.2 Gen 2 10Gbps",
+    price: 23.87,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4e7kIOf",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-2230-m2-nvme-ssd-enclosure-mc13-usb-3-2-gen-2/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-2230-m2-nvme-ssd-enclosure-mc13-usb-3-2-gen-2/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-2230-m2-nvme-ssd-enclosure-mc13-usb-3-2-gen-2/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-2230-m2-nvme-ssd-enclosure-mc13-usb-3-2-gen-2/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-2230-m2-nvme-ssd-enclosure-mc13-usb-3-2-gen-2/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-2230-m2-nvme-ssd-enclosure-mc13-usb-3-2-gen-2/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-2230-m2-nvme-ssd-enclosure-mc13-usb-3-2-gen-2/ad-photo.png",
+    desc: "Hagibis 2230 M.2 NVMe SSD enclosure — USB 3.2 Gen 2 10Gbps, for laptop, iPhone 16 Pro, iPad. Enclosure only, no SSD included.",
+    specs: [["Type", "Hagibis 2230 M.2 NVMe SSD enclosure, model MC13 (per listing title)"], ["Features", "USB 3.2 Gen 2 10Gbps, NVMe PCI-E M.2 (per listing)"], ["Power", "USB bus-powered, USB-C (per listing)"]],
+    added: 874,
+    popular: false
+  },
+  {
+    id: "toocki-10000mah-magnetic-power-bank-type-c-cable-22-5w",
+    name: "Toocki 10000mAh Magnetic Power Bank with Type C Cable 22.5W Fast Charging LED Display",
+    short: "Toocki 10000mAh Magnetic Power Bank with Type C Cable 22.5W Fast Charging LED Display",
+    price: 33.82,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3p6zfsr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-10000mah-magnetic-power-bank-type-c-cable-22-5w/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-10000mah-magnetic-power-bank-type-c-cable-22-5w/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-10000mah-magnetic-power-bank-type-c-cable-22-5w/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-10000mah-magnetic-power-bank-type-c-cable-22-5w/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-10000mah-magnetic-power-bank-type-c-cable-22-5w/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-10000mah-magnetic-power-bank-type-c-cable-22-5w/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/toocki-10000mah-magnetic-power-bank-type-c-cable-22-5w/ad-photo.png",
+    desc: "Toocki 10000mAh magnetic power bank — 22.5W fast charging, LED display, built-in Type-C cable, folding stand.",
+    specs: [["Type", "Toocki 10000mAh magnetic power bank with Type-C cable (per listing title)"], ["Features", "22.5W fast charging, 15W magnetic wireless, LED display, folding stand (per listing)"], ["Power", "10000mAh battery, USB-C (per listing)"]],
+    added: 875,
+    popular: false
+  },
+  {
+    id: "igpsport-cad70-cadence-sensor-speedometer-spd70",
+    name: "iGPSPORT CAD70 Cadence Sensor (SPD70 compatible, Garmin/Magene/Bryton)",
+    short: "iGPSPORT CAD70 Cadence Sensor (SPD70 compatible, Garmin/Magene/Bryton)",
+    price: 18.41,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3hOQat5",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/igpsport-cad70-cadence-sensor-speedometer-spd70/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/igpsport-cad70-cadence-sensor-speedometer-spd70/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/igpsport-cad70-cadence-sensor-speedometer-spd70/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/igpsport-cad70-cadence-sensor-speedometer-spd70/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/igpsport-cad70-cadence-sensor-speedometer-spd70/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/igpsport-cad70-cadence-sensor-speedometer-spd70/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/igpsport-cad70-cadence-sensor-speedometer-spd70/ad-photo.png",
+    desc: "iGPSPORT CAD70 cadence sensor — Bluetooth 5.0 ANT+, IP67, CR2032 coin cell, for Garmin, Magene, Bryton.",
+    specs: [["Type", "iGPSPORT CAD70 cadence sensor, SPD70 compatible (per listing title)"], ["Features", "Bluetooth 5.0 ANT+, IP67 waterproof (per listing)"], ["Power", "CR2032 coin cell (per listing)"]],
+    added: 876,
+    popular: false
+  }
 
 ];
 
