@@ -21957,6 +21957,106 @@ const PRODUCTS = [
     added: 868,
     popular: false
   }
+,
+  {
+    id: "sofirn-sp36-pro-8000lm-flashlight",
+    name: "Sofirn SP36 Pro 8000lm Flashlight",
+    short: "Sofirn SP36 Pro 8000lm Flashlight",
+    price: 47.50,
+    oldPrice: 72.35,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4POJdyB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-sp36-pro-8000lm-flashlight/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-sp36-pro-8000lm-flashlight/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-sp36-pro-8000lm-flashlight/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-sp36-pro-8000lm-flashlight/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-sp36-pro-8000lm-flashlight/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-sp36-pro-8000lm-flashlight/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-sp36-pro-8000lm-flashlight/ad-photo.png",
+    desc: "Sofirn SP36 Pro 8000lm flashlight — USB-C rechargeable, 3x18650 included.",
+    specs: [["Type", "Sofirn SP36 Pro 8000lm flashlight (per listing title)"], ["Features", "8000lm, USB-C rechargeable (per listing)"], ["Power", "USB-C rechargeable, 3x18650 included (per listing)"]],
+    added: 869,
+    popular: false
+  },
+  {
+    id: "mchose-l7-ultra-gaming-mouse-paw3395",
+    name: "MCHOSE L7 Ultra Gaming Mouse (PAW3395, 26K sensor, Dual 8K, 39g, 2.4GHz/BT/wired)",
+    short: "MCHOSE L7 Ultra Gaming Mouse (PAW3395, 26K sensor, Dual 8K, 39g, 2.4GHz/BT/wired)",
+    price: 52.50,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4dteDLz",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mchose-l7-ultra-gaming-mouse-paw3395/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mchose-l7-ultra-gaming-mouse-paw3395/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mchose-l7-ultra-gaming-mouse-paw3395/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mchose-l7-ultra-gaming-mouse-paw3395/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mchose-l7-ultra-gaming-mouse-paw3395/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mchose-l7-ultra-gaming-mouse-paw3395/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mchose-l7-ultra-gaming-mouse-paw3395/ad-photo-v2.png",
+    desc: "MCHOSE L7 Ultra gaming mouse — PAW3395 26K sensor, Dual 8K polling, 39g.",
+    specs: [["Type", "MCHOSE L7 Ultra gaming mouse, PAW3395 26K sensor (per listing title)"], ["Features", "Dual 8K polling, 39g, 2.4GHz/BT/wired (per listing)"], ["Power", "Rechargeable 500mAh, USB charging (per listing)"]],
+    added: 870,
+    popular: false
+  },
+  {
+    id: "seagull-1963-pilot-38mm-mechanical-watch-st1901",
+    name: "Seagull 1963 Pilot 38mm Mechanical Watch (ST1901 chronograph)",
+    short: "Seagull 1963 Pilot 38mm Mechanical Watch (ST1901 chronograph)",
+    price: 142.16,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3YzNint",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seagull-1963-pilot-38mm-mechanical-watch-st1901/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seagull-1963-pilot-38mm-mechanical-watch-st1901/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seagull-1963-pilot-38mm-mechanical-watch-st1901/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seagull-1963-pilot-38mm-mechanical-watch-st1901/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seagull-1963-pilot-38mm-mechanical-watch-st1901/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seagull-1963-pilot-38mm-mechanical-watch-st1901/ad-photo.png",
+    desc: "Seagull 1963 Pilot 38mm mechanical watch — ST1901 chronograph, hand-wound.",
+    specs: [["Type", "Seagull 1963 Pilot 38mm mechanical watch, ST1901 chronograph (per listing title)"], ["Features", "ST1901 chronograph movement, 38mm (per listing)"], ["Power", "Mechanical hand-wound, no battery (per listing)"]],
+    added: 871,
+    popular: false
+  },
+  {
+    id: "edc-fidget-sliders-metal-ratchet-slider-magnetic-push-egg",
+    name: "EDC Fidget Sliders (metal ratchet slider, magnetic push egg)",
+    short: "EDC Fidget Sliders (metal ratchet slider, magnetic push egg)",
+    price: 21.95,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c2wP6x8J",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/edc-fidget-sliders-metal-ratchet-slider-magnetic-push-egg/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/edc-fidget-sliders-metal-ratchet-slider-magnetic-push-egg/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/edc-fidget-sliders-metal-ratchet-slider-magnetic-push-egg/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/edc-fidget-sliders-metal-ratchet-slider-magnetic-push-egg/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/edc-fidget-sliders-metal-ratchet-slider-magnetic-push-egg/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/edc-fidget-sliders-metal-ratchet-slider-magnetic-push-egg/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/edc-fidget-sliders-metal-ratchet-slider-magnetic-push-egg/ad-photo.png",
+    desc: "EDC fidget sliders — metal ratchet slider, magnetic push egg.",
+    specs: [["Type", "EDC fidget sliders, metal ratchet slider, magnetic push egg (per listing title)"], ["Features", "Metal ratchet slider, magnetic push egg (per listing)"], ["Power", "No power needed"]],
+    added: 872,
+    popular: false
+  }
 
 ];
 
