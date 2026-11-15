@@ -22334,6 +22334,107 @@ const PRODUCTS = [
     added: 883,
     popular: false
   }
+,
+  {
+    id: "retekess-v115-portable-radio-rechargeable-am-fm-sw",
+    name: "RETEKESS V115 Portable Radio Rechargeable AM FM SW Radio Multifunctional Radio Long Distance Receiver Clear Sound for Camp Gift",
+    short: "RETEKESS V115 Portable Radio Rechargeable AM FM SW Radio Multifunctional Long Distance Receiver",
+    price: 27.22,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3VuEyOR",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/retekess-v115-portable-radio-rechargeable-am-fm-sw/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/retekess-v115-portable-radio-rechargeable-am-fm-sw/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/retekess-v115-portable-radio-rechargeable-am-fm-sw/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/retekess-v115-portable-radio-rechargeable-am-fm-sw/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/retekess-v115-portable-radio-rechargeable-am-fm-sw/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/retekess-v115-portable-radio-rechargeable-am-fm-sw/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/retekess-v115-portable-radio-rechargeable-am-fm-sw/ad-photo.png",
+    desc: "RETEKESS V115 portable radio — rechargeable AM/FM/SW radio, multifunctional long distance receiver, clear sound, MP3 player, recording.",
+    specs: [["Type", "RETEKESS V115 portable radio, rechargeable AM/FM/SW (per listing title)"], ["Features", "FM/AM/SW, MP3 player, recording, sleep timer, Micro SD/TF up to 32GB, 100 presets (per listing)"], ["Power", "Rechargeable 1000mAh BL-5C battery, Type-C cable in box (per listing)"]],
+    added: 884,
+    popular: false
+  },
+  {
+    id: "seago-electric-toothbrush-sg-575-usb-rechargeable",
+    name: "Seago Electric Toothbrush USB Rechargeable Adult 360 Days Long Battery Life IPX7 4 Replacement Heads Travel Box SG-575",
+    short: "Seago Electric Toothbrush SG-575 USB Rechargeable Adult 360 Days Long Battery Life IPX7 4 Replacement Heads Travel Box",
+    price: 18.25,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c4SZyyub",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seago-electric-toothbrush-sg-575-usb-rechargeable/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seago-electric-toothbrush-sg-575-usb-rechargeable/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seago-electric-toothbrush-sg-575-usb-rechargeable/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seago-electric-toothbrush-sg-575-usb-rechargeable/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seago-electric-toothbrush-sg-575-usb-rechargeable/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seago-electric-toothbrush-sg-575-usb-rechargeable/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seago-electric-toothbrush-sg-575-usb-rechargeable/ad-photo.png",
+    desc: "Seago SG-575 electric toothbrush — USB rechargeable, 360-day standby, IPX7 waterproof, 5 cleaning modes, 4 replacement heads, travel box.",
+    specs: [["Type", "Seago electric toothbrush SG-575, USB rechargeable (per listing title)"], ["Features", "360-day standby, IPX7 waterproof, 5 cleaning modes, 40,000 movements/min, 4 replacement heads (per listing)"], ["Power", "USB rechargeable, 3-hour fast charge (per listing)"]],
+    added: 885,
+    popular: false
+  },
+  {
+    id: "panda-build-plate-cryogrip-pro-cool-plate",
+    name: "Panda Build Plate CryoGrip Pro Cool Plate For Bambu H2D P1 X1 Series A1&Mini K1 Max AD5M/5X Prusa MK3/4 Voron 350MM Neptune4/3",
+    short: "Panda Build Plate CryoGrip Pro Cool Plate for Bambu H2D P1 X1 Series A1 & Mini",
+    price: 11.83,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4CB7Tb5",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/panda-build-plate-cryogrip-pro-cool-plate/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/panda-build-plate-cryogrip-pro-cool-plate/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/panda-build-plate-cryogrip-pro-cool-plate/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/panda-build-plate-cryogrip-pro-cool-plate/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/panda-build-plate-cryogrip-pro-cool-plate/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/panda-build-plate-cryogrip-pro-cool-plate/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/panda-build-plate-cryogrip-pro-cool-plate/ad-photo.png",
+    desc: "Panda Build Plate CryoGrip Pro cool plate — 3D printer build plate for Bambu H2D/P1/X1, A1 & Mini, K1 Max, Prusa MK3/4, Voron.",
+    specs: [["Type", "Panda Build Plate CryoGrip Pro cool plate for Bambu H2D/P1/X1, A1 & Mini (per listing title)"], ["Features", "CryoGrip Pro cool plate, for Bambu / Prusa / Voron / Neptune printers (per listing)"], ["Sizes", "257mm / 184mm etc. (per listing)"]],
+    added: 886,
+    popular: false
+  },
+  {
+    id: "paw-patrol-action-figure-10-kinds-original-box",
+    name: "Original Box Paw Patrol Action Figure 10kinds Ryder Everest Tracker Chase Rex Skye Rocky Marshall Zuma Rex Doll Birthday Gift",
+    short: "Paw Patrol Action Figure Original Box 10 Kinds Ryder Everest Tracker Chase Rex Skye Rocky Marshall Zuma",
+    price: 11.69,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4rV6r1v",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/paw-patrol-action-figure-10-kinds-original-box/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/paw-patrol-action-figure-10-kinds-original-box/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/paw-patrol-action-figure-10-kinds-original-box/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/paw-patrol-action-figure-10-kinds-original-box/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/paw-patrol-action-figure-10-kinds-original-box/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/paw-patrol-action-figure-10-kinds-original-box/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/paw-patrol-action-figure-10-kinds-original-box/ad-photo.png",
+    desc: "Paw Patrol action figure — original box, 10 kinds (Ryder, Everest, Tracker, Chase, Rex, Skye, Rocky, Marshall, Zuma), birthday gift.",
+    specs: [["Type", "Paw Patrol action figure, original box, 10 kinds (per listing title)"], ["Features", "Ryder, Everest, Tracker, Chase, Rex, Skye, Rocky, Marshall, Zuma (per listing)"], ["Size", "PVC figure, ~4-5 cm (per listing)"]],
+    added: 887,
+    popular: false
+  }
 
 ];
 
