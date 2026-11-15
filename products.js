@@ -23392,6 +23392,106 @@ const PRODUCTS = [
     added: 925,
     popular: false
   }
+,
+  {
+    id: "kz-zar-hybrid-driver-in-ear-monitor-1dd-7ba",
+    name: "KZ ZAR Hybrid Driver In-ear Monitor 1DD + 7BA HiFi Headphones",
+    short: "KZ ZAR Hybrid Driver In-ear Monitor, 1DD+7BA",
+    price: 41.46,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3eVSnHP",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-zar-hybrid-driver-in-ear-monitor-1dd-7ba/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-zar-hybrid-driver-in-ear-monitor-1dd-7ba/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-zar-hybrid-driver-in-ear-monitor-1dd-7ba/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-zar-hybrid-driver-in-ear-monitor-1dd-7ba/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-zar-hybrid-driver-in-ear-monitor-1dd-7ba/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-zar-hybrid-driver-in-ear-monitor-1dd-7ba/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-zar-hybrid-driver-in-ear-monitor-1dd-7ba/ad-photo.png",
+    desc: "KZ ZAR hybrid driver in-ear monitor — 1DD + 7BA HiFi headphones, excellent sound and great bass.",
+    specs: [["Type", "KZ ZAR hybrid driver in-ear monitor, 1DD + 7BA HiFi (per listing title)"], ["Features", "Detachable cable, excellent sound, great bass (per listing)"], ["Variant", "ZAR mic / no mic (per listing)"]],
+    added: 926,
+    popular: false
+  },
+  {
+    id: "truelove-pet-harness-floral-no-pull-cotton-tlh5655",
+    name: "Truelove Pet Harness Floral No Pull Cotton Fabric Breathable and Reflective Soft Cats Dogs Small Medium Walking Running TLH5655",
+    short: "Truelove Pet Harness Floral, No Pull, Cotton",
+    price: 31.20,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c3J3gh5B",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/truelove-pet-harness-floral-no-pull-cotton-tlh5655/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/truelove-pet-harness-floral-no-pull-cotton-tlh5655/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/truelove-pet-harness-floral-no-pull-cotton-tlh5655/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/truelove-pet-harness-floral-no-pull-cotton-tlh5655/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/truelove-pet-harness-floral-no-pull-cotton-tlh5655/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/truelove-pet-harness-floral-no-pull-cotton-tlh5655/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/truelove-pet-harness-floral-no-pull-cotton-tlh5655/ad-photo.png",
+    desc: "Truelove pet harness — floral no-pull cotton fabric, breathable and reflective, soft for cats and dogs, small and medium walking and running.",
+    specs: [["Type", "Truelove pet harness, floral no-pull cotton fabric (per listing title)"], ["Features", "Breathable, reflective, soft (per listing)"], ["Fit", "Cats and dogs, small and medium (per listing)"]],
+    added: 927,
+    popular: false
+  },
+  {
+    id: "ykywbike-mens-cycling-jersey-short-sleeve-summer",
+    name: "YKYWBIKE Men's Cycling Jersey Short Sleeve Summer Bicycle Jersey Road Bike Shirt Cycling Clothing Breathable Pro Team",
+    short: "YKYWBIKE Men's Cycling Jersey, Short Sleeve",
+    price: 29.34,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c36Dpp6v",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ykywbike-mens-cycling-jersey-short-sleeve-summer/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ykywbike-mens-cycling-jersey-short-sleeve-summer/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ykywbike-mens-cycling-jersey-short-sleeve-summer/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ykywbike-mens-cycling-jersey-short-sleeve-summer/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ykywbike-mens-cycling-jersey-short-sleeve-summer/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ykywbike-mens-cycling-jersey-short-sleeve-summer/ad-photo.png",
+    desc: "YKYWBIKE men's cycling jersey — short sleeve summer bicycle jersey, road bike shirt, breathable pro team cycling clothing.",
+    specs: [["Type", "YKYWBIKE men's cycling jersey, short sleeve summer (per listing title)"], ["Features", "Breathable pro team cycling clothing (per listing)"], ["Fit", "Asian sizing runs small — Asia S-3XL = EU XS-XXL (per listing reviews)"]],
+    added: 928,
+    popular: false
+  },
+  {
+    id: "hagibis-usb-c-to-c-adapter-90-degree-right-angle-usb4",
+    name: "Hagibis USB C to C Adapter 90 Degree Right Angle Converter 80Gbps USB4 Data Cable Extension for Thunderbolt 5/4 iPhone 17 Laptop",
+    short: "Hagibis USB C to C Adapter, 90 Degree, USB4",
+    price: 5.22,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c4pUWg8t",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-usb-c-to-c-adapter-90-degree-right-angle-usb4/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-usb-c-to-c-adapter-90-degree-right-angle-usb4/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-usb-c-to-c-adapter-90-degree-right-angle-usb4/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-usb-c-to-c-adapter-90-degree-right-angle-usb4/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-usb-c-to-c-adapter-90-degree-right-angle-usb4/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-usb-c-to-c-adapter-90-degree-right-angle-usb4/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-usb-c-to-c-adapter-90-degree-right-angle-usb4/ad-photo.png",
+    desc: "Hagibis USB C to C adapter — 90 degree right angle converter, 80Gbps USB4 data cable extension for Thunderbolt 5/4, iPhone 17 and laptop.",
+    specs: [["Type", "Hagibis USB C to C adapter, 90 degree right angle, USB4 80Gbps (per listing title)"], ["Features", "Data cable extension for Thunderbolt 5/4, iPhone 17, laptop (per listing)"], ["Variant", "Vertical L shape (per listing)"]],
+    added: 929,
+    popular: false
+  }
 
 ];
 
