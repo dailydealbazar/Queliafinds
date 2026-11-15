@@ -23039,6 +23039,82 @@ const PRODUCTS = [
     added: 911,
     popular: false
   }
+,
+  {
+    id: "muscle-toner-smart-abdominal-toning-belt-ems",
+    name: "Muscle Toner Smart Abdominal Toning Belt EMS Muscle Stimulator Ab Trainer USB Charge Body Massager Weight Loss Fitness Equipment",
+    short: "Muscle Toner Smart Abdominal Toning Belt EMS Muscle Stimulator Ab Trainer",
+    price: 14.68,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3xHzRWF",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/muscle-toner-smart-abdominal-toning-belt-ems/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/muscle-toner-smart-abdominal-toning-belt-ems/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/muscle-toner-smart-abdominal-toning-belt-ems/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/muscle-toner-smart-abdominal-toning-belt-ems/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/muscle-toner-smart-abdominal-toning-belt-ems/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/muscle-toner-smart-abdominal-toning-belt-ems/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/muscle-toner-smart-abdominal-toning-belt-ems/ad-photo.png",
+    desc: "Muscle Toner smart abdominal toning belt — EMS muscle stimulator, Ab trainer, USB charge body massager.",
+    specs: [["Type", "Muscle Toner smart abdominal toning belt, EMS muscle stimulator (per listing title)"], ["Features", "Ab trainer, USB charge body massager, weight loss fitness equipment (per listing)"], ["Power", "Type-C rechargeable, CE certified (per listing)"]],
+    added: 912,
+    popular: false
+  },
+  {
+    id: "polvcdg-x9-bone-conduction-earphones-32g",
+    name: "POLVCDG X9 Bone Conduction Earphones 32G IPX8 Waterproof Open Design for Swimming Running Cycling Hanging Earphones",
+    short: "POLVCDG X9 Bone Conduction Earphones 32G IPX8 Waterproof Open Design",
+    price: 22.12,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3o617Qx",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/polvcdg-x9-bone-conduction-earphones-32g/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/polvcdg-x9-bone-conduction-earphones-32g/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/polvcdg-x9-bone-conduction-earphones-32g/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/polvcdg-x9-bone-conduction-earphones-32g/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/polvcdg-x9-bone-conduction-earphones-32g/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/polvcdg-x9-bone-conduction-earphones-32g/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/polvcdg-x9-bone-conduction-earphones-32g/ad-photo.png",
+    desc: "POLVCDG X9 bone conduction earphones — 32G, IPX8 waterproof, open design for swimming, running, cycling.",
+    specs: [["Type", "POLVCDG X9 bone conduction earphones, 32G (per listing title)"], ["Features", "IPX8 waterproof, open design, 10h battery, Bluetooth 6.0 (per listing)"], ["Power", "Rechargeable, magnetic charging (per listing)"]],
+    added: 913,
+    popular: false
+  },
+  {
+    id: "maikes-genuine-leather-watch-strap-samsung-galaxy-watch",
+    name: "MAIKES Watch Strap 2020 High Quality Handmade Genuine Leather Watchbands For Samsung Galaxy Watch 46mm Gear S3 Huawei GT2",
+    short: "MAIKES Watch Strap 2020 Handmade Genuine Leather Watchbands",
+    price: 12.33,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c4m6AKpl",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/maikes-genuine-leather-watch-strap-samsung-galaxy-watch/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/maikes-genuine-leather-watch-strap-samsung-galaxy-watch/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/maikes-genuine-leather-watch-strap-samsung-galaxy-watch/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/maikes-genuine-leather-watch-strap-samsung-galaxy-watch/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/maikes-genuine-leather-watch-strap-samsung-galaxy-watch/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/maikes-genuine-leather-watch-strap-samsung-galaxy-watch/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/maikes-genuine-leather-watch-strap-samsung-galaxy-watch/ad-photo.png",
+    desc: "MAIKES handmade genuine leather watch strap — Samsung Galaxy Watch 46mm, Gear S3, Huawei GT2.",
+    specs: [["Type", "MAIKES handmade genuine leather watchbands (per listing title)"], ["Features", "Genuine cowhide leather, 316L stainless buckle, widths 18–26mm (per listing)"], ["Fit", "Samsung Galaxy Watch 46mm, Gear S3, Huawei GT2 (per listing)"]],
+    added: 914,
+    popular: false
+  }
 
 ];
 
