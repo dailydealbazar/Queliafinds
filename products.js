@@ -21654,6 +21654,107 @@ const PRODUCTS = [
     added: 856,
     popular: false
   }
+,
+  {
+    id: "essager-bluetooth-5-4-car-adapter-fm-transmitter",
+    name: "ESSAGER Bluetooth 5.4 Car Adapter FM Transmitter",
+    short: "ESSAGER Bluetooth 5.4 Car Adapter FM Transmitter",
+    price: 1.12,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3MfcLcB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-bluetooth-5-4-car-adapter-fm-transmitter/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-bluetooth-5-4-car-adapter-fm-transmitter/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-bluetooth-5-4-car-adapter-fm-transmitter/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-bluetooth-5-4-car-adapter-fm-transmitter/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-bluetooth-5-4-car-adapter-fm-transmitter/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-bluetooth-5-4-car-adapter-fm-transmitter/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-bluetooth-5-4-car-adapter-fm-transmitter/ad-photo.png",
+    desc: "ESSAGER Bluetooth 5.4 car adapter FM transmitter — wireless audio streaming to your car stereo via FM.",
+    specs: [["Type", "ESSAGER Bluetooth 5.4 car adapter FM transmitter (per listing title)"], ["Features", "Bluetooth 5.4, FM transmitter (per listing)"], ["Power", "USB-powered, car adapter (per listing)"]],
+    added: 857,
+    popular: false
+  },
+  {
+    id: "igpsport-bsc200s-gps-bike-computer",
+    name: "iGPSPORT BSC200S GPS Bike Computer",
+    short: "iGPSPORT BSC200S GPS Bike Computer",
+    price: 62.27,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4spvZmF",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/igpsport-bsc200s-gps-bike-computer/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/igpsport-bsc200s-gps-bike-computer/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/igpsport-bsc200s-gps-bike-computer/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/igpsport-bsc200s-gps-bike-computer/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/igpsport-bsc200s-gps-bike-computer/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/igpsport-bsc200s-gps-bike-computer/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/igpsport-bsc200s-gps-bike-computer/ad-photo.png",
+    desc: "iGPSPORT BSC200S GPS bike computer — navigation, ride recording and long battery life.",
+    specs: [["Type", "iGPSPORT BSC200S GPS bike computer (per listing title)"], ["Features", "GPS navigation, ride recording (per listing)"], ["Power", "Battery-powered, 25 h, USB rechargeable (per listing)"]],
+    added: 858,
+    popular: false
+  },
+  {
+    id: "essager-15w-magnetic-wireless-charger-with-cable",
+    name: "Essager 15W Magnetic Wireless Charger with Cable",
+    short: "Essager 15W Magnetic Wireless Charger with Cable",
+    price: 2.83,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3uWj83Z",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-15w-magnetic-wireless-charger-with-cable/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-15w-magnetic-wireless-charger-with-cable/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-15w-magnetic-wireless-charger-with-cable/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-15w-magnetic-wireless-charger-with-cable/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-15w-magnetic-wireless-charger-with-cable/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-15w-magnetic-wireless-charger-with-cable/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-15w-magnetic-wireless-charger-with-cable/ad-photo.png",
+    desc: "Essager 15W magnetic wireless charger with cable — single-pad MagSafe-style charging for your phone.",
+    specs: [["Type", "Essager 15W magnetic wireless charger with cable, single-pad (per listing title)"], ["Features", "15W magnetic wireless charging (per listing)"], ["Power", "USB-C powered (per listing)"]],
+    added: 859,
+    popular: false
+  },
+  {
+    id: "gudga-ram-ddr5-4800mhz-5600mhz",
+    name: "GUDGA RAM DDR5 8GB/16GB/32GB 4800MHz/5600MHz",
+    short: "GUDGA RAM DDR5 8GB/16GB/32GB 4800MHz/5600MHz",
+    price: 182.04,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4UQJLUn",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gudga-ram-ddr5-4800mhz-5600mhz/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gudga-ram-ddr5-4800mhz-5600mhz/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gudga-ram-ddr5-4800mhz-5600mhz/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gudga-ram-ddr5-4800mhz-5600mhz/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gudga-ram-ddr5-4800mhz-5600mhz/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gudga-ram-ddr5-4800mhz-5600mhz/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gudga-ram-ddr5-4800mhz-5600mhz/ad-photo.png",
+    desc: "GUDGA RAM DDR5 laptop memory — 8GB/16GB/32GB, 4800MHz/5600MHz SODIMM for laptops.",
+    specs: [["Type", "GUDGA RAM DDR5 laptop SODIMM, 8GB/16GB/32GB, 4800MHz/5600MHz (per listing title)"], ["Features", "1.1V, 5-year warranty (per listing)"], ["Power", "No plug — laptop memory module (per listing)"]],
+    added: 860,
+    popular: false
+  }
 
 ];
 
