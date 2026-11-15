@@ -22837,6 +22837,107 @@ const PRODUCTS = [
     added: 903,
     popular: false
   }
+,
+  {
+    id: "fantech-nova-ii-wgp16-wireless-gamepad-gyro",
+    name: "FANTECH NOVA II WGP16 Wireless Gamepad Gyro Sensor Hall Joystick and Effect Trigger for PS4 NS2 Wired Controller Gamer",
+    short: "FANTECH NOVA II WGP16 Wireless Gamepad Gyro Sensor Hall Joystick and Effect Trigger for PS4 NS2",
+    price: 36.65,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c2uGo8D5",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fantech-nova-ii-wgp16-wireless-gamepad-gyro/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fantech-nova-ii-wgp16-wireless-gamepad-gyro/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fantech-nova-ii-wgp16-wireless-gamepad-gyro/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fantech-nova-ii-wgp16-wireless-gamepad-gyro/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fantech-nova-ii-wgp16-wireless-gamepad-gyro/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fantech-nova-ii-wgp16-wireless-gamepad-gyro/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fantech-nova-ii-wgp16-wireless-gamepad-gyro/ad-photo.png",
+    desc: "FANTECH NOVA II WGP16 wireless gamepad — gyro sensor, Hall joystick, effect trigger, for PS4/NS2, wired controller.",
+    specs: [["Type", "FANTECH NOVA II WGP16 wireless gamepad, gyro sensor, Hall joystick (per listing title)"], ["Features", "Effect trigger, for PS4/NS2, wired controller (per listing)"], ["Power", "Rechargeable battery, USB-C/Bluetooth (per listing)"]],
+    added: 904,
+    popular: false
+  },
+  {
+    id: "sanpkon-tens-muscle-electrostimulator-patches-ems",
+    name: "10/20pcs Tens Muscle Electrostimulator Patches EMS Body Massager Low Frequency Massage Pads Replacement Electrodes Pads",
+    short: "10/20pcs Tens Muscle Electrostimulator Patches EMS Body Massager Low Frequency Massage Pads",
+    price: 6.17,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3vE6IH5",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sanpkon-tens-muscle-electrostimulator-patches-ems/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sanpkon-tens-muscle-electrostimulator-patches-ems/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sanpkon-tens-muscle-electrostimulator-patches-ems/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sanpkon-tens-muscle-electrostimulator-patches-ems/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sanpkon-tens-muscle-electrostimulator-patches-ems/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sanpkon-tens-muscle-electrostimulator-patches-ems/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sanpkon-tens-muscle-electrostimulator-patches-ems/ad-photo.png",
+    desc: "SANPKON TENS muscle electrostimulator patches — EMS body massager, low frequency massage pads, replacement electrodes.",
+    specs: [["Type", "TENS muscle electrostimulator patches, EMS body massager (per listing title)"], ["Features", "Low frequency massage pads, replacement electrodes (per listing)"], ["Quantity", "10/20pcs (per listing)"]],
+    added: 905,
+    popular: false
+  },
+  {
+    id: "aikokkl-mk7-digital-microscope-7inch-1200x",
+    name: "7inch Digital Microscope 1200X Magnification for Coin PCB Circuit Repair 16MP HD Soldering Microscope with Light, PC View",
+    short: "7inch Digital Microscope 1200X Magnification for Coin PCB Circuit Repair 16MP HD Soldering",
+    price: 49.36,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4MiVpcP",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aikokkl-mk7-digital-microscope-7inch-1200x/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aikokkl-mk7-digital-microscope-7inch-1200x/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aikokkl-mk7-digital-microscope-7inch-1200x/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aikokkl-mk7-digital-microscope-7inch-1200x/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aikokkl-mk7-digital-microscope-7inch-1200x/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aikokkl-mk7-digital-microscope-7inch-1200x/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/aikokkl-mk7-digital-microscope-7inch-1200x/ad-photo.png",
+    desc: "Aikokkl MK7 digital microscope — 7inch, 1200X magnification, 16MP HD soldering microscope with light, PC view.",
+    specs: [["Type", "7inch digital microscope, 1200X, 16MP HD, soldering microscope (per listing title)"], ["Features", "For coin/PCB circuit repair, with light, PC view (per listing)"], ["Power", "Battery-powered (per listing)"]],
+    added: 906,
+    popular: false
+  },
+  {
+    id: "ejeas-q8-bluetooth-motorcycle-helmet-headset-intercom",
+    name: "EJEAS Q8 Bluetooth 5.1 Motorcycle Helmet Headset Intercom, with EUC Remote Walkie Talkie, for 6 Riders, Real-time Talking, IP67",
+    short: "EJEAS Q8 Bluetooth 5.1 Motorcycle Helmet Headset Intercom, with EUC Remote Walkie Talkie",
+    price: 59.24,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3aVezmL",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ejeas-q8-bluetooth-motorcycle-helmet-headset-intercom/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ejeas-q8-bluetooth-motorcycle-helmet-headset-intercom/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ejeas-q8-bluetooth-motorcycle-helmet-headset-intercom/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ejeas-q8-bluetooth-motorcycle-helmet-headset-intercom/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ejeas-q8-bluetooth-motorcycle-helmet-headset-intercom/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ejeas-q8-bluetooth-motorcycle-helmet-headset-intercom/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ejeas-q8-bluetooth-motorcycle-helmet-headset-intercom/ad-photo.png",
+    desc: "EJEAS Q8 Bluetooth 5.1 motorcycle helmet headset intercom — EUC remote walkie talkie, for 6 riders, IP67.",
+    specs: [["Type", "EJEAS Q8 Bluetooth 5.1 motorcycle helmet headset intercom (per listing title)"], ["Features", "EUC remote walkie talkie, for 6 riders, real-time talking, IP67 (per listing)"], ["Power", "Built-in 3.7V/1200mAh battery, Type-C USB charging (per listing)"]],
+    added: 907,
+    popular: false
+  }
 
 ];
 
