@@ -21755,6 +21755,107 @@ const PRODUCTS = [
     added: 860,
     popular: false
   }
+,
+  {
+    id: "fosi-audio-q4-mini-stereo-usb-gaming-dac-headphone-amplifier",
+    name: "Fosi Audio Q4 Mini Stereo USB Gaming DAC & Headphone Amplifier",
+    short: "Fosi Audio Q4 Mini Stereo USB Gaming DAC & Headphone Amplifier",
+    price: 34.26,
+    oldPrice: 51.99,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3soNRqj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fosi-audio-q4-mini-stereo-usb-gaming-dac-headphone-amplifier/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fosi-audio-q4-mini-stereo-usb-gaming-dac-headphone-amplifier/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fosi-audio-q4-mini-stereo-usb-gaming-dac-headphone-amplifier/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fosi-audio-q4-mini-stereo-usb-gaming-dac-headphone-amplifier/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fosi-audio-q4-mini-stereo-usb-gaming-dac-headphone-amplifier/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fosi-audio-q4-mini-stereo-usb-gaming-dac-headphone-amplifier/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fosi-audio-q4-mini-stereo-usb-gaming-dac-headphone-amplifier/ad-photo.png",
+    desc: "Fosi Audio Q4 mini stereo USB gaming DAC & headphone amplifier — clear audio for gaming and music.",
+    specs: [["Type", "Fosi Audio Q4 mini stereo USB gaming DAC & headphone amplifier (per listing title)"], ["Features", "USB DAC, headphone amplifier, gaming audio (per listing)"], ["Power", "USB-powered (per listing)"]],
+    added: 861,
+    popular: false
+  },
+  {
+    id: "jisulife-life7-portable-handheld-fan-5000mah",
+    name: "JISULIFE Life7 Portable Handheld Fan, 5000mAh, LED Display, 5 Speeds",
+    short: "JISULIFE Life7 Portable Handheld Fan, 5000mAh, LED Display, 5 Speeds",
+    price: 24.83,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3kYNHMX",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jisulife-life7-portable-handheld-fan-5000mah/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jisulife-life7-portable-handheld-fan-5000mah/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jisulife-life7-portable-handheld-fan-5000mah/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jisulife-life7-portable-handheld-fan-5000mah/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jisulife-life7-portable-handheld-fan-5000mah/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jisulife-life7-portable-handheld-fan-5000mah/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jisulife-life7-portable-handheld-fan-5000mah/ad-photo.png",
+    desc: "JISULIFE Life7 portable handheld fan — 5000mAh battery, LED display, 5 speeds.",
+    specs: [["Type", "JISULIFE Life7 portable handheld fan, 5000mAh (per listing title)"], ["Features", "5000mAh battery, LED display, 5 speeds (per listing)"], ["Power", "Battery-powered, 5000mAh, USB rechargeable (per listing)"]],
+    added: 862,
+    popular: false
+  },
+  {
+    id: "zeblaze-btalk-3-pro-1-43-amoled-smartwatch",
+    name: "Zeblaze Btalk 3 PRO 1.43\" AMOLED Smartwatch, Bluetooth Calling",
+    short: "Zeblaze Btalk 3 PRO 1.43\" AMOLED Smartwatch, Bluetooth Calling",
+    price: 20.21,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3rYBqgL",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zeblaze-btalk-3-pro-1-43-amoled-smartwatch/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zeblaze-btalk-3-pro-1-43-amoled-smartwatch/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zeblaze-btalk-3-pro-1-43-amoled-smartwatch/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zeblaze-btalk-3-pro-1-43-amoled-smartwatch/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zeblaze-btalk-3-pro-1-43-amoled-smartwatch/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zeblaze-btalk-3-pro-1-43-amoled-smartwatch/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zeblaze-btalk-3-pro-1-43-amoled-smartwatch/ad-photo.png",
+    desc: "Zeblaze Btalk 3 PRO smartwatch — 1.43-inch AMOLED display, Bluetooth calling.",
+    specs: [["Type", "Zeblaze Btalk 3 PRO 1.43-inch AMOLED smartwatch (per listing title)"], ["Features", "1.43-inch AMOLED display, Bluetooth calling (per listing)"], ["Power", "Battery-powered, USB charging (per listing)"]],
+    added: 863,
+    popular: false
+  },
+  {
+    id: "ajazz-nk61-wired-mechanical-gaming-keyboard",
+    name: "AJAZZ NK61 Wired Mechanical Gaming Keyboard, 61-key, hot-swappable, RGB",
+    short: "AJAZZ NK61 Wired Mechanical Gaming Keyboard, 61-key, hot-swappable, RGB",
+    price: 19.46,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3CMIiXh",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ajazz-nk61-wired-mechanical-gaming-keyboard/main.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ajazz-nk61-wired-mechanical-gaming-keyboard/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ajazz-nk61-wired-mechanical-gaming-keyboard/photo-3.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ajazz-nk61-wired-mechanical-gaming-keyboard/photo-4.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ajazz-nk61-wired-mechanical-gaming-keyboard/photo-5.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ajazz-nk61-wired-mechanical-gaming-keyboard/photo-6.png"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ajazz-nk61-wired-mechanical-gaming-keyboard/ad-photo-v2.png",
+    desc: "AJAZZ NK61 wired mechanical gaming keyboard — 61 keys, hot-swappable, RGB backlight.",
+    specs: [["Type", "AJAZZ NK61 wired mechanical gaming keyboard, 61-key (per listing title)"], ["Features", "Hot-swappable, RGB backlight (per listing)"], ["Power", "USB-wired (per listing)"]],
+    added: 864,
+    popular: false
+  }
 
 ];
 
