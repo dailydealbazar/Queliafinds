@@ -22536,6 +22536,105 @@ const PRODUCTS = [
     added: 891,
     popular: false
   }
+,
+  {
+    id: "sofirn-mini-sc13-sst40-led-1300lm-tactical-flashlight-18350",
+    name: "Sofirn Mini SC13 SST40 LED 1300lm Tactical 18350 Rechargeable Flashlight 6000K Keychain Light with Magnetic Tail",
+    short: "Sofirn Mini SC13 SST40 LED 1300lm Tactical 18350 Rechargeable Flashlight 6000K Keychain Light",
+    price: 18.44,
+    oldPrice: 27.88,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4TuLSdz",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-mini-sc13-sst40-led-1300lm-tactical-flashlight-18350/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-mini-sc13-sst40-led-1300lm-tactical-flashlight-18350/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-mini-sc13-sst40-led-1300lm-tactical-flashlight-18350/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-mini-sc13-sst40-led-1300lm-tactical-flashlight-18350/photo-4.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-mini-sc13-sst40-led-1300lm-tactical-flashlight-18350/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-mini-sc13-sst40-led-1300lm-tactical-flashlight-18350/ad-photo.png",
+    desc: "Sofirn Mini SC13 tactical flashlight — 1300lm, SST40 LED, 18350 rechargeable, 6000K keychain light with magnetic tail.",
+    specs: [["Type", "Sofirn Mini SC13 tactical flashlight, 1300lm, SST40 LED, 18350 (per listing title)"], ["Features", "6000K keychain light, magnetic tail, IP68 (per listing)"], ["Power", "USB-C rechargeable, 18350 battery, IP68 (per listing)"]],
+    added: 892,
+    popular: false
+  },
+  {
+    id: "zeblaze-gts-4-voice-calling-smart-watch-amoled",
+    name: "New Zeblaze GTS 4 Voice Calling 1.94\" HD AMOLED Screen Smart Watch, 100+ Sports Modes, Heart Rate, SpO2, Health Tracking Smartwatch",
+    short: "New Zeblaze GTS 4 Voice Calling 1.94\" HD AMOLED Screen Smart Watch 100+ Sports Modes Heart Rate SpO2",
+    price: 21.61,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3sHzXyr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zeblaze-gts-4-voice-calling-smart-watch-amoled/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zeblaze-gts-4-voice-calling-smart-watch-amoled/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zeblaze-gts-4-voice-calling-smart-watch-amoled/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zeblaze-gts-4-voice-calling-smart-watch-amoled/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zeblaze-gts-4-voice-calling-smart-watch-amoled/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zeblaze-gts-4-voice-calling-smart-watch-amoled/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zeblaze-gts-4-voice-calling-smart-watch-amoled/ad-photo.png",
+    desc: "Zeblaze GTS 4 smartwatch — voice calling, 1.94\" HD AMOLED screen, 100+ sports modes, heart rate, SpO2, health tracking.",
+    specs: [["Type", "Zeblaze GTS 4 voice calling smart watch, 1.94\" HD AMOLED screen (per listing title)"], ["Features", "100+ sports modes, heart rate, SpO2, health tracking (per listing)"], ["Power", "300mAh Li-polymer battery, magnetic charging cable (USB) (per listing)"]],
+    added: 893,
+    popular: false
+  },
+  {
+    id: "hagibis-4k-hdmi-video-capture-card-loop-out-ms2131",
+    name: "Hagibis 4K HDMI-Compatible Video Capture Card Loop Out for Game Recording Live Streaming 1080P Grabber MS2131 for PS4/5 Switch",
+    short: "Hagibis 4K HDMI-Compatible Video Capture Card Loop Out for Game Recording Live Streaming 1080P Grabber MS2131",
+    price: 21.88,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3ReAD5t",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-4k-hdmi-video-capture-card-loop-out-ms2131/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-4k-hdmi-video-capture-card-loop-out-ms2131/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-4k-hdmi-video-capture-card-loop-out-ms2131/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-4k-hdmi-video-capture-card-loop-out-ms2131/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-4k-hdmi-video-capture-card-loop-out-ms2131/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-4k-hdmi-video-capture-card-loop-out-ms2131/ad-photo.png",
+    desc: "Hagibis 4K HDMI video capture card — loop out, game recording, live streaming, 1080P grabber MS2131 for PS4/5, Switch.",
+    specs: [["Type", "Hagibis 4K HDMI video capture card, loop out, MS2131 (per listing title)"], ["Features", "Game recording, live streaming, 1080P grabber, for PS4/5, Switch (per listing)"], ["Power", "USB 3.0 / USB-C powered (per listing)"]],
+    added: 894,
+    popular: false
+  },
+  {
+    id: "essager-magnetic-wireless-charger-car-phone-holder-15w-rgb",
+    name: "Essager Magnetic Wireless Charger Car Phone Holder 15W RGB Seven Color Light Fast Charging Mount Stand For iPhone 15 14 13 Android",
+    short: "Essager Magnetic Wireless Charger Car Phone Holder 15W RGB Seven Color Light Fast Charging Mount Stand",
+    price: 9.00,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c4OySynp",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-magnetic-wireless-charger-car-phone-holder-15w-rgb/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-magnetic-wireless-charger-car-phone-holder-15w-rgb/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-magnetic-wireless-charger-car-phone-holder-15w-rgb/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-magnetic-wireless-charger-car-phone-holder-15w-rgb/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-magnetic-wireless-charger-car-phone-holder-15w-rgb/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-magnetic-wireless-charger-car-phone-holder-15w-rgb/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-magnetic-wireless-charger-car-phone-holder-15w-rgb/ad-photo.png",
+    desc: "Essager magnetic wireless charger car phone holder — 15W, RGB seven-color light, fast charging mount stand for iPhone 15/14/13, Android.",
+    specs: [["Type", "Essager magnetic wireless charger car phone holder, 15W, RGB (per listing title)"], ["Features", "RGB seven-color light, fast charging mount stand, for iPhone 15/14/13, Android (per listing)"], ["Power", "USB-A powered, 15W (per listing)"]],
+    added: 895,
+    popular: false
+  }
 
 ];
 
