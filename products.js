@@ -21502,6 +21502,82 @@ const PRODUCTS = [
     added: 850,
     popular: false
   }
+,
+  {
+    id: "feican-30cm-cct-monitor-light",
+    name: "FEICAN 30CM CCT Monitor Light",
+    short: "FEICAN 30CM CCT Monitor Light",
+    price: 8.68,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c44uR64j",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/feican-30cm-cct-monitor-light/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/feican-30cm-cct-monitor-light/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/feican-30cm-cct-monitor-light/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/feican-30cm-cct-monitor-light/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/feican-30cm-cct-monitor-light/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/feican-30cm-cct-monitor-light/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/feican-30cm-cct-monitor-light/ad-photo.png",
+    desc: "FEICAN 30CM CCT monitor light — touch dimmable screen hanging light, USB-powered, 150 cm cable.",
+    specs: [["Type", "FEICAN 30CM CCT monitor light, touch dimmable (per listing title)"], ["Features", "CCT colour temperature, touch dimming (per listing)"], ["Power", "USB-powered, DC, 150 cm USB cable (per listing)"]],
+    added: 851,
+    popular: false
+  },
+  {
+    id: "ultra-thin-transparent-privacy-camera-covers",
+    name: "Ultra-Thin Transparent Protection Slide Privacy Camera Covers",
+    short: "Ultra-Thin Transparent Privacy Camera Covers",
+    price: 2.63,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3XYjm0L",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ultra-thin-transparent-privacy-camera-covers/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ultra-thin-transparent-privacy-camera-covers/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ultra-thin-transparent-privacy-camera-covers/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ultra-thin-transparent-privacy-camera-covers/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ultra-thin-transparent-privacy-camera-covers/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ultra-thin-transparent-privacy-camera-covers/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ultra-thin-transparent-privacy-camera-covers/ad-photo.png",
+    desc: "Ultra-thin transparent privacy camera covers — metal slide covers for smartphones, webcams and tablets, 2-pack.",
+    specs: [["Type", "Ultra-thin transparent privacy camera covers, metal slide (per listing title)"], ["Features", "Front camera cover for Galaxy, Pixel & iPad, 2-pack (per listing)"], ["Power", "No power needed — passive metal cover (per listing)"]],
+    added: 852,
+    popular: false
+  },
+  {
+    id: "li-ning-red-hare-9-racing-running-shoes",
+    name: "Li-Ning Men's RED HARE 9 Racing Running Shoes",
+    short: "Li-Ning Men's RED HARE 9 Racing Running Shoes",
+    price: 49.57,
+    oldPrice: 67.00,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3AIPekj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/li-ning-red-hare-9-racing-running-shoes/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/li-ning-red-hare-9-racing-running-shoes/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/li-ning-red-hare-9-racing-running-shoes/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/li-ning-red-hare-9-racing-running-shoes/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/li-ning-red-hare-9-racing-running-shoes/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/li-ning-red-hare-9-racing-running-shoes/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/li-ning-red-hare-9-racing-running-shoes/ad-photo.png",
+    desc: "Li-Ning Men's RED HARE 9 racing running shoes — LIGHT FOAM ULTRA, breathable, durable, anti-slip.",
+    specs: [["Type", "Li-Ning Men's RED HARE 9 racing running shoes, LIGHT FOAM ULTRA (per listing title)"], ["Features", "Breathable, durable, anti-slip (per listing)"], ["Power", "No power needed (per listing)"]],
+    added: 853,
+    popular: false
+  }
 
 ];
 
