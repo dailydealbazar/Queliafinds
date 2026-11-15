@@ -22635,6 +22635,107 @@ const PRODUCTS = [
     added: 895,
     popular: false
   }
+,
+  {
+    id: "zeblaze-btalk-3-plus-voice-calling-smart-watch",
+    name: "New Zeblaze Btalk 3 Plus Voice Calling Smart Watch 1.39\" Large HD Color Display Fitness Tracking Smartwatch for Men and Ladies",
+    short: "New Zeblaze Btalk 3 Plus Voice Calling 1.39\" Large HD Color Display Fitness Tracking Smartwatch",
+    price: 15.32,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3NED3P9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zeblaze-btalk-3-plus-voice-calling-smart-watch/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zeblaze-btalk-3-plus-voice-calling-smart-watch/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zeblaze-btalk-3-plus-voice-calling-smart-watch/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zeblaze-btalk-3-plus-voice-calling-smart-watch/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zeblaze-btalk-3-plus-voice-calling-smart-watch/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zeblaze-btalk-3-plus-voice-calling-smart-watch/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zeblaze-btalk-3-plus-voice-calling-smart-watch/ad-photo.png",
+    desc: "Zeblaze Btalk 3 Plus smartwatch — voice calling, 1.39\" large HD color display, fitness tracking, for men and ladies.",
+    specs: [["Type", "Zeblaze Btalk 3 Plus voice calling smart watch, 1.39\" large HD color display (per listing title)"], ["Features", "Voice calling, fitness tracking, for men and ladies (per listing)"], ["Power", "USB rechargeable (per listing)"]],
+    added: 896,
+    popular: false
+  },
+  {
+    id: "sofirn-sc28-xhp50b-led-2800lm-flashlight-21700",
+    name: "SOFIRN SC28 XHP50B HD LED 2800Lm Type-C Rechargeable Flashlight Protable Powerful 21700 Torch EDC Flash Light IPX8 for Camping",
+    short: "SOFIRN SC28 XHP50B HD LED 2800Lm Type-C Rechargeable Flashlight Protable Powerful 21700 Torch EDC Flash Light IPX8",
+    price: 29.57,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4pAalwT",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-sc28-xhp50b-led-2800lm-flashlight-21700/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-sc28-xhp50b-led-2800lm-flashlight-21700/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-sc28-xhp50b-led-2800lm-flashlight-21700/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-sc28-xhp50b-led-2800lm-flashlight-21700/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-sc28-xhp50b-led-2800lm-flashlight-21700/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-sc28-xhp50b-led-2800lm-flashlight-21700/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-sc28-xhp50b-led-2800lm-flashlight-21700/ad-photo.png",
+    desc: "Sofirn SC28 flashlight — XHP50B HD LED, 2800Lm, Type-C rechargeable, 21700 torch, EDC flash light, IPX8 for camping.",
+    specs: [["Type", "SOFIRN SC28 XHP50B HD LED flashlight, 2800Lm, 21700 (per listing title)"], ["Features", "Type-C rechargeable, EDC flash light, IPX8 for camping (per listing)"], ["Power", "USB Type-C rechargeable, 21700 battery, IPX8 (per listing)"]],
+    added: 897,
+    popular: false
+  },
+  {
+    id: "jisulife-portable-fan-mini-handheld-f8-f8x-4500mah",
+    name: "JISULIFE Portable Fan Mini Handheld Fan USB 4500mAh Recharge Hand Held Small 3 In1 Pocket Fan with Power Bank Flashlight Feature",
+    short: "JISULIFE Portable Fan Mini Handheld Fan USB 4500mAh Recharge Hand Held Small 3 In1 Pocket Fan with Power Bank Flashlight Feature",
+    price: 19.60,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3KDxy9d",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jisulife-portable-fan-mini-handheld-f8-f8x-4500mah/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jisulife-portable-fan-mini-handheld-f8-f8x-4500mah/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jisulife-portable-fan-mini-handheld-f8-f8x-4500mah/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jisulife-portable-fan-mini-handheld-f8-f8x-4500mah/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jisulife-portable-fan-mini-handheld-f8-f8x-4500mah/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jisulife-portable-fan-mini-handheld-f8-f8x-4500mah/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jisulife-portable-fan-mini-handheld-f8-f8x-4500mah/ad-photo.png",
+    desc: "JISULIFE F8/F8X mini handheld fan — USB, 4500mAh rechargeable, 3-in-1 pocket fan with power bank and flashlight feature.",
+    specs: [["Type", "JISULIFE portable fan mini handheld fan, USB 4500mAh (per listing title)"], ["Features", "3-in-1 pocket fan with power bank and flashlight feature (per listing)"], ["Power", "USB-C rechargeable, 4500mAh (per listing)"]],
+    added: 898,
+    popular: false
+  },
+  {
+    id: "zd-toys-iron-man-action-figure-mark-35-red-snapper",
+    name: "ZD Toys Iron Man Action Figure Mark 35 Red Snapper Iron Man MK 24 MK 22 MK 47 Tony Stark Ironman Figure Action Collect Toy Gift",
+    short: "ZD Toys Iron Man Action Figure Mark 35 Red Snapper Iron Man MK 24 MK 22 MK 47 Tony Stark Ironman Figure",
+    price: 36.00,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4cZOrCB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zd-toys-iron-man-action-figure-mark-35-red-snapper/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zd-toys-iron-man-action-figure-mark-35-red-snapper/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zd-toys-iron-man-action-figure-mark-35-red-snapper/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zd-toys-iron-man-action-figure-mark-35-red-snapper/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zd-toys-iron-man-action-figure-mark-35-red-snapper/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zd-toys-iron-man-action-figure-mark-35-red-snapper/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zd-toys-iron-man-action-figure-mark-35-red-snapper/ad-photo.png",
+    desc: "ZD Toys Iron Man action figure — Mark 35 Red Snapper, MK 24, MK 22, MK 47, Tony Stark Ironman figure, action collect toy gift.",
+    specs: [["Type", "ZD Toys Iron Man action figure, Mark 35 Red Snapper (per listing title)"], ["Features", "MK 24, MK 22, MK 47, Tony Stark Ironman figure, movable joints (per listing)"], ["Material", "PVC, ~7 inches, movable joints (per listing)"]],
+    added: 899,
+    popular: false
+  }
 
 ];
 
