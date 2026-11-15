@@ -23190,6 +23190,107 @@ const PRODUCTS = [
     added: 917,
     popular: false
   }
+,
+  {
+    id: "kz-as16-pro-x-in-ear-earphone-8-balanced-armature",
+    name: "KZ AS16 Pro X In Ear Earphone 8 Balanced Armature Headset Sport Noise Cancelling Game Headphone with Detachable Audio Cable",
+    short: "KZ AS16 Pro X In Ear Earphone, 8 Balanced Armature",
+    price: 36.39,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4ohte9N",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-as16-pro-x-in-ear-earphone-8-balanced-armature/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-as16-pro-x-in-ear-earphone-8-balanced-armature/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-as16-pro-x-in-ear-earphone-8-balanced-armature/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-as16-pro-x-in-ear-earphone-8-balanced-armature/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-as16-pro-x-in-ear-earphone-8-balanced-armature/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-as16-pro-x-in-ear-earphone-8-balanced-armature/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-as16-pro-x-in-ear-earphone-8-balanced-armature/ad-photo.png",
+    desc: "KZ AS16 Pro X in-ear earphone — 8 balanced armature drivers, detachable cable, sport and game headset with noise cancelling.",
+    specs: [["Type", "KZ AS16 Pro X in-ear earphone, 8 balanced armature (per listing title)"], ["Features", "Detachable audio cable, sport noise cancelling, game headphone (per listing)"], ["Variant", "AS16 Pro X MIC (per listing)"]],
+    added: 918,
+    popular: false
+  },
+  {
+    id: "hikeup-mens-hiking-shoes-suede-hiking-boots",
+    name: "HIKEUP Men's Hiking Shoes Men's Suede Hiking Boots Outdoor Anti-Skid Wear-Resistant Non-Slip Breathable Fashion Sport Running Shoes",
+    short: "HIKEUP Men's Hiking Shoes, Suede Hiking Boots",
+    price: 49.79,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c2zapbYn",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hikeup-mens-hiking-shoes-suede-hiking-boots/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hikeup-mens-hiking-shoes-suede-hiking-boots/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hikeup-mens-hiking-shoes-suede-hiking-boots/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hikeup-mens-hiking-shoes-suede-hiking-boots/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hikeup-mens-hiking-shoes-suede-hiking-boots/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hikeup-mens-hiking-shoes-suede-hiking-boots/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hikeup-mens-hiking-shoes-suede-hiking-boots/ad-photo.png",
+    desc: "HIKEUP men's hiking shoes — suede hiking boots, outdoor anti-skid, wear-resistant, non-slip, breathable.",
+    specs: [["Type", "HIKEUP men's hiking shoes, suede hiking boots (per listing title)"], ["Model", "hikingup-06, Colour Green, sizes 40-45, material Polyester (per listing)"], ["Fit", "Sizing runs small — listing advises choosing one size bigger; shoes packed without box (per listing)"]],
+    added: 919,
+    popular: false
+  },
+  {
+    id: "netum-nt-1698w-nt-1228bl-barcode-scanner-wireless",
+    name: "NETUM NT-1698W / NT-1228BL Barcode Scanner Wireless 1D 2D QR Bar Code Reader Portable Handheld for Warehouse Supermarket Retail Store POS",
+    short: "NETUM NT-1698W / NT-1228BL Barcode Scanner, Wireless",
+    price: 25.92,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3BqTTb5",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/netum-nt-1698w-nt-1228bl-barcode-scanner-wireless/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/netum-nt-1698w-nt-1228bl-barcode-scanner-wireless/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/netum-nt-1698w-nt-1228bl-barcode-scanner-wireless/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/netum-nt-1698w-nt-1228bl-barcode-scanner-wireless/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/netum-nt-1698w-nt-1228bl-barcode-scanner-wireless/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/netum-nt-1698w-nt-1228bl-barcode-scanner-wireless/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/netum-nt-1698w-nt-1228bl-barcode-scanner-wireless/ad-photo.png",
+    desc: "NETUM barcode scanner — wireless 1D/2D QR bar code reader, portable handheld for warehouse, supermarket, retail store and POS.",
+    specs: [["Type", "NETUM NT-1698W / NT-1228BL barcode scanner, wireless 1D/2D QR (per listing title)"], ["Features", "Bluetooth/USB, CE/FCC/RoHS/UL (per listing)"], ["Use", "Warehouse, supermarket, retail store, POS (per listing)"]],
+    added: 920,
+    popular: false
+  },
+  {
+    id: "holapet-automatic-retractable-dog-leash-5m-8m",
+    name: "Automatic Retractable Big Dog Leash 5M 8M Strong Pet Roulette Leash for Small Large Dogs Cats Walking Training with Anti-Slip Handle (Holapet)",
+    short: "Automatic Retractable Big Dog Leash 5M 8M (Holapet)",
+    price: 16.19,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c45kpiD5",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/holapet-automatic-retractable-dog-leash-5m-8m/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/holapet-automatic-retractable-dog-leash-5m-8m/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/holapet-automatic-retractable-dog-leash-5m-8m/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/holapet-automatic-retractable-dog-leash-5m-8m/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/holapet-automatic-retractable-dog-leash-5m-8m/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/holapet-automatic-retractable-dog-leash-5m-8m/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/holapet-automatic-retractable-dog-leash-5m-8m/ad-photo.png",
+    desc: "Holapet automatic retractable dog leash — 5M/8M strong pet roulette leash for small and large dogs and cats, anti-slip handle.",
+    specs: [["Type", "Holapet automatic retractable dog leash, 5M/8M (per listing title)"], ["Features", "Anti-slip handle, strong nylon strap, for small and large dogs and cats (per listing)"], ["Sizes", "5M-50kg / 8M-50kg; colours Khaki/Gray/Green/Blue (per listing)"]],
+    added: 921,
+    popular: false
+  }
 
 ];
 
