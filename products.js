@@ -23492,6 +23492,105 @@ const PRODUCTS = [
     added: 929,
     popular: false
   }
+,
+  {
+    id: "nuroum-v11-1080p-60fps-full-hd-usb-webcam-2k",
+    name: "Nuroum V11 High Quality 1080p 60fps Full HD USB Mini 2K Webcam for PC/Laptop with Microphone, Plug and Play",
+    short: "Nuroum V11 Webcam, 1080p 60fps, 2K",
+    price: 29.57,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c38hg8tj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nuroum-v11-1080p-60fps-full-hd-usb-webcam-2k/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nuroum-v11-1080p-60fps-full-hd-usb-webcam-2k/photo-2.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nuroum-v11-1080p-60fps-full-hd-usb-webcam-2k/photo-3.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nuroum-v11-1080p-60fps-full-hd-usb-webcam-2k/photo-4.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nuroum-v11-1080p-60fps-full-hd-usb-webcam-2k/photo-5.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nuroum-v11-1080p-60fps-full-hd-usb-webcam-2k/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nuroum-v11-1080p-60fps-full-hd-usb-webcam-2k/ad-photo.png",
+    desc: "Nuroum V11 webcam — 1080p 60fps Full HD USB mini 2K webcam for PC and laptop, with microphone, plug and play.",
+    specs: [["Type", "Nuroum V11 webcam, 1080p 60fps Full HD USB mini 2K (per listing title)"], ["Features", "Microphone, plug and play (per listing)"], ["Variant", "2K / 4K (per listing)"]],
+    added: 930,
+    popular: false
+  },
+  {
+    id: "ykywbike-cycling-bib-shorts-men-padded-riding",
+    name: "YKYWBIKE Cycling Bib Shorts Men Outdoor Wear Bike Ride 6 Hours Padded Riding Bib Tights (Mtb shorts)",
+    short: "YKYWBIKE Cycling Bib Shorts, Men, Padded",
+    price: 34.60,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4o2Ajrj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ykywbike-cycling-bib-shorts-men-padded-riding/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ykywbike-cycling-bib-shorts-men-padded-riding/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ykywbike-cycling-bib-shorts-men-padded-riding/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ykywbike-cycling-bib-shorts-men-padded-riding/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ykywbike-cycling-bib-shorts-men-padded-riding/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ykywbike-cycling-bib-shorts-men-padded-riding/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ykywbike-cycling-bib-shorts-men-padded-riding/ad-photo.png",
+    desc: "YKYWBIKE cycling bib shorts — men's outdoor wear bike ride, 6 hours padded riding bib tights.",
+    specs: [["Type", "YKYWBIKE cycling bib shorts, men, padded (per listing title)"], ["Features", "6 hours padded riding (per listing)"], ["Fit", "Asian sizing runs small — size up advised (per listing reviews)"]],
+    added: 931,
+    popular: false
+  },
+  {
+    id: "anime-cosplay-costume-kigurumis-onesie-bandai",
+    name: "Anime Cosplay Costume Men Women Kigurumis Onesie Halloween Carnival Party Outfit Funny Jumpsuit (Bandai)",
+    short: "Anime Cosplay Costume, Kigurumis Onesie",
+    price: 30.15,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3VwgN1n",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/anime-cosplay-costume-kigurumis-onesie-bandai/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/anime-cosplay-costume-kigurumis-onesie-bandai/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/anime-cosplay-costume-kigurumis-onesie-bandai/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/anime-cosplay-costume-kigurumis-onesie-bandai/photo-4.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/anime-cosplay-costume-kigurumis-onesie-bandai/ad-photo.png",
+    desc: "Anime cosplay costume — men and women kigurumis onesie, Halloween carnival party outfit, funny jumpsuit.",
+    specs: [["Type", "Anime cosplay costume, kigurumis onesie (per listing title)"], ["Features", "Halloween carnival party outfit, funny jumpsuit (per listing)"], ["Fit", "18 characters/sizes; sizing runs small — size up advised (per listing reviews)"]],
+    added: 932,
+    popular: false
+  },
+  {
+    id: "tomzn-63a-wifi-smart-switch-energy-meter-mcb",
+    name: "TOMZN 63A 1P+N WIFI Smart Switch Energy Meter kWh Metering Monitoring Timer Relay MCB TUYA Smartlife Voltage Current Protection",
+    short: "TOMZN 63A WiFi Smart Switch, Energy Meter",
+    price: 16.52,
+    oldPrice: 19.51,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c34diEWV",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tomzn-63a-wifi-smart-switch-energy-meter-mcb/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tomzn-63a-wifi-smart-switch-energy-meter-mcb/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tomzn-63a-wifi-smart-switch-energy-meter-mcb/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tomzn-63a-wifi-smart-switch-energy-meter-mcb/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tomzn-63a-wifi-smart-switch-energy-meter-mcb/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tomzn-63a-wifi-smart-switch-energy-meter-mcb/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tomzn-63a-wifi-smart-switch-energy-meter-mcb/ad-photo.png",
+    desc: "TOMZN 63A WiFi smart switch — energy meter with kWh metering, monitoring, timer relay, MCB, Tuya Smart Life, voltage and current protection.",
+    specs: [["Type", "TOMZN 63A 1P+N WiFi smart switch, energy meter (per listing title)"], ["Features", "kWh metering, monitoring, timer relay, MCB, Tuya Smart Life (per listing)"], ["Power", "AC 90-300V 50/60Hz, CE certified (per listing)"]],
+    added: 933,
+    popular: false
+  }
 
 ];
 
