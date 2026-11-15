@@ -22865,7 +22865,7 @@ const PRODUCTS = [
   },
   {
     id: "sanpkon-tens-muscle-electrostimulator-patches-ems",
-    name: "10/20pcs Tens Muscle Electrostimulator Patches EMS Body Massager Low Frequency Massage Pads Replacement Electrodes Pads",
+    name: "SANPKON 10/20pcs Tens Muscle Electrostimulator Patches EMS Body Massager Low Frequency Massage Pads Replacement Electrodes Pads",
     short: "10/20pcs Tens Muscle Electrostimulator Patches EMS Body Massager Low Frequency Massage Pads",
     price: 6.17,
     oldPrice: null,
@@ -22936,6 +22936,107 @@ const PRODUCTS = [
     desc: "EJEAS Q8 Bluetooth 5.1 motorcycle helmet headset intercom — EUC remote walkie talkie, for 6 riders, IP67.",
     specs: [["Type", "EJEAS Q8 Bluetooth 5.1 motorcycle helmet headset intercom (per listing title)"], ["Features", "EUC remote walkie talkie, for 6 riders, real-time talking, IP67 (per listing)"], ["Power", "Built-in 3.7V/1200mAh battery, Type-C USB charging (per listing)"]],
     added: 907,
+    popular: false
+  }
+,
+  {
+    id: "coospo-bk9-bike-speed-cadence-sensor-bluetooth",
+    name: "COOSPO BK9 Bike Speed/Cadence Sensor Bluetooth 5.0 ANT IP67",
+    short: "COOSPO BK9 Bike Speed/Cadence Sensor Bluetooth 5.0 ANT IP67",
+    price: 13.59,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3TvK7Ib",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/coospo-bk9-bike-speed-cadence-sensor-bluetooth/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/coospo-bk9-bike-speed-cadence-sensor-bluetooth/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/coospo-bk9-bike-speed-cadence-sensor-bluetooth/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/coospo-bk9-bike-speed-cadence-sensor-bluetooth/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/coospo-bk9-bike-speed-cadence-sensor-bluetooth/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/coospo-bk9-bike-speed-cadence-sensor-bluetooth/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/coospo-bk9-bike-speed-cadence-sensor-bluetooth/ad-photo.png",
+    desc: "COOSPO BK9 bike speed/cadence sensor — Bluetooth 5.0, ANT+, IP67.",
+    specs: [["Type", "COOSPO BK9 bike speed/cadence sensor, Bluetooth 5.0, ANT+ (per listing title)"], ["Features", "IP67 waterproof, coin-cell battery (per listing)"], ["Power", "Battery-powered (coin-cell), no plug (per listing)"]],
+    added: 908,
+    popular: false
+  },
+  {
+    id: "kz-duonic-hifi-iems-triple-magnetic-planar-driver",
+    name: "KZ Duonic HIFI IEMs Triple-Magnetic Planar Driver 4-Tuning Wired Earphones with HD Dual Mic",
+    short: "KZ Duonic HIFI IEMs Triple-Magnetic Planar Driver 4-Tuning Wired Earphones",
+    price: 15.53,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3LaA6MT",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-duonic-hifi-iems-triple-magnetic-planar-driver/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-duonic-hifi-iems-triple-magnetic-planar-driver/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-duonic-hifi-iems-triple-magnetic-planar-driver/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-duonic-hifi-iems-triple-magnetic-planar-driver/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-duonic-hifi-iems-triple-magnetic-planar-driver/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-duonic-hifi-iems-triple-magnetic-planar-driver/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-duonic-hifi-iems-triple-magnetic-planar-driver/ad-photo.png",
+    desc: "KZ Duonic HIFI IEMs — triple-magnetic planar driver, 4-tuning, wired earphones with HD dual mic.",
+    specs: [["Type", "KZ Duonic HIFI IEMs, triple-magnetic planar driver (per listing title)"], ["Features", "4-tuning, HD dual mic, wired earphones (per listing)"], ["Connection", "Wired 3.5mm/Type-C, no battery (per listing)"]],
+    added: 909,
+    popular: false
+  },
+  {
+    id: "dyson-vacuum-cleaner-rechargeable-battery-v6-v7-v8-v10-v11-v15",
+    name: "Vacuum Cleaner Rechargeable Battery for Dyson V6 V7 V8 V10 V11 V15 Series (4800/12800mAh, 21.6/22.2V, Li-ion, CE)",
+    short: "Vacuum Cleaner Rechargeable Battery for Dyson V6 V7 V8 V10 V11 V15 Series",
+    price: 18.92,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3U2Ewjh",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dyson-vacuum-cleaner-rechargeable-battery-v6-v7-v8-v10-v11-v15/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dyson-vacuum-cleaner-rechargeable-battery-v6-v7-v8-v10-v11-v15/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dyson-vacuum-cleaner-rechargeable-battery-v6-v7-v8-v10-v11-v15/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dyson-vacuum-cleaner-rechargeable-battery-v6-v7-v8-v10-v11-v15/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dyson-vacuum-cleaner-rechargeable-battery-v6-v7-v8-v10-v11-v15/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dyson-vacuum-cleaner-rechargeable-battery-v6-v7-v8-v10-v11-v15/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dyson-vacuum-cleaner-rechargeable-battery-v6-v7-v8-v10-v11-v15/ad-photo.png",
+    desc: "Rechargeable Li-ion battery for Dyson V6/V7/V8/V10/V11/V15 vacuum cleaners — 4800/12800mAh, 21.6/22.2V.",
+    specs: [["Type", "Vacuum cleaner rechargeable battery for Dyson V6/V7/V8/V10/V11/V15 (per listing title)"], ["Capacity", "4800/12800mAh, 21.6/22.2V, Li-ion, CE (per listing)"], ["Power", "Rechargeable Li-ion battery, no plug (per listing)"]],
+    added: 910,
+    popular: false
+  },
+  {
+    id: "siminail-rectangle-nail-drill-35000rpm-rechargeable",
+    name: "SIMINAIL Rectangle Nail Drill, Rechargeable Desktop Base, 35000RPM Manicure Electric Machine, Nail File, Pedicure, Cordless Drilling",
+    short: "SIMINAIL Rectangle Nail Drill, Rechargeable Desktop Base, 35000RPM Manicure Electric",
+    price: 53.80,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3DdfqUx",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/siminail-rectangle-nail-drill-35000rpm-rechargeable/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/siminail-rectangle-nail-drill-35000rpm-rechargeable/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/siminail-rectangle-nail-drill-35000rpm-rechargeable/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/siminail-rectangle-nail-drill-35000rpm-rechargeable/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/siminail-rectangle-nail-drill-35000rpm-rechargeable/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/siminail-rectangle-nail-drill-35000rpm-rechargeable/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/siminail-rectangle-nail-drill-35000rpm-rechargeable/ad-photo.png",
+    desc: "SIMINAIL rectangle nail drill — rechargeable desktop base, 35000RPM manicure electric machine, cordless.",
+    specs: [["Type", "SIMINAIL rectangle nail drill, rechargeable desktop base (per listing title)"], ["Features", "35000RPM manicure electric machine, nail file, pedicure, cordless (per listing)"], ["Power", "Rechargeable cordless + desktop charging base; plug options EU/UK/AU/US (per listing)"]],
+    added: 911,
     popular: false
   }
 
