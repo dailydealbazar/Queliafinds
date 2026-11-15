@@ -21401,6 +21401,107 @@ const PRODUCTS = [
     added: 846,
     popular: false
   }
+,
+  {
+    id: "sarmocare-s100-sonic-electric-toothbrush",
+    name: "Sarmocare S100 Sonic Electric Toothbrush",
+    short: "Sarmocare S100 Sonic Electric Toothbrush",
+    price: 32.57,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c2uvYBcB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sarmocare-s100-sonic-electric-toothbrush/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sarmocare-s100-sonic-electric-toothbrush/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sarmocare-s100-sonic-electric-toothbrush/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sarmocare-s100-sonic-electric-toothbrush/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sarmocare-s100-sonic-electric-toothbrush/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sarmocare-s100-sonic-electric-toothbrush/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sarmocare-s100-sonic-electric-toothbrush/ad-photo.png",
+    desc: "Sarmocare S100 sonic electric toothbrush — 8 brush heads, 5 modes, USB Type-C rechargeable, 2-minute timer.",
+    specs: [["Type", "Sarmocare S100 sonic electric toothbrush, 8 heads (per listing title)"], ["Features", "5 modes, 2-minute built-in timer, wireless charging (per listing)"], ["Power", "USB Type-C rechargeable, batteries included (per listing)"]],
+    added: 847,
+    popular: false
+  },
+  {
+    id: "mn82s-rc-crawler-1-12-lc79-pickup-truck",
+    name: "MN82S RC Crawler 1/12 LC79 Pickup Truck 4WD",
+    short: "MN82S RC Crawler 1/12 LC79 Pickup Truck",
+    price: 76.96,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4W0tENH",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mn82s-rc-crawler-1-12-lc79-pickup-truck/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mn82s-rc-crawler-1-12-lc79-pickup-truck/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mn82s-rc-crawler-1-12-lc79-pickup-truck/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mn82s-rc-crawler-1-12-lc79-pickup-truck/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mn82s-rc-crawler-1-12-lc79-pickup-truck/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mn82s-rc-crawler-1-12-lc79-pickup-truck/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mn82s-rc-crawler-1-12-lc79-pickup-truck/ad-photo.png",
+    desc: "MN82S RC crawler 1/12 LC79 pickup truck — 4WD, remote control, lithium battery + USB charging cable included.",
+    specs: [["Type", "MN82S RC crawler 1/12 LC79 pickup truck, 4WD (per listing title)"], ["Features", "Remote control, simulation car lights, DIY disassembling (per listing)"], ["Power", "Lithium battery + USB charging cable included (per listing)"]],
+    added: 848,
+    popular: false
+  },
+  {
+    id: "baseus-gan3-desktop-charger-4-port",
+    name: "Baseus 100W / 65W GaN3 Desktop Charger",
+    short: "Baseus 100W / 65W GaN3 Desktop Charger",
+    price: 37.76,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c45oFmZ9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-gan3-desktop-charger-4-port/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-gan3-desktop-charger-4-port/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-gan3-desktop-charger-4-port/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-gan3-desktop-charger-4-port/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-gan3-desktop-charger-4-port/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-gan3-desktop-charger-4-port/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/baseus-gan3-desktop-charger-4-port/ad-photo.png",
+    desc: "Baseus GaN3 desktop charger — 4-port (2x USB-A + 2x USB-C), 1.5 m cable, EU plug, 65W variant.",
+    specs: [["Type", "Baseus GaN3 desktop charger, 4-port (per listing title)"], ["Features", "2x USB-A + 2x USB-C, 1.5 m cable (per listing)"], ["Power", "65W EU plug (per listing; portal price matches the 65W variant)"]],
+    added: 849,
+    popular: false
+  },
+  {
+    id: "essager-15w-3-in-1-magnetic-wireless-charger",
+    name: "Essager 15W 3-in-1 Magnetic Wireless Charger",
+    short: "Essager 15W 3-in-1 Magnetic Wireless Charger",
+    price: 29.96,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3AdSxYR",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-15w-3-in-1-magnetic-wireless-charger/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-15w-3-in-1-magnetic-wireless-charger/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-15w-3-in-1-magnetic-wireless-charger/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-15w-3-in-1-magnetic-wireless-charger/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-15w-3-in-1-magnetic-wireless-charger/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-15w-3-in-1-magnetic-wireless-charger/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-15w-3-in-1-magnetic-wireless-charger/ad-photo.png",
+    desc: "Essager 15W 3-in-1 magnetic wireless charger — phone + smartwatch + AirPods, 96 cm retractable Type-C cable, built-in stand.",
+    specs: [["Type", "Essager 15W 3-in-1 magnetic wireless charger (per listing title)"], ["Features", "Phone + smartwatch + AirPods charging, built-in stand (per listing)"], ["Power", "USB-powered, 96 cm retractable Type-C cable included (per listing)"]],
+    added: 850,
+    popular: false
+  }
 
 ];
 
