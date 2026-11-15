@@ -23115,6 +23115,81 @@ const PRODUCTS = [
     added: 914,
     popular: false
   }
+,
+  {
+    id: "realme-buds-air-8-true-wireless-earbuds-anc",
+    name: "Global Version realme Buds Air 8 55dB Ultra Depth Noise Cancellation True Wireless Earphone Bluetooth 5.4 Earbuds LHDC 5.0 IP55",
+    short: "realme Buds Air 8 True Wireless Earbuds, 55dB ANC, Bluetooth 5.4",
+    price: 52.86,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3Sv1Vn5",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/realme-buds-air-8-true-wireless-earbuds-anc/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/realme-buds-air-8-true-wireless-earbuds-anc/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/realme-buds-air-8-true-wireless-earbuds-anc/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/realme-buds-air-8-true-wireless-earbuds-anc/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/realme-buds-air-8-true-wireless-earbuds-anc/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/realme-buds-air-8-true-wireless-earbuds-anc/ad-photo.png",
+    desc: "realme Buds Air 8 true wireless earbuds — 55dB ultra depth noise cancellation, Bluetooth 5.4, LHDC 5.0, IP55.",
+    specs: [["Type", "realme Buds Air 8 true wireless earbuds, 55dB ANC (per listing title)"], ["Features", "Ultra depth noise cancellation, LHDC 5.0, IP55 (per listing)"], ["Power", "Rechargeable, Bluetooth 5.4 (per listing)"]],
+    added: 915,
+    popular: false
+  },
+  {
+    id: "attack-shark-x11-wireless-gaming-mouse-paw3311",
+    name: "Attack Shark X11 & X11se Wireless Gaming Mouse, Bluetooth Tri-Mode Connection, PixArt PAW3311, 22000 DPI, 59g Lightweight, RGB Magnetic Charging Dock (X11)",
+    short: "Attack Shark X11 Wireless Gaming Mouse, PixArt PAW3311, 22000 DPI",
+    price: 22.41,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c2QCrfYR",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/attack-shark-x11-wireless-gaming-mouse-paw3311/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/attack-shark-x11-wireless-gaming-mouse-paw3311/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/attack-shark-x11-wireless-gaming-mouse-paw3311/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/attack-shark-x11-wireless-gaming-mouse-paw3311/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/attack-shark-x11-wireless-gaming-mouse-paw3311/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/attack-shark-x11-wireless-gaming-mouse-paw3311/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/attack-shark-x11-wireless-gaming-mouse-paw3311/ad-photo.png",
+    desc: "Attack Shark X11 wireless gaming mouse — Bluetooth tri-mode, PixArt PAW3311, 22000 DPI, 59g lightweight, RGB magnetic charging dock.",
+    specs: [["Type", "Attack Shark X11 wireless gaming mouse, PixArt PAW3311 (per listing title)"], ["Features", "Bluetooth tri-mode, 22000 DPI, 59g lightweight, RGB magnetic charging dock (per listing)"], ["Power", "Rechargeable (per listing)"]],
+    added: 916,
+    popular: false
+  },
+  {
+    id: "insoma-wifi-sprinkler-timer-automatic-irrigation-sgw03wf",
+    name: "Insoma Wifi Sprinkler Timer Automatic Irrigation System Remote Control Smart Water Timer for Garden Lawn Outdoor Faucet (INSOMA SGW03WF)",
+    short: "Insoma Wifi Sprinkler Timer, Automatic Irrigation System, SGW03WF",
+    price: 32.58,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3M3xRUB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/insoma-wifi-sprinkler-timer-automatic-irrigation-sgw03wf/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/insoma-wifi-sprinkler-timer-automatic-irrigation-sgw03wf/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/insoma-wifi-sprinkler-timer-automatic-irrigation-sgw03wf/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/insoma-wifi-sprinkler-timer-automatic-irrigation-sgw03wf/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/insoma-wifi-sprinkler-timer-automatic-irrigation-sgw03wf/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/insoma-wifi-sprinkler-timer-automatic-irrigation-sgw03wf/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/insoma-wifi-sprinkler-timer-automatic-irrigation-sgw03wf/ad-photo.png",
+    desc: "Insoma wifi sprinkler timer — automatic irrigation system, remote control smart water timer for garden, lawn, outdoor faucet.",
+    specs: [["Type", "Insoma wifi sprinkler timer, automatic irrigation system (per listing title)"], ["Features", "Remote control, smart water timer, garden/lawn/outdoor faucet (per listing)"], ["Fit", "Wifi G thread variant for Switzerland; NH thread variant is USA/Canada/Mexico only (per listing)"]],
+    added: 917,
+    popular: false
+  }
 
 ];
 
