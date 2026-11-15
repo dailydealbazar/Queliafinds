@@ -22736,6 +22736,107 @@ const PRODUCTS = [
     added: 899,
     popular: false
   }
+,
+  {
+    id: "ugreen-4k-fhd-1080p-webcam-8mp-pdaf",
+    name: "UGREEN 4K FHD 1080P Webcam 8MP for PC, PDAF Auto Focus, Dual Noise-Cancelling Mics, Web cam Camera for Zoom/Teams/Google Meet",
+    short: "UGREEN 4K FHD 1080P Webcam 8MP for PC, PDAF Auto Focus, Dual Noise-Cancelling Mics, Web cam Camera",
+    price: 20.74,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3rwDuZz",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-4k-fhd-1080p-webcam-8mp-pdaf/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-4k-fhd-1080p-webcam-8mp-pdaf/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-4k-fhd-1080p-webcam-8mp-pdaf/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-4k-fhd-1080p-webcam-8mp-pdaf/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-4k-fhd-1080p-webcam-8mp-pdaf/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-4k-fhd-1080p-webcam-8mp-pdaf/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-4k-fhd-1080p-webcam-8mp-pdaf/ad-photo.png",
+    desc: "UGREEN 4K webcam — 8MP, PDAF auto focus, dual noise-cancelling mics, for Zoom/Teams/Google Meet.",
+    specs: [["Type", "UGREEN 4K FHD 1080P webcam, 8MP, PDAF auto focus (per listing title)"], ["Features", "Dual noise-cancelling mics, for Zoom/Teams/Google Meet (per listing)"], ["Power", "USB-powered (per listing)"]],
+    added: 900,
+    popular: false
+  },
+  {
+    id: "cusu-m2-ssd-1tb-nvme-pcie-3-0",
+    name: "CUSU M2 SSD 1TB 2TB NVMe SSD 512GB Hard Drive PCIe3.0 X4 Internal Solid State Disk for Laptop Desktop",
+    short: "CUSU M2 SSD 1TB 2TB NVMe SSD 512GB Hard Drive PCIe3.0 X4 Internal Solid State Disk",
+    price: 32.20,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3T24mOX",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cusu-m2-ssd-1tb-nvme-pcie-3-0/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cusu-m2-ssd-1tb-nvme-pcie-3-0/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cusu-m2-ssd-1tb-nvme-pcie-3-0/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cusu-m2-ssd-1tb-nvme-pcie-3-0/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cusu-m2-ssd-1tb-nvme-pcie-3-0/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cusu-m2-ssd-1tb-nvme-pcie-3-0/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cusu-m2-ssd-1tb-nvme-pcie-3-0/ad-photo.png",
+    desc: "CUSU M2 NVMe SSD — 1TB/2TB, 512GB, PCIe 3.0 x4 internal solid state disk for laptop and desktop.",
+    specs: [["Type", "CUSU M2 SSD NVMe, 1TB/2TB, 512GB, PCIe 3.0 x4 (per listing title)"], ["Features", "Internal solid state disk for laptop and desktop (per listing)"], ["Power", "Draws power from host PC (M.2 NVMe, per listing)"]],
+    added: 901,
+    popular: false
+  },
+  {
+    id: "barcur-tr90-polarized-sunglasses-bc2139",
+    name: "BARCUR Design TR90 Sunglasses Men Polarized Light Weight Sports Sun Glasses Women Eyewear Accessory Oculos UVAB Protection",
+    short: "BARCUR Design TR90 Sunglasses Men Polarized Light Weight Sports Sun Glasses Women Eyewear",
+    price: 2.25,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3N2gA71",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/barcur-tr90-polarized-sunglasses-bc2139/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/barcur-tr90-polarized-sunglasses-bc2139/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/barcur-tr90-polarized-sunglasses-bc2139/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/barcur-tr90-polarized-sunglasses-bc2139/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/barcur-tr90-polarized-sunglasses-bc2139/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/barcur-tr90-polarized-sunglasses-bc2139/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/barcur-tr90-polarized-sunglasses-bc2139/ad-photo.png",
+    desc: "BARCUR TR90 sunglasses — polarized, light weight, sports sun glasses, UVAB protection.",
+    specs: [["Type", "BARCUR TR90 polarized sunglasses, model BC2139 (per listing title)"], ["Features", "Polarized, light weight, sports sun glasses, UVAB protection (per listing)"], ["Material", "TR90 frame (per listing)"]],
+    added: 902,
+    popular: false
+  },
+  {
+    id: "stain-remover-pen-portable-emergency-oxygen-formula",
+    name: "1/3/6 Portable and Convenient Stain Remover Pen for Emergency Stain Removal — Water-free, Suitable for Various Fabrics, Oxygen Formula",
+    short: "1/3/6 Portable and Convenient Stain Remover Pen for Emergency Stain Removal",
+    price: 1.12,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3ZKhTPz",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stain-remover-pen-portable-emergency-oxygen-formula/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stain-remover-pen-portable-emergency-oxygen-formula/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stain-remover-pen-portable-emergency-oxygen-formula/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stain-remover-pen-portable-emergency-oxygen-formula/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stain-remover-pen-portable-emergency-oxygen-formula/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stain-remover-pen-portable-emergency-oxygen-formula/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/stain-remover-pen-portable-emergency-oxygen-formula/ad-photo.png",
+    desc: "Stain remover pen — portable and convenient, emergency stain removal, water-free, oxygen formula.",
+    specs: [["Type", "Portable stain remover pen for emergency stain removal (per listing title)"], ["Features", "Water-free, suitable for various fabrics, oxygen formula (per listing)"], ["Quantity", "1-pc variant (listing default 6 pcs, per portal task)"]],
+    added: 903,
+    popular: false
+  }
 
 ];
 
