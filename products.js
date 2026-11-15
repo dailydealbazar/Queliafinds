@@ -22157,6 +22157,82 @@ const PRODUCTS = [
     added: 876,
     popular: false
   }
+,
+  {
+    id: "jisulife-life10s-portable-handheld-mini-fan-5000mah",
+    name: "JISULIFE New Arrival Portable Handheld Mini Fan Life10s, 5000mAh Battery Long Lasting Power, 5 Wind Speeds, Summer Essential",
+    short: "JISULIFE Life10s Handheld Turbo Fan 5000mAh 5 Wind Speeds",
+    price: 22.48,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c2IuhHrH",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jisulife-life10s-portable-handheld-mini-fan-5000mah/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jisulife-life10s-portable-handheld-mini-fan-5000mah/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jisulife-life10s-portable-handheld-mini-fan-5000mah/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jisulife-life10s-portable-handheld-mini-fan-5000mah/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jisulife-life10s-portable-handheld-mini-fan-5000mah/photo-5.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jisulife-life10s-portable-handheld-mini-fan-5000mah/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jisulife-life10s-portable-handheld-mini-fan-5000mah/ad-photo.png",
+    desc: "JISULIFE Life10s handheld turbo fan — 5000mAh battery, 5 wind speeds, portable mini fan for summer.",
+    specs: [["Type", "JISULIFE Life10s portable handheld mini fan (per listing title)"], ["Features", "5000mAh battery, 5 wind speeds, summer essential (per listing)"], ["Power", "5000mAh rechargeable battery, USB (per listing)"]],
+    added: 877,
+    popular: false
+  },
+  {
+    id: "fosi-audio-ds2-portable-usb-dac-headphone-amplifier",
+    name: "Fosi Audio DS2 Portable USB DAC Headphone Amplifier Dual CS43131 Type-C to 3.5mm 4.4mm PCM 32Bit/384kHz DSD256 HIFI Decoder",
+    short: "Fosi Audio DS2 Portable USB DAC Headphone Amplifier",
+    price: 47.26,
+    oldPrice: 77.99,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4oX88On",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fosi-audio-ds2-portable-usb-dac-headphone-amplifier/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fosi-audio-ds2-portable-usb-dac-headphone-amplifier/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fosi-audio-ds2-portable-usb-dac-headphone-amplifier/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fosi-audio-ds2-portable-usb-dac-headphone-amplifier/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fosi-audio-ds2-portable-usb-dac-headphone-amplifier/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fosi-audio-ds2-portable-usb-dac-headphone-amplifier/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/fosi-audio-ds2-portable-usb-dac-headphone-amplifier/ad-photo.png",
+    desc: "Fosi Audio DS2 portable USB DAC headphone amplifier — dual CS43131, Type-C to 3.5mm/4.4mm, PCM 32Bit/384kHz, DSD256.",
+    specs: [["Type", "Fosi Audio DS2 portable USB DAC headphone amplifier (per listing title)"], ["Features", "Dual CS43131, Type-C to 3.5mm/4.4mm, PCM 32Bit/384kHz, DSD256 (per listing)"], ["Power", "USB-C powered (per listing)"]],
+    added: 878,
+    popular: false
+  },
+  {
+    id: "hagibis-usb-c-to-ethernet-adapter-1gbps",
+    name: "Hagibis USB C to Ethernet Adapter 1Gbps Gigabit USB C Female to RJ45 Male Network Converter for MacBook Pro iPhone 16 iPad XPS",
+    short: "Hagibis USB C to Ethernet Adapter 1Gbps",
+    price: 9.68,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3MFC1fz",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-usb-c-to-ethernet-adapter-1gbps/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-usb-c-to-ethernet-adapter-1gbps/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-usb-c-to-ethernet-adapter-1gbps/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-usb-c-to-ethernet-adapter-1gbps/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-usb-c-to-ethernet-adapter-1gbps/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-usb-c-to-ethernet-adapter-1gbps/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-usb-c-to-ethernet-adapter-1gbps/ad-photo.png",
+    desc: "Hagibis USB-C to Ethernet adapter — 1Gbps gigabit, USB-C female to RJ45 male, for MacBook Pro, iPhone 16, iPad, XPS.",
+    specs: [["Type", "Hagibis USB C to Ethernet adapter 1Gbps (per listing title)"], ["Features", "Gigabit 1Gbps, USB-C female to RJ45 male (per listing)"], ["Power", "USB-C powered (per listing)"]],
+    added: 879,
+    popular: false
+  }
 
 ];
 
