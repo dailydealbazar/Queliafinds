@@ -21100,6 +21100,107 @@ const PRODUCTS = [
     added: 834,
     popular: false
   }
+,
+  {
+    id: "magene-h64-h303-heart-rate-sensor",
+    name: "Magene H64/H303 Heart Rate Sensor, Bluetooth Chest Strap, Dual Mode, Sports Band, Cycling Accessory",
+    short: "Magene H64/H303 Heart Rate Sensor",
+    price: 27.47,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3XnoFXd",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magene-h64-h303-heart-rate-sensor/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magene-h64-h303-heart-rate-sensor/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magene-h64-h303-heart-rate-sensor/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magene-h64-h303-heart-rate-sensor/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magene-h64-h303-heart-rate-sensor/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magene-h64-h303-heart-rate-sensor/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magene-h64-h303-heart-rate-sensor/ad-photo.png",
+    desc: "Magene H64/H303 heart rate sensor — Bluetooth chest strap, dual mode, sports band, cycling accessory.",
+    specs: [["Type", "Magene H64/H303 heart rate sensor, Bluetooth chest strap, dual mode (per listing title)"], ["Features", "Bluetooth/ANT+ dual mode, LED light reminding, long battery life (per listing)"], ["Power", "CR2032 coin battery (per listing)"]],
+    added: 835,
+    popular: false
+  },
+  {
+    id: "moes-tuya-zigbee-hub",
+    name: "MOES Tuya ZigBee Hub, Wireless Wired Bridge, Multi-Mode Controller, Bluetooth Mesh, Smart Life App, Alexa Google Home",
+    short: "MOES Tuya ZigBee Hub",
+    price: 24.37,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c40iXg2n",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moes-tuya-zigbee-hub/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moes-tuya-zigbee-hub/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moes-tuya-zigbee-hub/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moes-tuya-zigbee-hub/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moes-tuya-zigbee-hub/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moes-tuya-zigbee-hub/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moes-tuya-zigbee-hub/ad-photo.png",
+    desc: "MOES Tuya ZigBee hub — wireless wired bridge, multi-mode controller, Bluetooth mesh, Smart Life app, Alexa, Google Home.",
+    specs: [["Type", "MOES Tuya ZigBee hub, wireless wired bridge, multi-mode controller (per listing title)"], ["Features", "Bluetooth mesh, Smart Life app, Alexa, Google Home (per listing title)"], ["Power", "5V 2A mains adapter, CE, EU LVD (per listing)"]],
+    added: 836,
+    popular: false
+  },
+  {
+    id: "malitai-dimmable-led-strip-light",
+    name: "MALITAI Dimmable LED Strip Light for Cabinet, Kitchen Shelf, Pantry, Display Case, Bedroom, Wardrobe, Backlight Lamp, Manual Touch Motion Sensor Switch",
+    short: "MALITAI Dimmable LED Strip Light",
+    price: 19.38,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3g97w5N",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/malitai-dimmable-led-strip-light/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/malitai-dimmable-led-strip-light/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/malitai-dimmable-led-strip-light/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/malitai-dimmable-led-strip-light/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/malitai-dimmable-led-strip-light/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/malitai-dimmable-led-strip-light/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/malitai-dimmable-led-strip-light/ad-photo.png",
+    desc: "MALITAI dimmable LED strip light — for cabinet, kitchen shelf, pantry, display case, bedroom, wardrobe, backlight lamp, manual touch motion sensor switch.",
+    specs: [["Type", "MALITAI dimmable LED strip light for cabinet, kitchen shelf, pantry (per listing title)"], ["Features", "Manual touch motion sensor switch, dimmable, three colour temperatures (per listing)"], ["Power", "Mains, EU Power Plug variant, 12V AC (per listing)"]],
+    added: 837,
+    popular: false
+  },
+  {
+    id: "niterus-digital-torque-wrench-gm",
+    name: "NITERUS Digital Torque Wrench GM, Preset 1/2\" 3/8\" 1/4\" Bidirectional Ratchet Head, Professional Adjustable Bicycle Repair Hand Tools",
+    short: "NITERUS Digital Torque Wrench GM",
+    price: 59.49,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3Zyv8HH",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/niterus-digital-torque-wrench-gm/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/niterus-digital-torque-wrench-gm/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/niterus-digital-torque-wrench-gm/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/niterus-digital-torque-wrench-gm/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/niterus-digital-torque-wrench-gm/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/niterus-digital-torque-wrench-gm/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/niterus-digital-torque-wrench-gm/ad-photo.png",
+    desc: "NITERUS digital torque wrench GM — preset 1/2\", 3/8\", 1/4\" bidirectional ratchet head, professional adjustable bicycle repair hand tools.",
+    specs: [["Type", "NITERUS digital torque wrench GM, preset 1/2\", 3/8\", 1/4\" bidirectional ratchet head (per listing title)"], ["Features", "Bi-directional measurement, unit switching function, panel operation (per listing)"], ["Power", "Digital display; battery NOT included — buyer supplies the battery (per listing)"]],
+    added: 838,
+    popular: false
+  }
 
 ];
 
