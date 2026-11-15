@@ -23291,6 +23291,107 @@ const PRODUCTS = [
     added: 921,
     popular: false
   }
+,
+  {
+    id: "widesea-camping-coffee-pot-french-press-outdoor",
+    name: "Widesea Camping Coffee Pot with French Press Outdoor Cup Mug Cookware for Hiking Trekking",
+    short: "Widesea Camping Coffee Pot with French Press, Outdoor",
+    price: 27.70,
+    oldPrice: 33.73,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3RKLtr3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/widesea-camping-coffee-pot-french-press-outdoor/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/widesea-camping-coffee-pot-french-press-outdoor/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/widesea-camping-coffee-pot-french-press-outdoor/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/widesea-camping-coffee-pot-french-press-outdoor/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/widesea-camping-coffee-pot-french-press-outdoor/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/widesea-camping-coffee-pot-french-press-outdoor/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/widesea-camping-coffee-pot-french-press-outdoor/ad-photo.png",
+    desc: "Widesea camping coffee pot with French press — outdoor cup mug cookware for hiking and trekking, 0.75L aluminum pot + carry bag.",
+    specs: [["Type", "Widesea camping coffee pot with French press, outdoor (per listing title)"], ["Features", "0.75L aluminum pot, French press, carry bag (per listing)"], ["Use", "Hiking, trekking, outdoor (per listing)"]],
+    added: 922,
+    popular: false
+  },
+  {
+    id: "kids-barefoot-sneakers-girls-boys-wide-toe-breathable",
+    name: "New Kids Barefoot Sneakers Girls Boys Fashionable Children's Shoes Wide Toe Breathable Knitted Mesh Sole Non Slip Walking Cross",
+    short: "Kids Barefoot Sneakers, Wide Toe, Breathable",
+    price: 25.09,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c4NMqcN7",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-barefoot-sneakers-girls-boys-wide-toe-breathable/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-barefoot-sneakers-girls-boys-wide-toe-breathable/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-barefoot-sneakers-girls-boys-wide-toe-breathable/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-barefoot-sneakers-girls-boys-wide-toe-breathable/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-barefoot-sneakers-girls-boys-wide-toe-breathable/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-barefoot-sneakers-girls-boys-wide-toe-breathable/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kids-barefoot-sneakers-girls-boys-wide-toe-breathable/ad-photo.png",
+    desc: "Kids barefoot sneakers — wide toe, breathable knitted mesh sole, non-slip walking shoes for girls and boys, ages 7-13.",
+    specs: [["Type", "Kids barefoot sneakers, wide toe, breathable knitted mesh (per listing title)"], ["Fit", "Ages 7-13, unisex, fabric upper (per listing)"], ["Features", "Non-slip sole, strong velcro (per listing)"]],
+    added: 923,
+    popular: false
+  },
+  {
+    id: "kz-zs12-pro-x-metal-earphones-1dd-5ba-hybrid",
+    name: "KZ ZS12 PRO X Metal Earphones 1DD+5BA Hybrid HIFI Bass In Ear Monitor Headphones Music Sport Noise Cancelling Headset",
+    short: "KZ ZS12 PRO X Metal Earphones, 1DD+5BA Hybrid",
+    price: 48.28,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c2RO9DGz",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-zs12-pro-x-metal-earphones-1dd-5ba-hybrid/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-zs12-pro-x-metal-earphones-1dd-5ba-hybrid/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-zs12-pro-x-metal-earphones-1dd-5ba-hybrid/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-zs12-pro-x-metal-earphones-1dd-5ba-hybrid/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-zs12-pro-x-metal-earphones-1dd-5ba-hybrid/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-zs12-pro-x-metal-earphones-1dd-5ba-hybrid/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-zs12-pro-x-metal-earphones-1dd-5ba-hybrid/ad-photo.png",
+    desc: "KZ ZS12 PRO X metal earphones — 1DD+5BA hybrid HIFI bass in-ear monitor headphones, music sport noise cancelling headset.",
+    specs: [["Type", "KZ ZS12 PRO X metal earphones, 1DD+5BA hybrid HIFI (per listing title)"], ["Features", "Detachable cable, music sport noise cancelling (per listing)"], ["Variant", "Black tuning mic (per listing)"]],
+    added: 924,
+    popular: false
+  },
+  {
+    id: "gomexus-reel-handle-knob-35mm-shimano-daiwa",
+    name: "Gomexus Reel Handle Knob 35mm For Shimano Stella Vanford Stradic FI Vanquish 1000-3000 Daiwa Certate Exist Fuego LT Direct",
+    short: "Gomexus Reel Handle Knob 35mm, Shimano / Daiwa",
+    price: 28.83,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3IIi9pf",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gomexus-reel-handle-knob-35mm-shimano-daiwa/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gomexus-reel-handle-knob-35mm-shimano-daiwa/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gomexus-reel-handle-knob-35mm-shimano-daiwa/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gomexus-reel-handle-knob-35mm-shimano-daiwa/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gomexus-reel-handle-knob-35mm-shimano-daiwa/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gomexus-reel-handle-knob-35mm-shimano-daiwa/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gomexus-reel-handle-knob-35mm-shimano-daiwa/ad-photo.png",
+    desc: "Gomexus reel handle knob 35mm — replacement handle knob for Shimano Stella, Vanford, Stradic FI, Vanquish 1000-3000 and Daiwa Certate, Exist, Fuego LT reels.",
+    specs: [["Type", "Gomexus reel handle knob 35mm (per listing title)"], ["Fit", "Shimano Stella / Vanford / Stradic FI / Vanquish 1000-3000; Daiwa Certate / Exist / Fuego LT (per listing)"], ["Variant", "Black gold 35mm (per listing)"]],
+    added: 925,
+    popular: false
+  }
 
 ];
 
