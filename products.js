@@ -22435,6 +22435,107 @@ const PRODUCTS = [
     added: 887,
     popular: false
   }
+,
+  {
+    id: "sofirn-sk30-3000lm-tactical-flashlight-sft70-led-21700",
+    name: "SOFIRN SK30 3000LM Tactical Flashlight 6000K SFT70 LED Light 21700 USB C Rechargeable EDC Torch with Double Switch",
+    short: "SOFIRN SK30 3000LM Tactical Flashlight 6000K SFT70 LED 21700 USB-C Rechargeable EDC Torch",
+    price: 44.09,
+    oldPrice: 55.87,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c2Iwwxkf",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-sk30-3000lm-tactical-flashlight-sft70-led-21700/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-sk30-3000lm-tactical-flashlight-sft70-led-21700/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-sk30-3000lm-tactical-flashlight-sft70-led-21700/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-sk30-3000lm-tactical-flashlight-sft70-led-21700/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-sk30-3000lm-tactical-flashlight-sft70-led-21700/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-sk30-3000lm-tactical-flashlight-sft70-led-21700/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-sk30-3000lm-tactical-flashlight-sft70-led-21700/ad-photo.png",
+    desc: "SOFIRN SK30 tactical flashlight — 3000LM, 6000K SFT70 LED, 21700 USB-C rechargeable, EDC torch with double switch.",
+    specs: [["Type", "SOFIRN SK30 tactical flashlight, 3000LM, 6000K SFT70 LED (per listing title)"], ["Features", "21700 USB-C rechargeable, EDC torch, double switch, IP65 (per listing)"], ["Power", "1x 21700 Li-ion 5000mAh, USB-C rechargeable (per listing)"]],
+    added: 888,
+    popular: false
+  },
+  {
+    id: "atk-vxe-dragonfly-v3-pro-bluetooth-gaming-mouse-paw3395se",
+    name: "ATK VXE Dragonfly V3 PRO Bluetooth Gaming Mouse PAW3395SE 2.4G Wireless E-sports Mice Rechargeable Lightweight Ergonomic",
+    short: "ATK VXE Dragonfly V3 PRO Bluetooth Gaming Mouse PAW3395SE 2.4G Wireless E-sports Mice Rechargeable",
+    price: 23.90,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c357Fv9p",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/atk-vxe-dragonfly-v3-pro-bluetooth-gaming-mouse-paw3395se/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/atk-vxe-dragonfly-v3-pro-bluetooth-gaming-mouse-paw3395se/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/atk-vxe-dragonfly-v3-pro-bluetooth-gaming-mouse-paw3395se/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/atk-vxe-dragonfly-v3-pro-bluetooth-gaming-mouse-paw3395se/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/atk-vxe-dragonfly-v3-pro-bluetooth-gaming-mouse-paw3395se/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/atk-vxe-dragonfly-v3-pro-bluetooth-gaming-mouse-paw3395se/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/atk-vxe-dragonfly-v3-pro-bluetooth-gaming-mouse-paw3395se/ad-photo.png",
+    desc: "ATK VXE Dragonfly V3 PRO gaming mouse — PAW3395SE, 2.4G wireless, Bluetooth, rechargeable, lightweight ergonomic.",
+    specs: [["Type", "ATK VXE Dragonfly V3 PRO Bluetooth gaming mouse, PAW3395SE (per listing title)"], ["Features", "2.4G wireless, Bluetooth, rechargeable, lightweight ergonomic (per listing)"], ["Power", "Rechargeable 300mAh, USB-C (per listing)"]],
+    added: 889,
+    popular: false
+  },
+  {
+    id: "cyclami-s2-bike-computer-mount-mtb-road-gps-holder",
+    name: "CYCLAMI S2 Bike Computer Mount MTB Road Super Light GPS Holder for XOSS G2 G PLUS NAV IGPSPORT BSC100S BSC200S BSC300 BSC300T Garmin etc.",
+    short: "CYCLAMI S2 Bike Computer Mount MTB Road Super Light GPS Holder for XOSS G2 G PLUS NAV IGPSPORT BSC100S BSC200S BSC300",
+    price: 7.33,
+    oldPrice: 8.21,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3AAumux",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cyclami-s2-bike-computer-mount-mtb-road-gps-holder/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cyclami-s2-bike-computer-mount-mtb-road-gps-holder/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cyclami-s2-bike-computer-mount-mtb-road-gps-holder/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cyclami-s2-bike-computer-mount-mtb-road-gps-holder/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cyclami-s2-bike-computer-mount-mtb-road-gps-holder/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cyclami-s2-bike-computer-mount-mtb-road-gps-holder/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/cyclami-s2-bike-computer-mount-mtb-road-gps-holder/ad-photo.png",
+    desc: "CYCLAMI S2 bike computer mount — MTB/road, super light GPS holder for XOSS, IGPSPORT, Garmin.",
+    specs: [["Type", "CYCLAMI S2 bike computer mount, MTB road, super light GPS holder (per listing title)"], ["Features", "For XOSS G2/G PLUS/NAV, IGPSPORT BSC100S/BSC200S/BSC300/BSC300T, Garmin (per listing)"], ["Power", "No battery/plug (mechanical mount)"]],
+    added: 890,
+    popular: false
+  },
+  {
+    id: "jisulife-handheld-fan-ultra-2-turbo-jet-fan-100-speeds",
+    name: "JISULIFE Handheld Fan Ultra 2, Powerful Turbo Jet Fan, 100 Speeds, 9000mAh Rechargeable Battery, LED Display, Outdoor Camping",
+    short: "JISULIFE Handheld Fan Ultra 2 Powerful Turbo Jet Fan 100 Speeds 9000mAh Rechargeable Battery LED Display",
+    price: 85.34,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3EuLqAP",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jisulife-handheld-fan-ultra-2-turbo-jet-fan-100-speeds/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jisulife-handheld-fan-ultra-2-turbo-jet-fan-100-speeds/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jisulife-handheld-fan-ultra-2-turbo-jet-fan-100-speeds/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jisulife-handheld-fan-ultra-2-turbo-jet-fan-100-speeds/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jisulife-handheld-fan-ultra-2-turbo-jet-fan-100-speeds/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jisulife-handheld-fan-ultra-2-turbo-jet-fan-100-speeds/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jisulife-handheld-fan-ultra-2-turbo-jet-fan-100-speeds/ad-photo.png",
+    desc: "JISULIFE Handheld Fan Ultra 2 — powerful turbo jet fan, 100 speeds, 9000mAh rechargeable battery, LED display, outdoor camping.",
+    specs: [["Type", "JISULIFE Handheld Fan Ultra 2, powerful turbo jet fan, 100 speeds (per listing title)"], ["Features", "100 speeds, LED display, outdoor camping (per listing)"], ["Power", "9000mAh rechargeable, USB-C, 5 W (per listing)"]],
+    added: 891,
+    popular: false
+  }
 
 ];
 
