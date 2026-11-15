@@ -21578,6 +21578,82 @@ const PRODUCTS = [
     added: 853,
     popular: false
   }
+,
+  {
+    id: "peicon-fascia-massage-gun-extendable-handle",
+    name: "Peicon Fascia Massage Gun",
+    short: "Peicon Fascia Massage Gun",
+    price: 56.61,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3Xl1Orv",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/peicon-fascia-massage-gun-extendable-handle/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/peicon-fascia-massage-gun-extendable-handle/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/peicon-fascia-massage-gun-extendable-handle/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/peicon-fascia-massage-gun-extendable-handle/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/peicon-fascia-massage-gun-extendable-handle/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/peicon-fascia-massage-gun-extendable-handle/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/peicon-fascia-massage-gun-extendable-handle/ad-photo.png",
+    desc: "Peicon fascia massage gun — extendable handle, 10 massage heads, hot & cold compress, USB-C fast charging.",
+    specs: [["Type", "Peicon fascia massage gun, extendable handle (per listing title)"], ["Features", "10 massage heads, hot & cold compress head, 9 speeds, LED display (per listing)"], ["Power", "Battery-powered, USB-C fast charging (per listing)"]],
+    added: 854,
+    popular: false
+  },
+  {
+    id: "type-c-usb-dock-charger-phone-holder",
+    name: "Type C USB Dock Charger Phone Holder",
+    short: "Type C USB Dock Charger Phone Holder",
+    price: 4.34,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c38Kq527",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-usb-dock-charger-phone-holder/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-usb-dock-charger-phone-holder/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-usb-dock-charger-phone-holder/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-usb-dock-charger-phone-holder/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-usb-dock-charger-phone-holder/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-usb-dock-charger-phone-holder/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-usb-dock-charger-phone-holder/ad-photo.png",
+    desc: "Type-C USB dock charger phone holder — desktop charging cradle for iPhone and Samsung.",
+    specs: [["Type", "Type-C USB dock charger phone holder, desktop cradle (per listing title)"], ["Features", "For iPhone 17/16/15 Pro Max, Samsung S24/S25 (per listing)"], ["Power", "USB-powered, USB-C (charger not included) (per listing)"]],
+    added: 855,
+    popular: false
+  },
+  {
+    id: "yofidra-6-in-1-200bar-brushless-high-pressure-washer",
+    name: "YOFIDRA 6 in 1 200Bar Brushless High Pressure Washer",
+    short: "YOFIDRA 6 in 1 200Bar Brushless High Pressure Washer",
+    price: 52.46,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c42E1twb",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yofidra-6-in-1-200bar-brushless-high-pressure-washer/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yofidra-6-in-1-200bar-brushless-high-pressure-washer/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yofidra-6-in-1-200bar-brushless-high-pressure-washer/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yofidra-6-in-1-200bar-brushless-high-pressure-washer/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yofidra-6-in-1-200bar-brushless-high-pressure-washer/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yofidra-6-in-1-200bar-brushless-high-pressure-washer/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yofidra-6-in-1-200bar-brushless-high-pressure-washer/ad-photo.png",
+    desc: "YOFIDRA 6-in-1 200Bar brushless high pressure washer — cordless water gun, No Battery set (buyer supplies own Makita-compatible battery).",
+    specs: [["Type", "YOFIDRA 6-in-1 200Bar brushless high pressure washer, cordless water gun (per listing title)"], ["Features", "6-in-1 nozzle, Makita-compatible 21V battery pin (per listing)"], ["Power", "Battery-powered, Makita-compatible 21V — No Battery set, buyer supplies own battery (per listing)"]],
+    added: 856,
+    popular: false
+  }
 
 ];
 
