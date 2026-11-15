@@ -23692,6 +23692,106 @@ const PRODUCTS = [
     added: 937,
     popular: false
   }
+,
+  {
+    id: "flextail-x-vollyc-ezypack-25l-vacuum-storage-bag",
+    name: "FLEXTAIL X VOLLYC EZYPACK – 25L Vacuum Storage Bag, Reusable Clothing Storage Bag, Travel Backpack Luggage Bag, 85% Compression",
+    short: "FLEXTAIL EZYPACK 25L Vacuum Storage Bag",
+    price: 25.54,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3LeiYm9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/flextail-x-vollyc-ezypack-25l-vacuum-storage-bag/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/flextail-x-vollyc-ezypack-25l-vacuum-storage-bag/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/flextail-x-vollyc-ezypack-25l-vacuum-storage-bag/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/flextail-x-vollyc-ezypack-25l-vacuum-storage-bag/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/flextail-x-vollyc-ezypack-25l-vacuum-storage-bag/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/flextail-x-vollyc-ezypack-25l-vacuum-storage-bag/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/flextail-x-vollyc-ezypack-25l-vacuum-storage-bag/ad-photo.png",
+    desc: "FLEXTAIL EZYPACK 25L vacuum storage bag — reusable clothing storage bag, travel backpack luggage bag, 85% compression.",
+    specs: [["Type", "FLEXTAIL EZYPACK 25L vacuum storage bag (per listing title)"], ["Features", "Reusable clothing storage, travel backpack luggage bag, 85% compression (per listing)"], ["Stock", "Low stock — 8 left (per listing)"]],
+    added: 938,
+    popular: false
+  },
+  {
+    id: "seago-rotating-electric-toothbrush-sg-2607",
+    name: "Seago Rotating Electric Toothbrush for Adults with 8 Toothbrush Heads and Travel Box Smart Display 5 Modes Waterproof SG-2607",
+    short: "Seago Rotating Electric Toothbrush SG-2607",
+    price: 28.69,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c36lUofn",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seago-rotating-electric-toothbrush-sg-2607/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seago-rotating-electric-toothbrush-sg-2607/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seago-rotating-electric-toothbrush-sg-2607/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seago-rotating-electric-toothbrush-sg-2607/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seago-rotating-electric-toothbrush-sg-2607/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seago-rotating-electric-toothbrush-sg-2607/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seago-rotating-electric-toothbrush-sg-2607/ad-photo.png",
+    desc: "Seago rotating electric toothbrush — 8 toothbrush heads, travel box, smart display, 5 modes, waterproof, SG-2607.",
+    specs: [["Type", "Seago rotating electric toothbrush SG-2607 (per listing title)"], ["Features", "8 toothbrush heads, travel box, smart display, 5 modes, waterproof (per listing)"], ["Model", "SG-2607 rotating/oscillating (per listing)"]],
+    added: 939,
+    popular: false
+  },
+  {
+    id: "kemei-hair-trimmer-professional-clipper-km-3023-702",
+    name: "Kemei Hair Trimmer Professional Hair Clipper Electric Haircut Machine Rechargeable Hair Clipper 0MM Trimmer for Men KM-3023-702",
+    short: "Kemei Hair Trimmer Professional Clipper KM-3023-702",
+    price: 49.63,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3nZvam9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kemei-hair-trimmer-professional-clipper-km-3023-702/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kemei-hair-trimmer-professional-clipper-km-3023-702/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kemei-hair-trimmer-professional-clipper-km-3023-702/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kemei-hair-trimmer-professional-clipper-km-3023-702/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kemei-hair-trimmer-professional-clipper-km-3023-702/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kemei-hair-trimmer-professional-clipper-km-3023-702/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kemei-hair-trimmer-professional-clipper-km-3023-702/ad-photo.png",
+    desc: "Kemei hair trimmer — professional hair clipper, electric haircut machine, rechargeable, 0MM trimmer for men, KM-3023-702.",
+    specs: [["Type", "Kemei hair trimmer professional clipper KM-3023-702 (per listing title)"], ["Features", "Rechargeable, 0MM trimmer (per listing)"], ["Model", "KM-3023-702 (per listing)"]],
+    added: 940,
+    popular: false
+  },
+  {
+    id: "flextail-inflatable-camping-pillow-ergonomic",
+    name: "FLEXTAIL Inflatable Camping Pillow, Ergonomic Pillow for Travel and Home, Lightweight and Washable, Two Height Options",
+    short: "FLEXTAIL Inflatable Camping Pillow",
+    price: 28.41,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c37TgrQp",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/flextail-inflatable-camping-pillow-ergonomic/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/flextail-inflatable-camping-pillow-ergonomic/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/flextail-inflatable-camping-pillow-ergonomic/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/flextail-inflatable-camping-pillow-ergonomic/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/flextail-inflatable-camping-pillow-ergonomic/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/flextail-inflatable-camping-pillow-ergonomic/ad-photo.png",
+    desc: "FLEXTAIL inflatable camping pillow — ergonomic pillow for travel and home, lightweight and washable, two height options.",
+    specs: [["Type", "FLEXTAIL inflatable camping pillow (per listing title)"], ["Features", "Ergonomic, lightweight and washable, two height options (per listing)"], ["Use", "Travel and home (per listing)"]],
+    added: 941,
+    popular: false
+  }
 
 ];
 
