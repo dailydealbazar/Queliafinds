@@ -21201,6 +21201,106 @@ const PRODUCTS = [
     added: 838,
     popular: false
   }
+,
+  {
+    id: "xoss-g-g-plus-gps-bike-computer",
+    name: "XOSS G/G Plus GPS Bike Computer",
+    short: "XOSS G/G Plus GPS Bike Computer",
+    price: 32.35,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4omcIRh",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xoss-g-g-plus-gps-bike-computer/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xoss-g-g-plus-gps-bike-computer/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xoss-g-g-plus-gps-bike-computer/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xoss-g-g-plus-gps-bike-computer/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xoss-g-g-plus-gps-bike-computer/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xoss-g-g-plus-gps-bike-computer/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/xoss-g-g-plus-gps-bike-computer/ad-photo.png",
+    desc: "XOSS G/G Plus GPS bike computer — lithium-ion battery, Micro USB charging, IPX7 waterproof.",
+    specs: [["Type", "XOSS G/G Plus GPS bike computer (per listing title)"], ["Features", "Anti-sensors support, cycling activities sharing, long battery life, auto backlight, waterproof IPX7 (per listing)"], ["Power", "Lithium-ion battery, Micro USB charging (per listing)"]],
+    added: 839,
+    popular: false
+  },
+  {
+    id: "machenike-k500-b61-mini-mechanical-keyboard",
+    name: "Machenike K500-B61 Mini Mechanical Keyboard",
+    short: "Machenike K500-B61 Mini Mechanical Keyboard",
+    price: 40.99,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3MaxZuf",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/machenike-k500-b61-mini-mechanical-keyboard/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/machenike-k500-b61-mini-mechanical-keyboard/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/machenike-k500-b61-mini-mechanical-keyboard/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/machenike-k500-b61-mini-mechanical-keyboard/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/machenike-k500-b61-mini-mechanical-keyboard/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/machenike-k500-b61-mini-mechanical-keyboard/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/machenike-k500-b61-mini-mechanical-keyboard/ad-photo.png",
+    desc: "Machenike K500-B61 mini mechanical keyboard — 61 keys, RGB backlit, hot-swappable, red switch, USB-C wired.",
+    specs: [["Type", "Machenike K500-B61 mini mechanical keyboard, 61 keys, 60% form factor (per listing title)"], ["Features", "Hot-swappable keyswitch, RGB backlight, 100% anti-ghosting, NKRO (per listing)"], ["Power", "USB-C wired (per listing)"]],
+    added: 840,
+    popular: false
+  },
+  {
+    id: "mevaden-steel-md52-smartwatch",
+    name: "MEVADEN Steel MD52 Smartwatch",
+    short: "MEVADEN Steel MD52 Smartwatch",
+    price: 43.20,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3TeELbH",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mevaden-steel-md52-smartwatch/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mevaden-steel-md52-smartwatch/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mevaden-steel-md52-smartwatch/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mevaden-steel-md52-smartwatch/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mevaden-steel-md52-smartwatch/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mevaden-steel-md52-smartwatch/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/mevaden-steel-md52-smartwatch/ad-photo.png",
+    desc: "MEVADEN Steel MD52 smartwatch — 1.39-inch screen, Bluetooth call, heart rate/SpO2/blood pressure/sleep monitoring, IP67.",
+    specs: [["Type", "MEVADEN Steel MD52 smartwatch, 1.39-inch screen (per listing title)"], ["Features", "Bluetooth call, 100 sports modes, real-time health monitoring (per listing)"], ["Power", "Rechargeable 300-450 mAh battery, up to 5 days use (per listing)"]],
+    added: 841,
+    popular: false
+  },
+  {
+    id: "skmei-1901-womens-digital-watch",
+    name: "SKMEI 1901 Women's Digital Watch",
+    short: "SKMEI 1901 Women's Digital Watch",
+    price: 13.18,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3VcAP1p",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/skmei-1901-womens-digital-watch/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/skmei-1901-womens-digital-watch/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/skmei-1901-womens-digital-watch/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/skmei-1901-womens-digital-watch/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/skmei-1901-womens-digital-watch/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/skmei-1901-womens-digital-watch/ad-photo.png",
+    desc: "SKMEI 1901 women's digital watch — digital quartz, 25 mm dial, 3Bar water resistant.",
+    specs: [["Type", "SKMEI 1901 women's digital watch (per listing title)"], ["Features", "Digital display, 25 mm dial, 3Bar water resistant (per listing)"], ["Power", "Battery-powered digital quartz (per listing)"]],
+    added: 842,
+    popular: false
+  }
 
 ];
 
