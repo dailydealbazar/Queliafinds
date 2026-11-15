@@ -21301,6 +21301,106 @@ const PRODUCTS = [
     added: 842,
     popular: false
   }
+,
+  {
+    id: "igpsport-hr50-heart-rate-sensor",
+    name: "iGPSPORT HR50 Heart Rate Sensor",
+    short: "iGPSPORT HR50 Heart Rate Sensor",
+    price: 39.78,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c30mw8fZ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/igpsport-hr50-heart-rate-sensor/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/igpsport-hr50-heart-rate-sensor/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/igpsport-hr50-heart-rate-sensor/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/igpsport-hr50-heart-rate-sensor/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/igpsport-hr50-heart-rate-sensor/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/igpsport-hr50-heart-rate-sensor/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/igpsport-hr50-heart-rate-sensor/ad-photo.png",
+    desc: "iGPSPORT HR50 heart rate sensor — chest strap, battery-powered, one battery for one-year use (per listing).",
+    specs: [["Type", "iGPSPORT HR50 heart rate sensor, chest strap (per listing title)"], ["Features", "Heart rate monitoring, chest strap (per listing)"], ["Power", "Battery-powered; one battery for one-year use (per listing promo photo; battery type not stated on the listing)"]],
+    added: 843,
+    popular: false
+  },
+  {
+    id: "kemei-km-1071-electric-hair-clipper",
+    name: "Kemei KM-1071 Electric Hair Clipper",
+    short: "Kemei KM-1071 Electric Hair Clipper",
+    price: 22.16,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3TjZKkj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kemei-km-1071-electric-hair-clipper/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kemei-km-1071-electric-hair-clipper/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kemei-km-1071-electric-hair-clipper/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kemei-km-1071-electric-hair-clipper/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kemei-km-1071-electric-hair-clipper/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kemei-km-1071-electric-hair-clipper/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kemei-km-1071-electric-hair-clipper/ad-photo.png",
+    desc: "Kemei KM-1071 electric hair clipper — USB rechargeable, battery included, 60 min autonomy.",
+    specs: [["Type", "Kemei KM-1071 electric hair clipper (per listing title)"], ["Features", "USB rechargeable, 60 min autonomy (per listing)"], ["Power", "USB rechargeable, battery included (per listing)"]],
+    added: 844,
+    popular: false
+  },
+  {
+    id: "tongwode-electric-toothbrush-ultrasonic",
+    name: "Tongwode Electric Toothbrush",
+    short: "Tongwode Electric Toothbrush",
+    price: 6.73,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3DgYvZv",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tongwode-electric-toothbrush-ultrasonic/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tongwode-electric-toothbrush-ultrasonic/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tongwode-electric-toothbrush-ultrasonic/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tongwode-electric-toothbrush-ultrasonic/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tongwode-electric-toothbrush-ultrasonic/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tongwode-electric-toothbrush-ultrasonic/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tongwode-electric-toothbrush-ultrasonic/ad-photo.png",
+    desc: "Tongwode electric toothbrush — ultrasonic, USB rechargeable, 3 heads, IPX7 waterproof.",
+    specs: [["Type", "Tongwode electric toothbrush, ultrasonic (per listing title)"], ["Features", "3 brush heads, IPX7 waterproof (per listing)"], ["Power", "USB rechargeable, battery included (per listing)"]],
+    added: 845,
+    popular: false
+  },
+  {
+    id: "essager-20000mah-portable-charger-built-in-cable",
+    name: "Essager 20000mAh Portable Charger with Built-in Cable",
+    short: "Essager 20000mAh Portable Charger with Built-in Cable",
+    price: 27.36,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3pY6imn",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-20000mah-portable-charger-built-in-cable/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-20000mah-portable-charger-built-in-cable/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-20000mah-portable-charger-built-in-cable/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-20000mah-portable-charger-built-in-cable/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-20000mah-portable-charger-built-in-cable/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-20000mah-portable-charger-built-in-cable/ad-photo.png",
+    desc: "Essager 20000mAh portable charger — built-in USB-C cable + Lightning output, digital display, 22.5W fast charging, LED light.",
+    specs: [["Type", "Essager 20000mAh portable charger with built-in cable, digital display (per listing title)"], ["Features", "Built-in USB-C cable + Lightning output, digital display, LED light, PD/QC (per listing)"], ["Power", "Built-in 20000mAh / 74Wh battery, 22.5W (per listing)"]],
+    added: 846,
+    popular: false
+  }
 
 ];
 
