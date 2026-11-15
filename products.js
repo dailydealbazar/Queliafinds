@@ -22233,6 +22233,107 @@ const PRODUCTS = [
     added: 879,
     popular: false
   }
+,
+  {
+    id: "kemei-hair-clipper-kit-km-2290-km-2293-km-1102",
+    name: "Kemei Hair Clipper Kit for Men, Electric Shaver, Hair Trimmer, Professional Cutting Machine, KM-2290, KM-2293, KM-1102",
+    short: "Kemei Hair Clipper Kit for Men, Electric Shaver, Hair Trimmer, Professional Cutting Machine, KM-2290, KM-2293, KM-1102",
+    price: 7.61,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3lI2m8T",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kemei-hair-clipper-kit-km-2290-km-2293-km-1102/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kemei-hair-clipper-kit-km-2290-km-2293-km-1102/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kemei-hair-clipper-kit-km-2290-km-2293-km-1102/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kemei-hair-clipper-kit-km-2290-km-2293-km-1102/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kemei-hair-clipper-kit-km-2290-km-2293-km-1102/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kemei-hair-clipper-kit-km-2290-km-2293-km-1102/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kemei-hair-clipper-kit-km-2290-km-2293-km-1102/ad-photo.png",
+    desc: "Kemei hair clipper kit for men — electric shaver, hair trimmer, professional cutting machine (KM-2290, KM-2293, KM-1102).",
+    specs: [["Type", "Kemei hair clipper kit KM-2290 / KM-2293 / KM-1102 (per listing title)"], ["Features", "Electric shaver, hair trimmer, professional cutting machine (per listing)"], ["Power", "USB rechargeable, 100-240V, 5W (per listing)"]],
+    added: 880,
+    popular: false
+  },
+  {
+    id: "sofirn-sc31-pro-sst40-led-2000lm-anduril-flashlight",
+    name: "Sofirn SC31 Pro SST40 LED 2000LM Anduril Outdoor Tactical Flashlight Powerful Rechargeable USB C 18650 Torch",
+    short: "Sofirn SC31 Pro SST40 LED 2000LM Anduril Outdoor Tactical Flashlight",
+    price: 24.92,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3A0wvcX",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-sc31-pro-sst40-led-2000lm-anduril-flashlight/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-sc31-pro-sst40-led-2000lm-anduril-flashlight/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-sc31-pro-sst40-led-2000lm-anduril-flashlight/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-sc31-pro-sst40-led-2000lm-anduril-flashlight/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-sc31-pro-sst40-led-2000lm-anduril-flashlight/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-sc31-pro-sst40-led-2000lm-anduril-flashlight/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sofirn-sc31-pro-sst40-led-2000lm-anduril-flashlight/ad-photo.png",
+    desc: "Sofirn SC31 Pro outdoor tactical flashlight — SST40 LED, 2000LM, Anduril, USB-C rechargeable, 18650 battery included.",
+    specs: [["Type", "Sofirn SC31 Pro SST40 LED 2000LM Anduril outdoor tactical flashlight (per listing title)"], ["Features", "SST40 LED, 2000LM, Anduril, USB-C rechargeable (per listing)"], ["Power", "USB-C rechargeable, 18650 battery included (per listing)"]],
+    added: 881,
+    popular: false
+  },
+  {
+    id: "type-c-to-ar-glasses-charging-adapter-100w",
+    name: "Highly Speed Type C To AR Glasses Charging Adapter For XREAL AIR/2 Glasses And Charging; Supports 100W Fast Charging",
+    short: "Type C to AR Glasses Charging Adapter for XREAL AIR/2 Glasses, 100W Fast Charging",
+    price: 5.07,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3QbmHCP",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-to-ar-glasses-charging-adapter-100w/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-to-ar-glasses-charging-adapter-100w/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-to-ar-glasses-charging-adapter-100w/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-to-ar-glasses-charging-adapter-100w/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-to-ar-glasses-charging-adapter-100w/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-to-ar-glasses-charging-adapter-100w/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/type-c-to-ar-glasses-charging-adapter-100w/ad-photo.png",
+    desc: "Type-C to AR glasses charging adapter — for XREAL AIR/2 glasses, 100W fast charging, PD100W, 4K 60Hz.",
+    specs: [["Type", "Type C to AR glasses charging adapter for XREAL AIR/2 glasses (per listing title)"], ["Features", "100W fast charging, PD100W, 4K 60Hz (per listing)"], ["Power", "USB-C powered (per listing)"]],
+    added: 882,
+    popular: false
+  },
+  {
+    id: "hoco-eq34-plus-anc-wireless-bluetooth-earbuds",
+    name: "HOCO ANC Active Noise Reduction Wireless Bluetooth 5.4 Earbuds With App Control EQ Sound HiFi Sports Music Earbuds 28H Standby",
+    short: "HOCO EQ34 Plus ANC Wireless Bluetooth 5.4 Earbuds",
+    price: 6.49,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c2It9TeL",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hoco-eq34-plus-anc-wireless-bluetooth-earbuds/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hoco-eq34-plus-anc-wireless-bluetooth-earbuds/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hoco-eq34-plus-anc-wireless-bluetooth-earbuds/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hoco-eq34-plus-anc-wireless-bluetooth-earbuds/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hoco-eq34-plus-anc-wireless-bluetooth-earbuds/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hoco-eq34-plus-anc-wireless-bluetooth-earbuds/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hoco-eq34-plus-anc-wireless-bluetooth-earbuds/ad-photo.png",
+    desc: "HOCO EQ34 Plus ANC wireless Bluetooth 5.4 earbuds — active noise reduction, app control, EQ sound, 28H standby.",
+    specs: [["Type", "HOCO EQ34 Plus ANC wireless Bluetooth 5.4 earbuds (per listing title)"], ["Features", "Active noise reduction, app control, EQ sound, HiFi, sports (per listing)"], ["Power", "USB-C charging case, 300mAh case, 40mAh per earbud (per listing)"]],
+    added: 883,
+    popular: false
+  }
 
 ];
 
