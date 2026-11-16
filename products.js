@@ -23969,6 +23969,82 @@ const PRODUCTS = [
     added: 948,
     popular: false
   }
+,
+  {
+    id: "yekmlco-kt4h-led-tv-backlight-tester",
+    name: "YEKMLCO KT4H 0-330V LED TV Backlight Tester Smart-Fit Manual Voltage Adjustment Constant Current Driver Board Repair LED Bead",
+    short: "YEKMLCO KT4H Backlight Tester",
+    price: 27.70,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c32TcPdP",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yekmlco-kt4h-led-tv-backlight-tester/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yekmlco-kt4h-led-tv-backlight-tester/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yekmlco-kt4h-led-tv-backlight-tester/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yekmlco-kt4h-led-tv-backlight-tester/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yekmlco-kt4h-led-tv-backlight-tester/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yekmlco-kt4h-led-tv-backlight-tester/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/yekmlco-kt4h-led-tv-backlight-tester/ad-photo.png",
+    desc: "YEKMLCO KT4H LED TV backlight tester — smart-fit manual voltage adjustment, constant current driver board, repair LED bead.",
+    specs: [["Type", "YEKMLCO KT4H LED TV backlight tester, model KT4H (per listing)"], ["Range", "DC0-330V, EU plug; input Vin AC 85-265V (per listing)"], ["Use", "LED TV backlight testing and repair (per listing)"]],
+    added: 949,
+    popular: false
+  },
+  {
+    id: "wuben-at2x-bicycle-mount-flashlight-holder",
+    name: "WUBEN AT2X Bicycle Mount For WUBEN X4 X1 X1Pro X2Pro AT2XP Flashlight Holder Stand Bike Clip Cycling Lighting Metallic Material",
+    short: "WUBEN AT2X Bicycle Mount",
+    price: 12.35,
+    oldPrice: 16.59,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3FPlM17",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wuben-at2x-bicycle-mount-flashlight-holder/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wuben-at2x-bicycle-mount-flashlight-holder/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wuben-at2x-bicycle-mount-flashlight-holder/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wuben-at2x-bicycle-mount-flashlight-holder/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wuben-at2x-bicycle-mount-flashlight-holder/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wuben-at2x-bicycle-mount-flashlight-holder/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/wuben-at2x-bicycle-mount-flashlight-holder/ad-photo.png",
+    desc: "WUBEN AT2X bicycle mount — metal flashlight holder stand, bike clip, cycling lighting.",
+    specs: [["Type", "WUBEN AT2X bicycle mount, flashlight holder stand (per listing)"], ["Fit", "WUBEN X4, X1, X1Pro, X2Pro (AT2X) / X1Pro (AT2XP) (per listing)"], ["Material", "Metallic material; no batteries included (per listing)"]],
+    added: 950,
+    popular: false
+  },
+  {
+    id: "salicylic-acid-serum-acne-drying-lotion",
+    name: "Salicylic Acid Serum for Acne Drying Lotion Acne Treatment Sensitive Skin Care Pimples Acne Remover Serum Cream Anti Acne Serum",
+    short: "Salicylic Acid Acne Serum",
+    price: 3.36,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c2xTRWtb",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/salicylic-acid-serum-acne-drying-lotion/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/salicylic-acid-serum-acne-drying-lotion/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/salicylic-acid-serum-acne-drying-lotion/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/salicylic-acid-serum-acne-drying-lotion/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/salicylic-acid-serum-acne-drying-lotion/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/salicylic-acid-serum-acne-drying-lotion/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/salicylic-acid-serum-acne-drying-lotion/ad-photo.png",
+    desc: "Salicylic acid serum for acne — drying lotion, acne treatment for sensitive skin, pimples acne remover serum cream.",
+    specs: [["Type", "Salicylic acid serum for acne, 1pc 10ml boxed (per listing)"], ["Use", "Acne drying lotion, acne treatment, sensitive skin care (per listing)"], ["Variants", "1pc / 5pcs / 10pcs (per listing)"]],
+    added: 951,
+    popular: false
+  }
 
 ];
 
