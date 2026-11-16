@@ -24045,6 +24045,32 @@ const PRODUCTS = [
     added: 951,
     popular: false
   }
+,
+  {
+    id: "geya-63a-220v-voltage-protector",
+    name: "GEYA 63A 80A 220V Digital Display Adjustable Over Voltage Current and Under Voltage Protective Device Self-resetting Protector",
+    short: "GEYA 63A 220V Voltage Protector",
+    price: 3.51,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3bxYPn3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/geya-63a-220v-voltage-protector/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/geya-63a-220v-voltage-protector/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/geya-63a-220v-voltage-protector/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/geya-63a-220v-voltage-protector/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/geya-63a-220v-voltage-protector/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/geya-63a-220v-voltage-protector/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/geya-63a-220v-voltage-protector/ad-photo.png",
+    desc: "GEYA 63A 220V voltage protector — digital display adjustable over voltage current and under voltage protective device, self-resetting.",
+    specs: [["Type", "GEYA 63A 220V voltage protector, self-resetting (per listing)"], ["Variants", "40A / 63A / 80A, VA type / VA Kwh type (per listing)"], ["Install", "DIN-rail home electrical-panel device, professional install (per listing)"]],
+    added: 952,
+    popular: false
+  }
 
 ];
 
