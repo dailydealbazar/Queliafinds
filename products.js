@@ -24499,6 +24499,107 @@ const PRODUCTS = [
     added: 969,
     popular: false
   }
+,
+  {
+    id: "essager-100w-usb-c-cable",
+    name: "Essager 100W C To C Type C Cable USB C PD Fast Charging Charger Wire Cord For Macbook Samsung Xiaomi Type C USB C Cable",
+    short: "Essager 100W USB-C Cable",
+    price: 2.45,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3cfytKZ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-100w-usb-c-cable/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-100w-usb-c-cable/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-100w-usb-c-cable/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-100w-usb-c-cable/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-100w-usb-c-cable/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-100w-usb-c-cable/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/essager-100w-usb-c-cable/ad-photo.png",
+    desc: "Essager 100W C to C Type C cable — USB C PD fast charging charger wire cord for Macbook, Samsung and Xiaomi.",
+    specs: [["Type", "Essager 100W C To C Type C Cable, USB C PD fast charging (per listing)"], ["Variant", "60W Black, 1m (per listing)"], ["Seller", "ESSAGER Direct Sales Store, 95.54%"]],
+    added: 970,
+    popular: false
+  },
+  {
+    id: "netac-ddr4-shadow-iii-ram",
+    name: "Netac DDR4 Memory Shadow III 3200MHz 3600MHz Ram UDIMM DDR4 8G 16G 8Gx2 16Gx2 with Aluminum Heatsink Support XMP2.0 for Desktop",
+    short: "Netac DDR4 Shadow III RAM",
+    price: 108.10,
+    oldPrice: 159.41,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3GyQXAt",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/netac-ddr4-shadow-iii-ram/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/netac-ddr4-shadow-iii-ram/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/netac-ddr4-shadow-iii-ram/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/netac-ddr4-shadow-iii-ram/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/netac-ddr4-shadow-iii-ram/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/netac-ddr4-shadow-iii-ram/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/netac-ddr4-shadow-iii-ram/ad-photo.png",
+    desc: "Netac DDR4 memory Shadow III 3200MHz / 3600MHz RAM UDIMM DDR4 8G / 16G / 8Gx2 / 16Gx2 with aluminum heatsink, XMP2.0, for desktop.",
+    specs: [["Type", "Netac DDR4 Memory Shadow III, UDIMM DDR4 with aluminum heatsink (per listing)"], ["Variant", "3600MHz 8GBx2 black (per listing)"], ["Seller", "Netac Official Store, 95.75%"]],
+    added: 971,
+    popular: false
+  },
+  {
+    id: "jcd-8898-2-in-1-soldering-station",
+    name: "JCD 8898 2 in 1 750W Soldering Station LCD Digital display welding rework station for cell-phone BGA SMD PCB IC Repair solder tools 8898",
+    short: "JCD 8898 2-in-1 Soldering Station",
+    price: 26.01,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3z3aqTr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jcd-8898-2-in-1-soldering-station/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jcd-8898-2-in-1-soldering-station/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jcd-8898-2-in-1-soldering-station/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jcd-8898-2-in-1-soldering-station/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jcd-8898-2-in-1-soldering-station/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jcd-8898-2-in-1-soldering-station/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/jcd-8898-2-in-1-soldering-station/ad-photo.png",
+    desc: "JCD 8898 2-in-1 750W soldering station — LCD digital display welding rework station for cell-phone BGA SMD PCB IC repair.",
+    specs: [["Type", "JCD 8898 2-in-1 750W Soldering Station, LCD digital display (per listing)"], ["Variant", "8898 KIT 1, 220V EU PLUG (per listing)"], ["Seller", "JCD Official Store, 93.91%"]],
+    added: 972,
+    popular: false
+  },
+  {
+    id: "veldwind-42-52-inch-ceiling-fan",
+    name: "Veldwind 42 52 Inch Ceiling Fans No Light DC Motor Remote Control Cooling Fans Lamp Low Floor Ceiling Fan White wood Black Color FANS",
+    short: "Veldwind 42/52 Inch Ceiling Fan",
+    price: 87.27,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3oHpstj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/veldwind-42-52-inch-ceiling-fan/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/veldwind-42-52-inch-ceiling-fan/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/veldwind-42-52-inch-ceiling-fan/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/veldwind-42-52-inch-ceiling-fan/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/veldwind-42-52-inch-ceiling-fan/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/veldwind-42-52-inch-ceiling-fan/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/veldwind-42-52-inch-ceiling-fan/ad-photo.png",
+    desc: "Veldwind 42 / 52 inch ceiling fans, no light, DC motor, remote control, white wood / black color.",
+    specs: [["Type", "Veldwind 42 / 52 Inch Ceiling Fan, DC motor, remote control (per listing)"], ["Variant", "52 Inch, Wood, No light (per listing)"], ["Seller", "Leeyan Lighting Store, 90.07%"]],
+    added: 973,
+    popular: false
+  }
 
 ];
 
