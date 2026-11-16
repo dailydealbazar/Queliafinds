@@ -24071,6 +24071,107 @@ const PRODUCTS = [
     added: 952,
     popular: false
   }
+,
+  {
+    id: "evergenesis-sc64-flashcard-n64",
+    name: "EVERGENESIS SC64 FlashCard 5000 in 1 for Nintendo 64",
+    short: "EVERGENESIS SC64 FlashCard N64",
+    price: 36.11,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3MZNL3b",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/evergenesis-sc64-flashcard-n64/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/evergenesis-sc64-flashcard-n64/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/evergenesis-sc64-flashcard-n64/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/evergenesis-sc64-flashcard-n64/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/evergenesis-sc64-flashcard-n64/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/evergenesis-sc64-flashcard-n64/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/evergenesis-sc64-flashcard-n64/ad-photo.png",
+    desc: "EVERGENESIS SC64 FlashCard 5000 in 1 for Nintendo 64 — 5000 games in 1 cartridge.",
+    specs: [["Type", "EVERGENESIS SC64 FlashCard, 5000 in 1, Nintendo 64 (per listing)"], ["Variants", "32G 5000 in 1 / 16G 800 in 1 (per listing)"], ["Reviews note", "a couple of reviews mention a faulty USB port / no firmware update via USB"]],
+    added: 953,
+    popular: false
+  },
+  {
+    id: "addiesdive-stainless-steel-quartz-watch",
+    name: "ADDIESDIVE Stainless Steel Men's Quartz Watch",
+    short: "ADDIESDIVE Stainless Steel Quartz Watch",
+    price: 36.01,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c32PjlJj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/addiesdive-stainless-steel-quartz-watch/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/addiesdive-stainless-steel-quartz-watch/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/addiesdive-stainless-steel-quartz-watch/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/addiesdive-stainless-steel-quartz-watch/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/addiesdive-stainless-steel-quartz-watch/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/addiesdive-stainless-steel-quartz-watch/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/addiesdive-stainless-steel-quartz-watch/ad-photo.png",
+    desc: "ADDIESDIVE stainless steel men's quartz dive watch — Miyota 2115 quartz, 316L steel, 200 m water resistance.",
+    specs: [["Movement", "Miyota 2115 quartz (per listing)"], ["Case", "316L stainless steel, 41 mm, ceramic bezel (per listing)"], ["Water resistance", "200 m (per listing)"]],
+    added: 954,
+    popular: false
+  },
+  {
+    id: "kelaton-1-64-rc-crane-forklift",
+    name: "Kelaton 1:64 Bluetooth Remote Control Crane And Forklift two-in-one Desktop Mini Alloy Toy Car With Trailer",
+    short: "Kelaton 1:64 RC Crane and Forklift",
+    price: 6.18,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c2vpf1yl",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kelaton-1-64-rc-crane-forklift/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kelaton-1-64-rc-crane-forklift/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kelaton-1-64-rc-crane-forklift/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kelaton-1-64-rc-crane-forklift/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kelaton-1-64-rc-crane-forklift/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kelaton-1-64-rc-crane-forklift/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kelaton-1-64-rc-crane-forklift/ad-photo.png",
+    desc: "Kelaton 1:64 Bluetooth remote control crane and forklift two-in-one desktop mini alloy toy car with trailer.",
+    specs: [["Type", "Kelaton 1:64 Bluetooth RC crane and forklift, two-in-one, with trailer (per listing)"], ["Scale", "1:64 desktop mini alloy toy car (per listing)"], ["Variants", "Excavator-Green default; other variants $15.99-$18.62 (per listing)"]],
+    added: 955,
+    popular: false
+  },
+  {
+    id: "3d-colorful-gecko-wall-decorations",
+    name: "Multi-Pack of 3D Colorful Gecko Wall Decorations",
+    short: "3D Colorful Gecko Wall Decorations",
+    price: 2.49,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3UyT6Cp",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3d-colorful-gecko-wall-decorations/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3d-colorful-gecko-wall-decorations/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3d-colorful-gecko-wall-decorations/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3d-colorful-gecko-wall-decorations/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3d-colorful-gecko-wall-decorations/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3d-colorful-gecko-wall-decorations/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/3d-colorful-gecko-wall-decorations/ad-photo.png",
+    desc: "Multi-pack of 3D colorful gecko wall decorations — printed home ornaments, random colors.",
+    specs: [["Type", "3D colorful gecko wall decorations, multi-pack (per listing)"], ["Variants", "15pcs / 30pcs / 60pcs (per listing)"], ["Reviews note", "a few reviews report breakage/fragility and smaller-than-expected size"]],
+    added: 956,
+    popular: false
+  }
 
 ];
 
