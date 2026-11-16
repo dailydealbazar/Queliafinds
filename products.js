@@ -24778,6 +24778,107 @@ const PRODUCTS = [
     added: 980,
     popular: false
   }
+,
+  {
+    id: "moyu-rs3m-v5-3x3-magnetic-speed-cube",
+    name: "MoYu RS3M V5 3x3 Magnetic Speed Cube",
+    short: "MoYu RS3M V5 3x3 Magnetic Speed Cube",
+    price: 9.38,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c4Ulh7Gz",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moyu-rs3m-v5-3x3-magnetic-speed-cube/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moyu-rs3m-v5-3x3-magnetic-speed-cube/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moyu-rs3m-v5-3x3-magnetic-speed-cube/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moyu-rs3m-v5-3x3-magnetic-speed-cube/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moyu-rs3m-v5-3x3-magnetic-speed-cube/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moyu-rs3m-v5-3x3-magnetic-speed-cube/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/moyu-rs3m-v5-3x3-magnetic-speed-cube/ad-photo.png",
+    desc: "MoYu RS3M V5 3x3 magnetic speed cube, professional fidget toy.",
+    specs: [["Type", "MoYu RS3M V5 3x3 Magnetic Speed Cube (per listing)"], ["Variant", "Magnetic Box (per listing)"], ["Seller", "SaoCube Store, 96.33%"]],
+    added: 981,
+    popular: false
+  },
+  {
+    id: "hagibis-usb-c-right-angle-cable-240w",
+    name: "Hagibis USB-C to USB-C Right Angle Cable 240W",
+    short: "Hagibis USB-C to USB-C Right Angle Cable 240W",
+    price: 6.40,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3VyuNy9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-usb-c-right-angle-cable-240w/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-usb-c-right-angle-cable-240w/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-usb-c-right-angle-cable-240w/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-usb-c-right-angle-cable-240w/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-usb-c-right-angle-cable-240w/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-usb-c-right-angle-cable-240w/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/hagibis-usb-c-right-angle-cable-240w/ad-photo.png",
+    desc: "Hagibis USB-C to USB-C right angle cable, 240W, vertical L plug.",
+    specs: [["Type", "Hagibis USB-C to USB-C Right Angle Cable 240W (per listing)"], ["Variant", "Vertical L Plug, 0.15 m (per listing)"], ["Seller", "Hagibis Official Store, 95.7%"]],
+    added: 982,
+    popular: false
+  },
+  {
+    id: "seamless-halter-neck-yoga-tank-tops",
+    name: "Seamless Halter Neck Yoga Tank Tops",
+    short: "Seamless Halter Neck Yoga Tank Tops",
+    price: 8.48,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c32G6gN3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seamless-halter-neck-yoga-tank-tops/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seamless-halter-neck-yoga-tank-tops/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seamless-halter-neck-yoga-tank-tops/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seamless-halter-neck-yoga-tank-tops/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seamless-halter-neck-yoga-tank-tops/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seamless-halter-neck-yoga-tank-tops/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/seamless-halter-neck-yoga-tank-tops/ad-photo.png",
+    desc: "Seamless halter neck yoga tank top, sleeveless.",
+    specs: [["Type", "Seamless Halter Neck Yoga Tank Tops (per listing)"], ["Variant", "BX718-PINK, size L (per listing)"], ["Seller", "MTSJC Sportswear Store, 92.8%"]],
+    added: 983,
+    popular: false
+  },
+  {
+    id: "devil-multi-eyes-men-rings",
+    name: "Devil Multi Eyes Men Rings",
+    short: "Devil Multi Eyes Men Rings",
+    price: 4.91,
+    oldPrice: 5.09,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c4l8UYNb",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/devil-multi-eyes-men-rings/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/devil-multi-eyes-men-rings/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/devil-multi-eyes-men-rings/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/devil-multi-eyes-men-rings/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/devil-multi-eyes-men-rings/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/devil-multi-eyes-men-rings/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/devil-multi-eyes-men-rings/ad-photo.png",
+    desc: "Devil multi eyes men rings, stainless steel, silver spin.",
+    specs: [["Type", "Devil Multi Eyes Men Rings (per listing)"], ["Variant", "R1166-Silver Spin, size 10 (per listing)"], ["Seller", "Metal Town Store, 94.84%"]],
+    added: 984,
+    popular: false
+  }
 
 ];
 
