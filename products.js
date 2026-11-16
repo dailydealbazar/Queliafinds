@@ -24904,6 +24904,54 @@ const PRODUCTS = [
     added: 985,
     popular: false
   }
+,
+  {
+    id: "bullvision-h4-led-headlight",
+    name: "Bullvision H4 LED Headlight",
+    short: "Bullvision H4 LED Headlight",
+    price: 13.75,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c2RB46Wd",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bullvision-h4-led-headlight/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bullvision-h4-led-headlight/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bullvision-h4-led-headlight/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bullvision-h4-led-headlight/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bullvision-h4-led-headlight/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bullvision-h4-led-headlight/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bullvision-h4-led-headlight/ad-photo.png",
+    desc: "Bullvision H4 LED headlight, 12V automotive car lamp.",
+    specs: [["Type", "Bullvision H4 LED Headlight (per listing)"], ["Variant", "H27/880 (per listing)"], ["Seller", "CARLitek Autolight Global Store, 90.32%"]],
+    added: 986,
+    popular: false
+  },
+  {
+    id: "doteffil-4mm-rope-chain-necklace",
+    name: "DOTEFFIL 4MM Rope Chain Necklace",
+    short: "DOTEFFIL 4MM Rope Chain Necklace",
+    price: 1.09,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c2xCZbWt",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/doteffil-4mm-rope-chain-necklace/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/doteffil-4mm-rope-chain-necklace/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/doteffil-4mm-rope-chain-necklace/photo-3.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/doteffil-4mm-rope-chain-necklace/ad-photo.png",
+    desc: "DOTEFFIL 4MM rope chain necklace, 925 silver color, 16-24 inch.",
+    specs: [["Type", "DOTEFFIL 4MM Rope Chain Necklace (per listing)"], ["Variant", "40cm (per listing)"], ["Seller", "DOTEFFIL Official Store, 91.49%"]],
+    added: 987,
+    popular: false
+  }
 
 ];
 
