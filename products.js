@@ -24879,6 +24879,31 @@ const PRODUCTS = [
     added: 984,
     popular: false
   }
+,
+  {
+    id: "ugreen-200w-gan-charger-korean-plug",
+    name: "UGREEN 200W GaN Charger, Korean Plug",
+    short: "UGREEN 200W GaN Charger, Korean Plug",
+    price: 50.29,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c2xqvd8l",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-200w-gan-charger-korean-plug/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-200w-gan-charger-korean-plug/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-200w-gan-charger-korean-plug/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-200w-gan-charger-korean-plug/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-200w-gan-charger-korean-plug/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ugreen-200w-gan-charger-korean-plug/ad-photo.png",
+    desc: "UGREEN 200W GaN charger, 8-in-1 desktop charging station, Korean plug.",
+    specs: [["Type", "UGREEN 200W GaN Charger (per listing)"], ["Variant", "KR GaN 200W, model X766 (per listing)"], ["Seller", "Ugreen Official Store, 97.14%"]],
+    added: 985,
+    popular: false
+  }
 
 ];
 
