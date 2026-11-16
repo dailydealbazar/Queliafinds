@@ -24952,6 +24952,80 @@ const PRODUCTS = [
     added: 987,
     popular: false
   }
+,
+  {
+    id: "eyoyo-ey-017-2d-back-clip-bluetooth-barcode-scanner",
+    name: "Eyoyo EY-017 2D Back Clip Bluetooth Barcode Scanner",
+    short: "Eyoyo EY-017 2D Back Clip Bluetooth Barcode Scanner",
+    price: 47.77,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4LYbknr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/eyoyo-ey-017-2d-back-clip-bluetooth-barcode-scanner/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/eyoyo-ey-017-2d-back-clip-bluetooth-barcode-scanner/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/eyoyo-ey-017-2d-back-clip-bluetooth-barcode-scanner/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/eyoyo-ey-017-2d-back-clip-bluetooth-barcode-scanner/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/eyoyo-ey-017-2d-back-clip-bluetooth-barcode-scanner/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/eyoyo-ey-017-2d-back-clip-bluetooth-barcode-scanner/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/eyoyo-ey-017-2d-back-clip-bluetooth-barcode-scanner/ad-photo.png",
+    desc: "Eyoyo EY-017 2D back clip Bluetooth barcode scanner, wearable.",
+    specs: [["Type", "Eyoyo EY-017 2D Back Clip Bluetooth Barcode Scanner (per listing)"], ["Variant", "2D EY-017P (per listing)"], ["Seller", "CCTVCAM Store, 93.99%"]],
+    added: 988,
+    popular: false
+  },
+  {
+    id: "offbondage-bicycle-light-1000-lumen-bike-headlight-power-bank-flashlight",
+    name: "OFFBONDAGE Bicycle Light 1000 Lumen Bike Headlight Power Bank Flashlight",
+    short: "OFFBONDAGE Bicycle Light 1000 Lumen Bike Headlight",
+    price: 12.79,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4MOmmTn",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/offbondage-bicycle-light-1000-lumen-bike-headlight-power-bank-flashlight/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/offbondage-bicycle-light-1000-lumen-bike-headlight-power-bank-flashlight/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/offbondage-bicycle-light-1000-lumen-bike-headlight-power-bank-flashlight/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/offbondage-bicycle-light-1000-lumen-bike-headlight-power-bank-flashlight/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/offbondage-bicycle-light-1000-lumen-bike-headlight-power-bank-flashlight/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/offbondage-bicycle-light-1000-lumen-bike-headlight-power-bank-flashlight/ad-photo.png",
+    desc: "OFFBONDAGE 1000 lumen bike headlight with power bank, 4500mAh, IPX6.",
+    specs: [["Type", "OFFBONDAGE Bicycle Light 1000 Lumen Bike Headlight Power Bank Flashlight (per listing)"], ["Variant", "White, HR3-1000 (per listing)"], ["Seller", "GO RIDENOW Store, 94.64%"]],
+    added: 989,
+    popular: false
+  },
+  {
+    id: "kerui-5mp-8mp-4k-hd-wifi-ip-camera",
+    name: "KERUI 5MP 8MP 4K HD WiFi IP Camera",
+    short: "KERUI 5MP 8MP 4K HD WiFi IP Camera",
+    price: 30.49,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3HFxtcz",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kerui-5mp-8mp-4k-hd-wifi-ip-camera/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kerui-5mp-8mp-4k-hd-wifi-ip-camera/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kerui-5mp-8mp-4k-hd-wifi-ip-camera/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kerui-5mp-8mp-4k-hd-wifi-ip-camera/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kerui-5mp-8mp-4k-hd-wifi-ip-camera/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kerui-5mp-8mp-4k-hd-wifi-ip-camera/ad-photo.png",
+    desc: "KERUI 5MP/8MP 4K HD WiFi IP camera, EU plug.",
+    specs: [["Type", "KERUI 5MP 8MP 4K HD WiFi IP Camera (per listing)"], ["Variant", "5MP/8MP, EU plug (per listing)"], ["Seller", "KERUI Official Store, 92.66%"]],
+    added: 990,
+    popular: false
+  }
 
 ];
 
