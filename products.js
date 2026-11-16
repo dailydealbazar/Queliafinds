@@ -24600,6 +24600,82 @@ const PRODUCTS = [
     added: 973,
     popular: false
   }
+,
+  {
+    id: "chiscart-dspico-usb-c-game-cartridge-nds-3ds",
+    name: "Chiscart DSpico USB C Version Game Cartridge For NDS NDSL DSi 3DS Consoles",
+    short: "Chiscart DSpico USB-C Game Cartridge",
+    price: 10.13,
+    oldPrice: 12.96,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4rkhUHx",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/chiscart-dspico-usb-c-game-cartridge-nds-3ds/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/chiscart-dspico-usb-c-game-cartridge-nds-3ds/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/chiscart-dspico-usb-c-game-cartridge-nds-3ds/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/chiscart-dspico-usb-c-game-cartridge-nds-3ds/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/chiscart-dspico-usb-c-game-cartridge-nds-3ds/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/chiscart-dspico-usb-c-game-cartridge-nds-3ds/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/chiscart-dspico-usb-c-game-cartridge-nds-3ds/ad-photo.png",
+    desc: "Chiscart DSpico USB C version game cartridge for NDS / NDSL / DSi / 3DS consoles.",
+    specs: [["Type", "Chiscart DSpico USB C Game Cartridge, for NDS / NDSL / DSi / 3DS (per listing)"], ["Variant", "Colour WHPCB TRN (per listing)"], ["Seller", "ChisFamily Store official, 96.97%"]],
+    added: 974,
+    popular: false
+  },
+  {
+    id: "onti-10g-rj45-copper-sfp-plus-module",
+    name: "ONTi 10G RJ45 Copper SFP+ Module 10GBase-Tx Ethernet Fiber Optic FTTH Compatible with Cisco/Mikrotik Switch 30m / 80m",
+    short: "ONTi 10G RJ45 Copper SFP+ Module",
+    price: 18.36,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c2J0rC5L",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/onti-10g-rj45-copper-sfp-plus-module/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/onti-10g-rj45-copper-sfp-plus-module/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/onti-10g-rj45-copper-sfp-plus-module/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/onti-10g-rj45-copper-sfp-plus-module/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/onti-10g-rj45-copper-sfp-plus-module/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/onti-10g-rj45-copper-sfp-plus-module/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/onti-10g-rj45-copper-sfp-plus-module/ad-photo.png",
+    desc: "ONTi 10G RJ45 copper SFP+ module, 10GBase-Tx Ethernet fiber optic FTTH, compatible with Cisco / Mikrotik switch, 30m / 80m.",
+    specs: [["Type", "ONTi 10G RJ45 Copper SFP+ Module, 10GBase-Tx (per listing)"], ["Variant", "1pcs (per listing)"], ["Seller", "ONTi Official Store, 96.83%"]],
+    added: 975,
+    popular: false
+  },
+  {
+    id: "north-edge-2026-tharsis-mens-carbon-fiber-watch",
+    name: "NORTH EDGE 2026 THARSIS Men's Carbon Fiber Watch 50M Waterproof Sports Outdoor Hiking Altimeter Barometer Compass Luminous Dial",
+    short: "NORTH EDGE 2026 THARSIS Carbon Fiber Watch",
+    price: 45.71,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c38kOulb",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/north-edge-2026-tharsis-mens-carbon-fiber-watch/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/north-edge-2026-tharsis-mens-carbon-fiber-watch/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/north-edge-2026-tharsis-mens-carbon-fiber-watch/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/north-edge-2026-tharsis-mens-carbon-fiber-watch/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/north-edge-2026-tharsis-mens-carbon-fiber-watch/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/north-edge-2026-tharsis-mens-carbon-fiber-watch/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/north-edge-2026-tharsis-mens-carbon-fiber-watch/ad-photo.png",
+    desc: "NORTH EDGE 2026 THARSIS men's carbon fiber watch, 50M waterproof, sports outdoor hiking, altimeter, barometer, compass, luminous dial.",
+    specs: [["Type", "NORTH EDGE 2026 THARSIS Men's Carbon Fiber Watch, 50M waterproof (per listing)"], ["Variant", "Colour THARSIS (per listing)"], ["Seller", "NORTH EDGE Official Store, 94.24%"]],
+    added: 976,
+    popular: false
+  }
 
 ];
 
