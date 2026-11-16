@@ -23868,6 +23868,107 @@ const PRODUCTS = [
     added: 944,
     popular: false
   }
+,
+  {
+    id: "west-biking-10l-ultralight-cycling-backpack",
+    name: "WEST BIKING 10L Ultralight Cycling Backpack Ergonomic Strap MTB Road Bicycle Bag With Water Bag Outdoor Hiking Climbing Bag",
+    short: "WEST BIKING 10L Cycling Backpack",
+    price: 29.69,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4VFqrQp",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/west-biking-10l-ultralight-cycling-backpack/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/west-biking-10l-ultralight-cycling-backpack/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/west-biking-10l-ultralight-cycling-backpack/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/west-biking-10l-ultralight-cycling-backpack/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/west-biking-10l-ultralight-cycling-backpack/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/west-biking-10l-ultralight-cycling-backpack/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/west-biking-10l-ultralight-cycling-backpack/ad-photo.png",
+    desc: "WEST BIKING 10L ultralight cycling backpack — ergonomic strap MTB road bicycle bag with water bag, outdoor hiking, climbing.",
+    specs: [["Type", "WEST BIKING 10L ultralight cycling backpack, model YP0707285 (per listing)"], ["Features", "Ergonomic strap, MTB road bicycle bag with water bag (per listing)"], ["Use", "Outdoor hiking, climbing (per listing)"]],
+    added: 945,
+    popular: false
+  },
+  {
+    id: "marine-band-samsung-galaxy-watch-ultra-47mm",
+    name: "Marine Band For Samsung Galaxy Watch Ultra 47mm Sports Silicone Strap Bracelet For GalaxyWatch Ultra Watchband Accessories",
+    short: "Marine Band Samsung Galaxy Watch Ultra",
+    price: 5.58,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c3sEIHkV",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/marine-band-samsung-galaxy-watch-ultra-47mm/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/marine-band-samsung-galaxy-watch-ultra-47mm/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/marine-band-samsung-galaxy-watch-ultra-47mm/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/marine-band-samsung-galaxy-watch-ultra-47mm/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/marine-band-samsung-galaxy-watch-ultra-47mm/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/marine-band-samsung-galaxy-watch-ultra-47mm/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/marine-band-samsung-galaxy-watch-ultra-47mm/ad-photo.png",
+    desc: "Marine band for Samsung Galaxy Watch Ultra 47mm — sports silicone strap bracelet, watchband accessories.",
+    specs: [["Type", "Marine band for Samsung Galaxy Watch Ultra 47mm, brand SNQP (per listing)"], ["Features", "Sports silicone strap bracelet (per listing)"], ["Fit", "Galaxy Watch Ultra 47mm (per listing)"]],
+    added: 946,
+    popular: false
+  },
+  {
+    id: "vintage-carved-eye-of-god-mens-stress-fidget-spinner-ring",
+    name: "Vintage The Carved Eye Of God Mens Stress Ring For Rotating Anxiety Stainless Steel Fidget Spinner Ring",
+    short: "Vintage Fidget Spinner Ring",
+    price: 7.47,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3VZpx6p",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vintage-carved-eye-of-god-mens-stress-fidget-spinner-ring/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vintage-carved-eye-of-god-mens-stress-fidget-spinner-ring/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vintage-carved-eye-of-god-mens-stress-fidget-spinner-ring/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vintage-carved-eye-of-god-mens-stress-fidget-spinner-ring/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vintage-carved-eye-of-god-mens-stress-fidget-spinner-ring/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vintage-carved-eye-of-god-mens-stress-fidget-spinner-ring/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/vintage-carved-eye-of-god-mens-stress-fidget-spinner-ring/ad-photo.png",
+    desc: "Vintage carved Eye of God men's stress ring — rotating anxiety stainless steel fidget spinner ring.",
+    specs: [["Type", "Vintage carved Eye of God men's stress ring, brand yiustar (per listing)"], ["Features", "Rotating anxiety, stainless steel fidget spinner ring (per listing)"], ["Sizes", "Sizes 7-11; silver/gold/black (per listing)"]],
+    added: 947,
+    popular: false
+  },
+  {
+    id: "tuya-wifi-smart-door-and-window-sensor",
+    name: "Tuya WiFi Smart Door and Window Sensor Wireless Contact Detector for Home Automation and Security System Door Sensor",
+    short: "Tuya WiFi Door and Window Sensor",
+    price: 11.64,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c4NeDTdr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tuya-wifi-smart-door-and-window-sensor/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tuya-wifi-smart-door-and-window-sensor/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tuya-wifi-smart-door-and-window-sensor/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tuya-wifi-smart-door-and-window-sensor/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tuya-wifi-smart-door-and-window-sensor/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tuya-wifi-smart-door-and-window-sensor/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/tuya-wifi-smart-door-and-window-sensor/ad-photo.png",
+    desc: "Tuya WiFi smart door and window sensor — wireless contact detector for home automation and security system.",
+    specs: [["Type", "Tuya WiFi smart door and window sensor, brand LINCUKOO (per listing)"], ["Features", "Wireless contact detector, 2.4GHz WiFi, no hub needed, Tuya/Alexa (per listing)"], ["Power", "CR2 battery, 12-month life (per listing)"]],
+    added: 948,
+    popular: false
+  }
 
 ];
 
