@@ -24324,6 +24324,81 @@ const PRODUCTS = [
     added: 962,
     popular: false
   }
+,
+  {
+    id: "gamesir-nova-lite-switch-controller",
+    name: "GameSir Nova Lite Switch Controller Gaming Gamepad with Hall Effect for Nintendo Switch iPhone Android Cellphone PC",
+    short: "GameSir Nova Lite Switch Controller",
+    price: 18.56,
+    oldPrice: 25.99,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c42UBXxL",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gamesir-nova-lite-switch-controller/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gamesir-nova-lite-switch-controller/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gamesir-nova-lite-switch-controller/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gamesir-nova-lite-switch-controller/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gamesir-nova-lite-switch-controller/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gamesir-nova-lite-switch-controller/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/gamesir-nova-lite-switch-controller/ad-photo.png",
+    desc: "GameSir Nova Lite switch controller gaming gamepad with Hall Effect for Nintendo Switch, iPhone, Android and PC.",
+    specs: [["Type", "GameSir Nova Lite Switch Controller, Hall Effect sticks (per listing)"], ["Compatibility", "Nintendo Switch / iPhone / Android / PC (per listing)"], ["Seller", "GameSir Official Store, 96.03%"]],
+    added: 963,
+    popular: false
+  },
+  {
+    id: "svbony-sv28plus-spotting-scope",
+    name: "Monocular Svbony SV28plus 25-75x Zoom Spotting Scope With Tripod 15-45x50 20-60x60 25-75x70 High Definition BK-7 Binoculars For Hunting",
+    short: "Svbony SV28plus Spotting Scope",
+    price: 54.44,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c2w1JGlx",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/svbony-sv28plus-spotting-scope/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/svbony-sv28plus-spotting-scope/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/svbony-sv28plus-spotting-scope/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/svbony-sv28plus-spotting-scope/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/svbony-sv28plus-spotting-scope/photo-5.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/svbony-sv28plus-spotting-scope/ad-photo.png",
+    desc: "Svbony SV28plus 25-75x zoom spotting scope with tripod — 15-45x50 / 20-60x60 / 25-75x70, high definition BK-7.",
+    specs: [["Type", "Svbony SV28plus Spotting Scope, 25-75x zoom, with tripod (per listing)"], ["Variants", "15-45x50 / 20-60x60 / 25-75x70 (per listing)"], ["Seller", "svbony Official Store, 96.36%"]],
+    added: 964,
+    popular: false
+  },
+  {
+    id: "granny-chic-byzantine-chain-necklace",
+    name: "Granny Chic Byzantine Chain Necklace Custom Length 7-40 Inch 6/8/11mm Choker Long Necklace Men Male Stainless Steel Flat Byzantine Box Chain",
+    short: "Granny Chic Byzantine Chain Necklace",
+    price: 3.91,
+    oldPrice: 4.99,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c4OFgjCN",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/granny-chic-byzantine-chain-necklace/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/granny-chic-byzantine-chain-necklace/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/granny-chic-byzantine-chain-necklace/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/granny-chic-byzantine-chain-necklace/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/granny-chic-byzantine-chain-necklace/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/granny-chic-byzantine-chain-necklace/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/granny-chic-byzantine-chain-necklace/ad-photo.png",
+    desc: "Granny Chic Byzantine chain necklace — custom length 7-40 inch, 6/8/11mm stainless steel flat Byzantine box chain.",
+    specs: [["Type", "Granny Chic Byzantine Chain Necklace, stainless steel (per listing)"], ["Variants", "Custom length 7-40 inch, 6/8/11mm wide (per listing)"], ["Seller", "Cool Stainless Steel Jewelry Store, 92.54%"]],
+    added: 965,
+    popular: false
+  }
 
 ];
 
