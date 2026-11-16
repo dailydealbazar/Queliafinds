@@ -24273,6 +24273,57 @@ const PRODUCTS = [
     added: 960,
     popular: false
   }
+,
+  {
+    id: "geya-g2r-smart-ats-automatic-transfer-switch",
+    name: "GEYA G2R Smart ATS Din Rail Dual Power Automatic Transfer Switch with Voltage Protection 2P 4P 63A 220V 230V Uninterrupted Power",
+    short: "GEYA G2R Smart ATS Transfer Switch",
+    price: 35.49,
+    oldPrice: 38.50,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3hkngVL",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/geya-g2r-smart-ats-automatic-transfer-switch/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/geya-g2r-smart-ats-automatic-transfer-switch/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/geya-g2r-smart-ats-automatic-transfer-switch/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/geya-g2r-smart-ats-automatic-transfer-switch/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/geya-g2r-smart-ats-automatic-transfer-switch/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/geya-g2r-smart-ats-automatic-transfer-switch/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/geya-g2r-smart-ats-automatic-transfer-switch/ad-photo.png",
+    desc: "GEYA G2R smart ATS DIN-rail dual power automatic transfer switch with voltage protection — 2P/4P, 63A, 220V/230V, uninterrupted power.",
+    specs: [["Type", "GEYA G2R Smart ATS, DIN rail, 2P 63A 220V (per listing)"], ["Variants", "G2R 2P 63A 220V / G2R 4P 63A 220V (per listing)"], ["Seller", "GEYA Official Store, 98.15%"]],
+    added: 961,
+    popular: false
+  },
+  {
+    id: "rockbros-bike-bracket-front-lamp-holder",
+    name: "ROCKBROS Bike Bracket Front Lamp Holder Nylon Bicycle Computer Holder Handlebar Speedometer Bracket",
+    short: "ROCKBROS Bike Bracket Front Lamp Holder",
+    price: 5.52,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c4qss3xT",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rockbros-bike-bracket-front-lamp-holder/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rockbros-bike-bracket-front-lamp-holder/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rockbros-bike-bracket-front-lamp-holder/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rockbros-bike-bracket-front-lamp-holder/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rockbros-bike-bracket-front-lamp-holder/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rockbros-bike-bracket-front-lamp-holder/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/rockbros-bike-bracket-front-lamp-holder/ad-photo.png",
+    desc: "ROCKBROS bike bracket front lamp holder — nylon bicycle computer holder, handlebar speedometer bracket for Garmin/Bryton.",
+    specs: [["Type", "ROCKBROS Bike Bracket Front Lamp Holder, nylon (per listing)"], ["Compatibility", "Garmin / Bryton / Wahoo / GoPro (per listing)"], ["Seller", "Stone's Store, 99.83%"]],
+    added: 962,
+    popular: false
+  }
 
 ];
 
