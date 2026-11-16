@@ -23792,6 +23792,82 @@ const PRODUCTS = [
     added: 941,
     popular: false
   }
+,
+  {
+    id: "magnetic-screen-door-curtain-dtgj-anti-mosquito",
+    name: "2021 New Magnetic Screen Door Curtain Anti-Mosquito Net Fly Insect Screen Mesh Automatic Closing Custom Size Easy Installation",
+    short: "Magnetic Screen Door Curtain DTGJ",
+    price: 25.22,
+    oldPrice: 34.13,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c2JzvN77",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-screen-door-curtain-dtgj-anti-mosquito/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-screen-door-curtain-dtgj-anti-mosquito/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-screen-door-curtain-dtgj-anti-mosquito/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-screen-door-curtain-dtgj-anti-mosquito/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-screen-door-curtain-dtgj-anti-mosquito/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-screen-door-curtain-dtgj-anti-mosquito/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/magnetic-screen-door-curtain-dtgj-anti-mosquito/ad-photo.png",
+    desc: "Magnetic screen door curtain — anti-mosquito net fly insect screen mesh, automatic closing, custom size, easy installation.",
+    specs: [["Type", "Magnetic screen door curtain DTGJ, model B2 (per listing title)"], ["Features", "Anti-mosquito net, fly insect screen mesh, automatic closing, custom size (per listing)"], ["Stock", "Low stock — 17 left (per listing)"]],
+    added: 942,
+    popular: false
+  },
+  {
+    id: "ice-roller-stainless-steel-gua-sha-set-face",
+    name: "Ice Roller & Stainless Steel Gua Sha Set for Face Eye and Neck Skin Care Beauty Tools to Brighten Skin and Enhance Natural Glow",
+    short: "Ice Roller & Stainless Steel Gua Sha Set",
+    price: 5.36,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c3Bvbx9B",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ice-roller-stainless-steel-gua-sha-set-face/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ice-roller-stainless-steel-gua-sha-set-face/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ice-roller-stainless-steel-gua-sha-set-face/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ice-roller-stainless-steel-gua-sha-set-face/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ice-roller-stainless-steel-gua-sha-set-face/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ice-roller-stainless-steel-gua-sha-set-face/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ice-roller-stainless-steel-gua-sha-set-face/ad-photo.png",
+    desc: "Ice roller and stainless steel gua sha set — face eye and neck skin care beauty tools to brighten skin and enhance natural glow.",
+    specs: [["Type", "Ice roller & stainless steel gua sha set (per listing title)"], ["Features", "Face eye and neck skin care beauty tools (per listing)"], ["Use", "Brighten skin and enhance natural glow (per listing)"]],
+    added: 943,
+    popular: false
+  },
+  {
+    id: "crazy-fox-hand-grips-weightlifting-pull-up",
+    name: "Crazy Fox Hand Grips Colorful Magnesium Free Calleras Durable Anti-Slip for Weightlifting Pull Up Cross Training Gymnastics",
+    short: "Crazy Fox Hand Grips",
+    price: 27.96,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3Occf4N",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crazy-fox-hand-grips-weightlifting-pull-up/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crazy-fox-hand-grips-weightlifting-pull-up/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crazy-fox-hand-grips-weightlifting-pull-up/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crazy-fox-hand-grips-weightlifting-pull-up/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crazy-fox-hand-grips-weightlifting-pull-up/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crazy-fox-hand-grips-weightlifting-pull-up/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/crazy-fox-hand-grips-weightlifting-pull-up/ad-photo.png",
+    desc: "Crazy Fox hand grips — colorful magnesium free calleras, durable anti-slip for weightlifting, pull up, cross training, gymnastics.",
+    specs: [["Type", "Crazy Fox hand grips, model HG-043-2HKC, rubber, sold as a pair (per listing)"], ["Features", "Colorful, magnesium free, durable anti-slip (per listing)"], ["Use", "Weightlifting, pull up, cross training, gymnastics (per listing)"]],
+    added: 944,
+    popular: false
+  }
 
 ];
 
