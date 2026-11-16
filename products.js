@@ -24172,6 +24172,107 @@ const PRODUCTS = [
     added: 956,
     popular: false
   }
+,
+  {
+    id: "neenca-hinged-knee-brace-hx086",
+    name: "NEENCA Hinged Knee Brace for Knee Pain Knee Support with Side Stabilizers Joint Pain Relief Arthritis Meniscus Tear ACL PCL",
+    short: "NEENCA Hinged Knee Brace HX086",
+    price: 25.27,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "health-care",
+    categoryName: "Health & Personal Care",
+    link: "https://s.click.aliexpress.com/e/_c2Jw8rhB",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/neenca-hinged-knee-brace-hx086/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/neenca-hinged-knee-brace-hx086/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/neenca-hinged-knee-brace-hx086/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/neenca-hinged-knee-brace-hx086/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/neenca-hinged-knee-brace-hx086/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/neenca-hinged-knee-brace-hx086/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/neenca-hinged-knee-brace-hx086/ad-photo.png",
+    desc: "NEENCA hinged knee brace for knee pain — knee support with side stabilizers, joint pain relief, arthritis, meniscus tear, ACL PCL.",
+    specs: [["Type", "NEENCA Hinged Knee Brace HX086 for Adults, neoprene (per listing)"], ["Variants", "Size S / L, Black (per listing)"], ["Seller", "NEENCA Fully Hosted Store, 91.4% (SUB-95% flagged)"]],
+    added: 957,
+    popular: false
+  },
+  {
+    id: "joymaysun-wetsuit-3mm-2mm-neoprene",
+    name: "JoyMaySun Wetsuit 3mm/2mm Neoprene Diving Surfing Suits",
+    short: "JoyMaySun Wetsuit 3mm/2mm Neoprene",
+    price: 32.28,
+    oldPrice: 52.69,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3fqjjUH",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/joymaysun-wetsuit-3mm-2mm-neoprene/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/joymaysun-wetsuit-3mm-2mm-neoprene/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/joymaysun-wetsuit-3mm-2mm-neoprene/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/joymaysun-wetsuit-3mm-2mm-neoprene/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/joymaysun-wetsuit-3mm-2mm-neoprene/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/joymaysun-wetsuit-3mm-2mm-neoprene/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/joymaysun-wetsuit-3mm-2mm-neoprene/ad-photo.png",
+    desc: "JoyMaySun wetsuit 3mm/2mm neoprene diving surfing suit — snorkeling, kayaking, spearfishing, freediving, swimming, full body thermal keep warm.",
+    specs: [["Type", "JoyMaySun Wetsuit 3mm/2mm Neoprene, Men's Black001 (per listing)"], ["Variants", "2MM/S / 2MM/4XL / 3MM/4XL (per listing)"], ["Thickness", "2mm / 3mm neoprene (per listing)"]],
+    added: 958,
+    popular: false
+  },
+  {
+    id: "natural-crystal-point-healing-stone",
+    name: "Natural Crystal Point Healing Stone Magic Wand Chakra Stone Collection",
+    short: "Natural Crystal Point Healing Stone",
+    price: 18.60,
+    oldPrice: 21.23,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c3puo1Yl",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/natural-crystal-point-healing-stone/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/natural-crystal-point-healing-stone/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/natural-crystal-point-healing-stone/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/natural-crystal-point-healing-stone/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/natural-crystal-point-healing-stone/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/natural-crystal-point-healing-stone/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/natural-crystal-point-healing-stone/ad-photo.png",
+    desc: "Natural crystal point healing stone magic wand — chakra stone collection, Reiki crystal crafts with gift box.",
+    specs: [["Type", "Natural crystal point healing stone, magic wand, chakra stone collection (per listing)"], ["Variants", "Rose quartz and others (per listing)"], ["Includes", "Gift box (per listing)"]],
+    added: 959,
+    popular: false
+  },
+  {
+    id: "onemix-white-road-running-shoes",
+    name: "ONEMIX White Road Running Shoes for Men Air Cushion Outdoor Sport Shoes",
+    short: "ONEMIX White Road Running Shoes",
+    price: 46.46,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3gLJxxj",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/onemix-white-road-running-shoes/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/onemix-white-road-running-shoes/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/onemix-white-road-running-shoes/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/onemix-white-road-running-shoes/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/onemix-white-road-running-shoes/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/onemix-white-road-running-shoes/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/onemix-white-road-running-shoes/ad-photo.png",
+    desc: "ONEMIX white road running shoes for men — air cushion outdoor sport shoes, male trainers, summer jogging shoes.",
+    specs: [["Type", "ONEMIX White Road Running Shoes, model 21608 Bumper Elite, unisex (per listing)"], ["Variants", "Lanbo yellow, size 12 shown; other colors/sizes (per listing)"], ["Seller", "onemix Official Store, 96.06%"]],
+    added: 960,
+    popular: false
+  }
 
 ];
 
