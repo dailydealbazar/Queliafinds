@@ -24676,6 +24676,32 @@ const PRODUCTS = [
     added: 976,
     popular: false
   }
+,
+  {
+    id: "ajazz-nacodex-nk68-mechanical-keyboard",
+    name: "New Ajazz Nacodex Nk68 Mechanical Keyboard Terrain Keycap Rgb Light Bar 68-Key Wired Gaming Office Wired Connect Keyboard",
+    short: "Ajazz Nacodex Nk68 Mechanical Keyboard",
+    price: 40.23,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3lo1yA9",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ajazz-nacodex-nk68-mechanical-keyboard/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ajazz-nacodex-nk68-mechanical-keyboard/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ajazz-nacodex-nk68-mechanical-keyboard/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ajazz-nacodex-nk68-mechanical-keyboard/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ajazz-nacodex-nk68-mechanical-keyboard/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ajazz-nacodex-nk68-mechanical-keyboard/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/ajazz-nacodex-nk68-mechanical-keyboard/ad-photo.png",
+    desc: "Ajazz Nacodex Nk68 mechanical keyboard, Terrain keycap, RGB light bar, 68-key, wired, gaming / office.",
+    specs: [["Type", "Ajazz Nacodex Nk68 Mechanical Keyboard, Terrain keycap, RGB light bar, 68-key wired (per listing)"], ["Variant", "Black contour lines (per listing)"], ["Seller", "Ajazz Official Store, 93.54%"]],
+    added: 977,
+    popular: false
+  }
 
 ];
 
