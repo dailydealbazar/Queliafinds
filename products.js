@@ -24702,6 +24702,82 @@ const PRODUCTS = [
     added: 977,
     popular: false
   }
+,
+  {
+    id: "histello-sports-set-2-piece-women-gym-yoga-bra-shorts",
+    name: "HISTELLO Sports Set 2 Piece Women Strappy Gym Yoga Bra Workout Scrunch Shorts Fitness Sports Suit Clothes Seamless Yoga Set",
+    short: "HISTELLO Sports Set 2 Piece Women Gym Yoga Bra Shorts",
+    price: 5.23,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3xRL9X7",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/histello-sports-set-2-piece-women-gym-yoga-bra-shorts/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/histello-sports-set-2-piece-women-gym-yoga-bra-shorts/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/histello-sports-set-2-piece-women-gym-yoga-bra-shorts/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/histello-sports-set-2-piece-women-gym-yoga-bra-shorts/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/histello-sports-set-2-piece-women-gym-yoga-bra-shorts/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/histello-sports-set-2-piece-women-gym-yoga-bra-shorts/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/histello-sports-set-2-piece-women-gym-yoga-bra-shorts/ad-photo.png",
+    desc: "HISTELLO sports set, 2 piece women strappy gym yoga bra, workout scrunch shorts, seamless yoga set.",
+    specs: [["Type", "HISTELLO Sports Set 2 Piece Women Strappy Gym Yoga Bra Workout Scrunch Shorts (per listing)"], ["Variant", "Coffee, size L (per listing)"], ["Seller", "Histello Gym Sports Store, 94.3%"]],
+    added: 978,
+    popular: false
+  },
+  {
+    id: "enjoyhigh-herbability-decarboxylator-infusion-machine",
+    name: "EnjoyHigh HerbAbility Decarboxylator and Infusion Machine, Herbal Oil, Tincture Maker, Oil Infusion and Decarb Machine",
+    short: "EnjoyHigh HerbAbility Decarboxylator and Infusion Machine",
+    price: 77.24,
+    oldPrice: 78.36,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c40E6tpJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/enjoyhigh-herbability-decarboxylator-infusion-machine/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/enjoyhigh-herbability-decarboxylator-infusion-machine/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/enjoyhigh-herbability-decarboxylator-infusion-machine/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/enjoyhigh-herbability-decarboxylator-infusion-machine/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/enjoyhigh-herbability-decarboxylator-infusion-machine/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/enjoyhigh-herbability-decarboxylator-infusion-machine/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/enjoyhigh-herbability-decarboxylator-infusion-machine/ad-photo.png",
+    desc: "EnjoyHigh HerbAbility decarboxylator and infusion machine, herbal oil and tincture maker.",
+    specs: [["Type", "EnjoyHigh HerbAbility Decarboxylator and Infusion Machine (per listing)"], ["Variant", "AU plug (per listing)"], ["Seller", "EnjoyHigh Store, 91.76%"]],
+    added: 979,
+    popular: false
+  },
+  {
+    id: "zemismart-zigbee-roller-shade-motor",
+    name: "Zemismart Zigbee Roller Shade Motor with Battery For 37 38mm Tube Works with Tuya and Smart Life APP Alexa Google Home Control",
+    short: "Zemismart Zigbee Roller Shade Motor",
+    price: 45.52,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3QQQJeD",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zemismart-zigbee-roller-shade-motor/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zemismart-zigbee-roller-shade-motor/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zemismart-zigbee-roller-shade-motor/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zemismart-zigbee-roller-shade-motor/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zemismart-zigbee-roller-shade-motor/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zemismart-zigbee-roller-shade-motor/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/zemismart-zigbee-roller-shade-motor/ad-photo.png",
+    desc: "Zemismart Zigbee roller shade motor with battery, 37/38mm tube, Tuya / Smart Life, Alexa / Google Home.",
+    specs: [["Type", "Zemismart Zigbee Roller Shade Motor with Battery, 37/38mm tube (per listing)"], ["Variant", "Motor only (per listing)"], ["Seller", "zemismart Official Store, 93.95%"]],
+    added: 980,
+    popular: false
+  }
 
 ];
 
