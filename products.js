@@ -25178,6 +25178,126 @@ const PRODUCTS = [
     added: 996,
     popular: false
   }
+,
+  {
+    id: "soft-silicone-watch-strap-for-google-fitbit-air",
+    name: "Soft Silicone Watch Strap for Google Fitbit Air (Rubber Replacement Bracelet Watch Band)",
+    short: "Soft Silicone Watch Strap for Google Fitbit Air",
+    price: 3.08,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c4OE5APn",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/soft-silicone-watch-strap-for-google-fitbit-air/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/soft-silicone-watch-strap-for-google-fitbit-air/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/soft-silicone-watch-strap-for-google-fitbit-air/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/soft-silicone-watch-strap-for-google-fitbit-air/photo-4.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/soft-silicone-watch-strap-for-google-fitbit-air/ad-photo.png",
+    desc: "Soft silicone replacement watch strap for Google Fitbit Air, rubber bracelet watch band.",
+    specs: [["Type", "Soft Silicone Watch Strap for Google Fitbit Air (per listing)"], ["Variant", "Black / White (per listing)"], ["Seller", "Mptionx Official Store, 93.01%"]],
+    added: 997,
+    popular: false
+  },
+  {
+    id: "kz-castor-pro-2dd-wired-in-ear-earphones",
+    name: "KZ Castor PRO 2DD Wired In-Ear Earphones (Improved Bass MIC)",
+    short: "KZ Castor PRO 2DD Wired In-Ear Earphones",
+    price: 9.11,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3UNVlyN",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-castor-pro-2dd-wired-in-ear-earphones/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-castor-pro-2dd-wired-in-ear-earphones/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-castor-pro-2dd-wired-in-ear-earphones/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-castor-pro-2dd-wired-in-ear-earphones/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-castor-pro-2dd-wired-in-ear-earphones/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-castor-pro-2dd-wired-in-ear-earphones/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kz-castor-pro-2dd-wired-in-ear-earphones/ad-photo.png",
+    desc: "KZ Castor PRO 2DD wired in-ear earphones, improved bass, with microphone.",
+    specs: [["Type", "KZ Castor PRO 2DD Wired In-Ear Earphones (per listing)"], ["Variant", "Improved Bass MIC (per listing)"], ["Seller", "KZ Globol Store, 95.03%"]],
+    added: 998,
+    popular: false
+  },
+  {
+    id: "dixsg-37-82mm-step-up-down-camera-lens-filter-ring-adapter",
+    name: "DIXSG 37-82mm Step Up & Down Camera Lens Filter Ring Adapter (9pc up 37 to 82 / 9pc down 82 to 37 / 18pc up and down)",
+    short: "DIXSG 37-82mm Step Up & Down Camera Lens Filter Ring Adapter",
+    price: 4.11,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4t0Migv",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dixsg-37-82mm-step-up-down-camera-lens-filter-ring-adapter/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dixsg-37-82mm-step-up-down-camera-lens-filter-ring-adapter/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dixsg-37-82mm-step-up-down-camera-lens-filter-ring-adapter/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dixsg-37-82mm-step-up-down-camera-lens-filter-ring-adapter/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dixsg-37-82mm-step-up-down-camera-lens-filter-ring-adapter/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dixsg-37-82mm-step-up-down-camera-lens-filter-ring-adapter/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/dixsg-37-82mm-step-up-down-camera-lens-filter-ring-adapter/ad-photo.png",
+    desc: "Camera lens filter ring adapter set, step up and down 37-82mm.",
+    specs: [["Type", "DIXSG 37-82mm Step Up & Down Camera Lens Filter Ring Adapter (per listing)"], ["Variant", "9pc up / 9pc down / 18pc up and down (per listing)"], ["Seller", "Professional 3C Accessories Store, 93.92%"]],
+    added: 999,
+    popular: false
+  },
+  {
+    id: "7-micro-preemie-full-silicone-reborn-doll-noah",
+    name: "7-Inch Micro Preemie Full Silicone Reborn Doll Noah (Lifelike Mini Reborn Doll, MIRE & MIRE)",
+    short: "7-Inch Micro Preemie Full Silicone Reborn Doll Noah",
+    price: 26.33,
+    oldPrice: 36.27,
+    rating: null,
+    badge: "Top On Sale",
+    category: "toys-gifts",
+    categoryName: "Toys & Gifts",
+    link: "https://s.click.aliexpress.com/e/_c2J2rEHx",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/7-micro-preemie-full-silicone-reborn-doll-noah/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/7-micro-preemie-full-silicone-reborn-doll-noah/photo-2.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/7-micro-preemie-full-silicone-reborn-doll-noah/ad-photo.png",
+    desc: "7-inch micro preemie full silicone reborn doll, lifelike mini doll, MIRE & MIRE.",
+    specs: [["Type", "7-Inch Micro Preemie Full Silicone Reborn Doll Noah (per listing)"], ["Variant", "Smile Boy Noah (per listing)"], ["Seller", "MIRE MIRE Store, 92.88%"]],
+    added: 1000,
+    popular: false
+  },
+  {
+    id: "swimming-goggles-for-hyperopia-myopia-adult-teen-kid-universal-adjustable-prescription-swimming-goggles-for-different-eyes",
+    name: "Swimming Goggles for Hyperopia Myopia - Adult Teen Kid Universal Adjustable Prescription Swimming Goggles for Different Eyes (EnzoDate)",
+    short: "EnzoDate Prescription Swimming Goggles for Hyperopia Myopia",
+    price: 14.31,
+    oldPrice: 15.90,
+    rating: null,
+    badge: "Top On Sale",
+    category: "sports-fitness",
+    categoryName: "Sports & Fitness",
+    link: "https://s.click.aliexpress.com/e/_c3hlDdUl",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/swimming-goggles-for-hyperopia-myopia-adult-teen-kid-universal-adjustable-prescription-swimming-goggles-for-different-eyes/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/swimming-goggles-for-hyperopia-myopia-adult-teen-kid-universal-adjustable-prescription-swimming-goggles-for-different-eyes/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/swimming-goggles-for-hyperopia-myopia-adult-teen-kid-universal-adjustable-prescription-swimming-goggles-for-different-eyes/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/swimming-goggles-for-hyperopia-myopia-adult-teen-kid-universal-adjustable-prescription-swimming-goggles-for-different-eyes/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/swimming-goggles-for-hyperopia-myopia-adult-teen-kid-universal-adjustable-prescription-swimming-goggles-for-different-eyes/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/swimming-goggles-for-hyperopia-myopia-adult-teen-kid-universal-adjustable-prescription-swimming-goggles-for-different-eyes/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/swimming-goggles-for-hyperopia-myopia-adult-teen-kid-universal-adjustable-prescription-swimming-goggles-for-different-eyes/ad-photo.png",
+    desc: "Adjustable prescription swimming goggles for hyperopia and myopia, adult, teen and kid, different diopter per eye.",
+    specs: [["Type", "Swimming Goggles for Hyperopia Myopia (per listing)"], ["Variant", "Diopter 0, +1.0 to +8.0, -1.0 to -8.0 (per listing)"], ["Seller", "EnSu Outdoor Store, 94.46%"]],
+    added: 1001,
+    popular: false
+  }
 
 ];
 
