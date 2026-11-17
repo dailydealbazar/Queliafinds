@@ -25102,6 +25102,82 @@ const PRODUCTS = [
     added: 993,
     popular: false
   }
+,
+  {
+    id: "kuxm-hub-little-gaming-usb-hub",
+    name: "KUXM Hub little Gaming USB Hub 1 In 3 Out Portable Desktop Expansion Dock with Aluminum Frame & Double Glass Shell",
+    short: "KUXM Hub little Gaming USB Hub",
+    price: 7.46,
+    oldPrice: 8.29,
+    rating: null,
+    badge: "Top On Sale",
+    category: "mobile-accessories",
+    categoryName: "Mobile Accessories",
+    link: "https://s.click.aliexpress.com/e/_c44qF6AN",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kuxm-hub-little-gaming-usb-hub/main.png",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kuxm-hub-little-gaming-usb-hub/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kuxm-hub-little-gaming-usb-hub/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kuxm-hub-little-gaming-usb-hub/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kuxm-hub-little-gaming-usb-hub/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kuxm-hub-little-gaming-usb-hub/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/kuxm-hub-little-gaming-usb-hub/ad-photo.png",
+    desc: "1-in-3-out USB 2.0 gaming hub, aluminum frame, double glass shell.",
+    specs: [["Type", "KUXM Hub little Gaming USB Hub (per listing)"], ["Variant", "Hub little (per listing)"], ["Seller", "NexusNook Store, 95.5%"]],
+    added: 994,
+    popular: false
+  },
+  {
+    id: "north-edge-anchor-42mm-men-mechanical-wristwatch",
+    name: "NORTH EDGE ANCHOR 42MM Men Mechanical Wristwatch Luxury Sapphire Glass MIYOTA 8215 Automatic Watches 10bar Waterproof Watch Men",
+    short: "NORTH EDGE ANCHOR 42MM Men Mechanical Wristwatch",
+    price: 66.04,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c2QGjy7f",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/north-edge-anchor-42mm-men-mechanical-wristwatch/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/north-edge-anchor-42mm-men-mechanical-wristwatch/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/north-edge-anchor-42mm-men-mechanical-wristwatch/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/north-edge-anchor-42mm-men-mechanical-wristwatch/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/north-edge-anchor-42mm-men-mechanical-wristwatch/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/north-edge-anchor-42mm-men-mechanical-wristwatch/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/north-edge-anchor-42mm-men-mechanical-wristwatch/ad-photo.png",
+    desc: "Mechanical automatic watch, MIYOTA 8215, sapphire glass, 100m waterproof, Blue.",
+    specs: [["Type", "NORTH EDGE ANCHOR 42MM Men Mechanical Wristwatch (per listing)"], ["Variant", "Blue (per listing)"], ["Seller", "NORTH EDGE Official Store, 94.24%"]],
+    added: 995,
+    popular: false
+  },
+  {
+    id: "guition-7-inch-ips-touch-screen-development-board-esp32-p4-c6",
+    name: "GUITION 7-inch IPS Touch Screen Development Board ESP32-P4/C6, model JC1060P470C",
+    short: "GUITION 7-inch IPS Touch Screen Development Board ESP32-P4/C6",
+    price: 33.64,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c3B4Jikt",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guition-7-inch-ips-touch-screen-development-board-esp32-p4-c6/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guition-7-inch-ips-touch-screen-development-board-esp32-p4-c6/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guition-7-inch-ips-touch-screen-development-board-esp32-p4-c6/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guition-7-inch-ips-touch-screen-development-board-esp32-p4-c6/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guition-7-inch-ips-touch-screen-development-board-esp32-p4-c6/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guition-7-inch-ips-touch-screen-development-board-esp32-p4-c6/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/guition-7-inch-ips-touch-screen-development-board-esp32-p4-c6/ad-photo.png",
+    desc: "7-inch IPS touch screen dev board, ESP32-P4 + ESP32-C6, WiFi 6, Bluetooth.",
+    specs: [["Type", "GUITION 7-inch IPS Touch Screen Development Board (per listing)"], ["Variant", "JC1060P470C (per listing)"], ["Seller", "Guition Store, 93.63%"]],
+    added: 996,
+    popular: false
+  }
 
 ];
 
