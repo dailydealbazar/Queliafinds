@@ -25026,6 +25026,82 @@ const PRODUCTS = [
     added: 990,
     popular: false
   }
+,
+  {
+    id: "electric-wire-connector-no-strip-quick-connect",
+    name: "Electric Wire Connector No Strip And No Damage Plug Socket Quick Wire Connector 12V 3 Way Quick Connect Wiring Terminal",
+    short: "Electric Wire Connector No Strip Quick Connect",
+    price: 5.60,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c3qc6voN",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-wire-connector-no-strip-quick-connect/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-wire-connector-no-strip-quick-connect/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-wire-connector-no-strip-quick-connect/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-wire-connector-no-strip-quick-connect/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-wire-connector-no-strip-quick-connect/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-wire-connector-no-strip-quick-connect/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/electric-wire-connector-no-strip-quick-connect/ad-photo.png",
+    desc: "12V 3-way quick wire connector, D2 50PCS.",
+    specs: [["Type", "Electric Wire Connector No Strip And No Damage Plug Socket Quick Wire Connector (per listing)"], ["Variant", "D2 50PCS (per listing)"], ["Seller", "WANGZIKANG Gadget Grove Store, 93.09%"]],
+    added: 991,
+    popular: false
+  },
+  {
+    id: "womens-shinny-sequin-angel-wings-hooded-jacket",
+    name: "Women's Shinny Sequin Angel Wings Hooded Jacket Pant Long Sleeve Loose Casual Hooded Pullover 2025 New Women Fashion Top",
+    short: "Women's Shinny Sequin Angel Wings Hooded Jacket",
+    price: 12.16,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3JuEsrn",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-shinny-sequin-angel-wings-hooded-jacket/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-shinny-sequin-angel-wings-hooded-jacket/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-shinny-sequin-angel-wings-hooded-jacket/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-shinny-sequin-angel-wings-hooded-jacket/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-shinny-sequin-angel-wings-hooded-jacket/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-shinny-sequin-angel-wings-hooded-jacket/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/womens-shinny-sequin-angel-wings-hooded-jacket/ad-photo.png",
+    desc: "Sequin angel-wings hooded jacket, grey Hoodie S.",
+    specs: [["Type", "Women's Shinny Sequin Angel Wings Hooded Jacket (per listing)"], ["Variant", "Grey Hoodie S (per listing)"], ["Seller", "Sexy Boutique Store, 94.54%"]],
+    added: 992,
+    popular: false
+  },
+  {
+    id: "eoenkk-4k-webcam-with-microphone",
+    name: "4K Webcam Video Camera 2K Autofocus Streaming Web Cam With Microphone Full HD 1080P Webcams for PC/Computer/Laptop (EOENKK)",
+    short: "EOENKK 4K Webcam With Microphone",
+    price: 6.99,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "digital",
+    categoryName: "Digital Products",
+    link: "https://s.click.aliexpress.com/e/_c4DrtNpr",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/eoenkk-4k-webcam-with-microphone/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/eoenkk-4k-webcam-with-microphone/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/eoenkk-4k-webcam-with-microphone/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/eoenkk-4k-webcam-with-microphone/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/eoenkk-4k-webcam-with-microphone/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/eoenkk-4k-webcam-with-microphone/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/eoenkk-4k-webcam-with-microphone/ad-photo.png",
+    desc: "EOENKK webcam with microphone, 1080P variant.",
+    specs: [["Type", "EOENKK 4K Webcam Video Camera (per listing)"], ["Variant", "1080P (per listing)"], ["Seller", "God Of War Store, 92.34%"]],
+    added: 993,
+    popular: false
+  }
 
 ];
 
