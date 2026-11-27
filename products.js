@@ -25993,6 +25993,132 @@ const PRODUCTS = [
     added: 1029,
     popular: false
   }
+,
+  {
+    id: "denokin-digital-espresso-machine",
+    name: "DENOKIN 3-in-1 Capsule Coffee Maker With Digital Display Portable Espresso Coffee Machine for Car & Home Camping Coffee Maker",
+    short: "DENOKIN Digital Espresso Machine",
+    price: 31.21,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c2uZbf5n",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/denokin-digital-espresso-machine/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/denokin-digital-espresso-machine/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/denokin-digital-espresso-machine/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/denokin-digital-espresso-machine/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/denokin-digital-espresso-machine/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/denokin-digital-espresso-machine/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/denokin-digital-espresso-machine/ad-photo.png",
+    desc: "DENOKIN 3-in-1 capsule coffee maker with digital display, portable espresso coffee machine for car and home camping.",
+    specs: [["Type", "DENOKIN 3-in-1 Capsule Coffee Maker With Digital Display Portable Espresso Coffee Machine for Car & Home Camping Coffee Maker (per listing)"], ["Variant", "Color: blacks (also blacks-no bag, White, Metallic Green)"], ["Seller", "DENOKIN Store (feedback % not shown on listing page)"]],
+    added: 1030,
+    popular: false
+  },
+  {
+    id: "denokin-wireless-espresso-machine",
+    name: "Wireless Electric Portable Espresso Coffee Machine for Car & Home Camping Coffee Maker 3-in-1 Capsule Powder Travel Coffee Maker",
+    short: "DENOKIN Wireless Espresso Machine",
+    price: 29.00,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "electronics",
+    categoryName: "Electronics",
+    link: "https://s.click.aliexpress.com/e/_c2J4SxAv",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/denokin-wireless-espresso-machine/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/denokin-wireless-espresso-machine/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/denokin-wireless-espresso-machine/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/denokin-wireless-espresso-machine/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/denokin-wireless-espresso-machine/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/denokin-wireless-espresso-machine/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/denokin-wireless-espresso-machine/ad-photo.png",
+    desc: "Wireless electric portable espresso coffee machine for car and home camping, 3-in-1 capsule powder travel coffee maker.",
+    specs: [["Type", "Wireless Electric Portable Espresso Coffee Machine for Car & Home Camping Coffee Maker 3-in-1 Capsule Powder Travel Coffee Maker (per listing)"], ["Variant", "Color: black (also Metallic grey, black 2.0, black 2.0 bag, white, Metallic green)"], ["Seller", "DENOKIN Store (feedback % not shown on listing page)"]],
+    added: 1031,
+    popular: false
+  },
+  {
+    id: "bafengs-rainbow-knife-set",
+    name: "BAFENGS Rainbow Knife Set",
+    short: "BAFENGS Rainbow Knife Set",
+    price: 3.28,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "home-kitchen",
+    categoryName: "Home & Kitchen",
+    link: "https://s.click.aliexpress.com/e/_c2uCGPzJ",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bafengs-rainbow-knife-set/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bafengs-rainbow-knife-set/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bafengs-rainbow-knife-set/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bafengs-rainbow-knife-set/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bafengs-rainbow-knife-set/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bafengs-rainbow-knife-set/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/bafengs-rainbow-knife-set/ad-photo.png",
+    desc: "BAFENGS rainbow knife set.",
+    specs: [["Type", "BAFENGS Rainbow Knife Set"], ["Seller", "BAFENGS (store name/feedback not shown — listing page would not render)"]],
+    added: 1032,
+    popular: false
+  },
+  {
+    id: "sadoer-coconut-lip-balm",
+    name: "Coconut Lip Balm Lasting Nourishment and Moisture for Men and Women Daily Care Lip Balm",
+    short: "SADOER Coconut Lip Balm",
+    price: 0.55,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c2QXfFn3",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sadoer-coconut-lip-balm/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sadoer-coconut-lip-balm/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sadoer-coconut-lip-balm/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sadoer-coconut-lip-balm/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sadoer-coconut-lip-balm/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sadoer-coconut-lip-balm/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/sadoer-coconut-lip-balm/ad-photo.png",
+    desc: "Coconut lip balm, lasting nourishment and moisture for men and women, daily care lip balm.",
+    specs: [["Type", "Coconut Lip Balm Lasting Nourishment and Moisture for Men and Women Daily Care Lip Balm (per listing)"], ["Variant", "Color: Coconut (also 2PCS, 4pcs Lip Balm, Aloe)"], ["Seller", "RAYMENA Professional Beauty Store (feedback % not shown on listing page)"]],
+    added: 1033,
+    popular: false
+  },
+  {
+    id: "nail-gel-polish-kit-with-led-nail-lamp-27-colors",
+    name: "Nail Gel Polish Kit With LED Nail Lamp Semi-Permanent 27 Colors Soak Off Base&Top Coat Varnish Manicure Set For Nails Salon Kit",
+    short: "Nail Gel Polish Kit with LED Lamp",
+    price: 20.06,
+    oldPrice: null,
+    rating: null,
+    badge: "Top On Sale",
+    category: "fashion-beauty",
+    categoryName: "Fashion & Beauty",
+    link: "https://s.click.aliexpress.com/e/_c3AnMipb",
+    images: [
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nail-gel-polish-kit-with-led-nail-lamp-27-colors/main.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nail-gel-polish-kit-with-led-nail-lamp-27-colors/photo-2.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nail-gel-polish-kit-with-led-nail-lamp-27-colors/photo-3.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nail-gel-polish-kit-with-led-nail-lamp-27-colors/photo-4.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nail-gel-polish-kit-with-led-nail-lamp-27-colors/photo-5.jpg",
+      "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nail-gel-polish-kit-with-led-nail-lamp-27-colors/photo-6.jpg"
+    ],
+    poster: "https://res.cloudinary.com/oyazitkv/image/upload/f_auto,q_auto/daily-deal-bazar/nail-gel-polish-kit-with-led-nail-lamp-27-colors/ad-photo.png",
+    desc: "Nail gel polish kit with LED nail lamp, semi-permanent 27 colors, soak off base and top coat varnish, manicure set for nails salon kit.",
+    specs: [["Type", "Nail Gel Polish Kit With LED Nail Lamp Semi-Permanent 27 Colors Soak Off Base&Top Coat Varnish Manicure Set For Nails Salon Kit (per listing)"], ["Variant", "Color: SMT80-23Max-1-27 (only option shown)"], ["Seller", "LNWPYH Official Store (feedback % not shown on listing page)"]],
+    added: 1034,
+    popular: false
+  }
 
 ];
 
