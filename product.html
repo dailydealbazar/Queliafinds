@@ -14,6 +14,7 @@
 <meta property="og:description" content="Product details at Quelia Finds — real prices, honest reviews and secure checkout with buyer protection on AliExpress.">
 <meta property="og:image" content="https://queliafinds.publicvm.com/assets/quelia-logo.png">
 <link rel="canonical" id="canonicalLink" href="https://queliafinds.publicvm.com/product.html">
+<script type="application/ld+json" id="productJsonLd"></script>
 <link rel="stylesheet" href="style.css?v=200">
 <script src="countries.js?v=3"></script>
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7057239487273648"
@@ -170,6 +171,10 @@ if (!p) {
   setMeta('meta[property="og:description"]', (p.desc || p.short).slice(0, 160));
   setMeta('meta[property="og:image"]', p.images[0]);
   setMeta('meta[property="og:url"]', "https://queliafinds.publicvm.com/product.html?id=" + p.id);
+  // Per-product structured data (Product JSON-LD) — only real fields from products.js.
+  // No aggregateRating: products.js carries no rating/review data, so none is claimed.
+  var _ld = {"@context":"https://schema.org","@type":"Product","name":p.short,"image":p.images[0],"description":(p.desc||p.short).slice(0,300),"category":p.categoryName,"url":"https://queliafinds.publicvm.com/product.html?id="+p.id,"offers":{"@type":"Offer","url":p.link,"priceCurrency":"USD","price":p.price,"availability":"https://schema.org/InStock"}};
+  document.getElementById("productJsonLd").textContent = JSON.stringify(_ld);
   document.getElementById("crumbName").textContent = p.short;
   const rating = p.rating ? `<div class="p-rating">★ ${p.rating}</div>` : "";
   const badge = p.badge ? `<span class="p-badge" style="position:static">${p.badge}</span>` : "";
